@@ -6,13 +6,14 @@
 
 ## Solved Problems
 
-|     | Easy | Medium | Hard | Total |
-|:---:|:----:|:------:|:----:|:-----:|
-|**Accepted**|  1   |   0    |  0   |   1   |
-|**Total**| 565  |  1197  | 485  | 2247  |
+| | Easy | Medium | Hard | Total |
+|:---:|:---:|:---:|:---:|:---:|
+| **Accepted** | 1 | 0 | 0 | 1 |
+| **Total** | 565 | 1197 | 485 | 2247 |
 
 ## Solution
 
-|Number|Title|Difficulty|Favorite|
-|:-:|:-|:-: | :-: | :-: |
-|[0001](https://leetcode.com/problems/two-sum/)| [Two Sum](./Algorithms/1-100/0001-two-sum)|46%|EASY|⭐|
+
+| Number | Title | Difficulty | Favorite |
+|:----:|:----:|:----:|:----:|
+| [0001](https://leetcode.com/problems/two-sum/) | [Two Sum](./Algorithms/1-100/0001-two-sum) | EASY | ⭐ |
