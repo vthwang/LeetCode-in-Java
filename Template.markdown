@@ -3,7 +3,7 @@
 {{.Badges}}
 
 ## Clone this repository
-1. Follow the guideline in the [doc](./instructions.md).
+1. Read [doc](./instructions.md).
 
 ## Solved Problems
 

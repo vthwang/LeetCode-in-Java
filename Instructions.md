@@ -6,7 +6,7 @@
     ```
 2. Generate the MarkdownGenerator.
     ```
-    cd MarkdownGenerator && make
+    cd MarkdownGenerator && make && ..
     ```
 
 # Usage
