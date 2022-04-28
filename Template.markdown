@@ -3,7 +3,7 @@
 {{.Badges}}
 
 ## Clone this repository
-1. Read [doc](./instructions.md).
+1. Read [doc](./Instructions.md).
 
 ## Solved Problems
 

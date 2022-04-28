@@ -5,7 +5,7 @@
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
-1. Read [doc](./instructions.md).
+1. Read [doc](./Instructions.md).
 
 ## Solved Problems
 
