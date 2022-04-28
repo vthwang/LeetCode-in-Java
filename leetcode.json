@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 2433026,
-	"Updated": "2022-04-28T13:52:44.391845-04:00",
+	"Updated": "2022-04-28T13:57:04.297826-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 2,
@@ -24467,7 +24467,7 @@
 			"ID": 2222,
 			"Title": "Number of Ways to Select Buildings",
 			"TitleSlug": "number-of-ways-to-select-buildings",
-			"PassRate": "44%",
+			"PassRate": "45%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24819,7 +24819,7 @@
 			"ID": 2254,
 			"Title": "Design Video Sharing Platform",
 			"TitleSlug": "design-video-sharing-platform",
-			"PassRate": "62%",
+			"PassRate": "60%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,

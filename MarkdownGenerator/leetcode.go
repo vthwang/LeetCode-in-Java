@@ -139,11 +139,11 @@ func (lc *leetcode) Badges() string {
 		log.Fatalf("thounsands error: %s", err.Error())
 	}
 
-	ranking := "[![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-" + r + "-blue.svg)](https://leetcode.com/TingSyuanWang/)"
+	ranking := "[![LeetCode Ranking](https://img.shields.io/badge/" + lc.Username + "-" + r + "-blue.svg)](https://leetcode.com/TingSyuanWang/)"
 
 	s := strconv.Itoa(lc.Record.Total.Solved)
 
-	solved := "[![Solved](https://img.shields.io/badge/Solved-" + s + "-blue.svg)](https://leetcode.com/TingSyuanWang/)"
+	solved := "[![Solved](https://img.shields.io/badge/Solved-" + s + "-blue.svg)](https://leetcode.com/" + lc.Username + "/)"
 
 	language := " [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)"
 
