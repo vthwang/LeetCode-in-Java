@@ -2,6 +2,9 @@
 
 {{.Badges}}
 
+## Clone this repository
+1. Follow the guideline in the [doc](./instructions.md).
+
 ## Solved Problems
 
 {{.SolvedProblemsTable}}

@@ -4,6 +4,8 @@
 [![Solved](https://img.shields.io/badge/Solved-2-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
+##
+
 ## Solved Problems
 
 | | Easy | Medium | Hard | Total |
