@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	md "github.com/JohannesKaufmann/html-to-markdown"
-	"github.com/TingSyuanWang/LeetCode-in-Java/Helper/libs"
+	"github.com/TingSyuanWang/LeetCode-in-Java/MarkdownGenerator/libs"
 	"log"
 	"os"
 	"runtime/debug"
@@ -86,7 +86,7 @@ func creatREADME(p problem, s string) {
 
 	s, _ = converter.ConvertString(s)
 
-	content := fmt.Sprintf(fileFormat, p.ID, p.Title, p.link()) + "\n\n" + s + "\n\n## Possible Solutions\n\n"
+	content := fmt.Sprintf(fileFormat, p.ID, p.Title, p.link()) + "\n\n" + s + "\n\n## Solutions\n\n"
 
 	filename := fmt.Sprintf("%s/README.md", p.Dir())
 

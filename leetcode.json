@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 2433026,
-	"Updated": "2022-04-28T13:01:37.304465-04:00",
+	"Updated": "2022-04-28T13:38:51.96062-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 2,
@@ -7615,7 +7615,7 @@
 			"ID": 690,
 			"Title": "Employee Importance",
 			"TitleSlug": "employee-importance",
-			"PassRate": "63%",
+			"PassRate": "64%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -21904,7 +21904,7 @@
 			"ID": 1989,
 			"Title": "Maximum Number of People That Can Be Caught in Tag",
 			"TitleSlug": "maximum-number-of-people-that-can-be-caught-in-tag",
-			"PassRate": "54%",
+			"PassRate": "53%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

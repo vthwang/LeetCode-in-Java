@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"github.com/TingSyuanWang/LeetCode-in-Java/Helper/libs"
+	"github.com/TingSyuanWang/LeetCode-in-Java/MarkdownGenerator/libs"
 	"html/template"
 	"io/ioutil"
 	"log"

@@ -1221,7 +1221,7 @@
 |[0693](https://leetcode.com/problems/binary-number-with-alternating-bits/)| * Binary Number with Alternating Bits|60%|Easy||
 |[0692](https://leetcode.com/problems/top-k-frequent-words/)| * Top K Frequent Words|54%|Medium||
 |[0691](https://leetcode.com/problems/stickers-to-spell-word/)| * Stickers to Spell Word|46%|Hard||
-|[0690](https://leetcode.com/problems/employee-importance/)| * Employee Importance|63%|Medium||
+|[0690](https://leetcode.com/problems/employee-importance/)| * Employee Importance|64%|Medium||
 |[0689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)| * Maximum Sum of 3 Non-Overlapping Subarrays|48%|Hard||
 |[0688](https://leetcode.com/problems/knight-probability-in-chessboard/)| * Knight Probability in Chessboard|51%|Medium||
 |[0687](https://leetcode.com/problems/longest-univalue-path/)| * Longest Univalue Path|39%|Medium||
