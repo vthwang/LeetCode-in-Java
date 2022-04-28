@@ -14,7 +14,7 @@
 .glide/
 *.cookie
 *.toml
-helpers
+leetcodeHelper
 *.zip
 tasks.txt
 testDir/
