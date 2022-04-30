@@ -4,6 +4,7 @@ import (
 	"fmt"
 	md "github.com/JohannesKaufmann/html-to-markdown"
 	"github.com/TingSyuanWang/LeetCode-in-Java/MarkdownGenerator/libs"
+	"github.com/gobeam/stringy"
 	"log"
 	"os"
 	"runtime/debug"
@@ -72,7 +73,14 @@ func build(p problem) {
 }
 
 func CreateJava(p problem, function string) {
-	filename := fmt.Sprintf("%s/%s.java", p.Dir(), p.TitleSlug)
+	// Change File Name
+	titleSlug := stringy.New(p.TitleSlug)
+	titleCamelCase := titleSlug.CamelCase()
+	filename := fmt.Sprintf("%s/%s.java", p.Dir(), titleCamelCase)
+
+	// Change main function
+	function = strings.Replace(function, "class Solution", "class "+titleCamelCase, 1)
+
 	libs.Write(filename, function)
 }
 
