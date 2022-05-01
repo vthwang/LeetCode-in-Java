@@ -43,3 +43,6 @@ Output: [0,1]
 ## Solutions
 1. [Brute Force](./TwoSum)
     - Check `twoSum` function.
+2. [HashMap](./TwoSum)
+    - Check `twoSum2` function.
+    - Start a new empty map. Try to find the complement of the target number. If we can find it, return the map directly. If not, put the number into the Map. After the iteration, if we still can't find the array, return the empty array.

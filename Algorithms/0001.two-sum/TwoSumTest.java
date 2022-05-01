@@ -11,8 +11,11 @@ public class TwoSumTest {
         int[] expectedResults = {0, 1};
 
         int[] results;
-        results = twoSum.twoSum(nums, target);
 
+        results = twoSum.twoSum(nums, target);
+        Assertions.assertArrayEquals(expectedResults, results);
+
+        results = twoSum.twoSum2(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
     }
 
@@ -23,8 +26,11 @@ public class TwoSumTest {
         int[] expectedResults = {1, 2};
 
         int[] results;
-        results = twoSum.twoSum(nums, target);
 
+        results = twoSum.twoSum(nums, target);
+        Assertions.assertArrayEquals(expectedResults, results);
+
+        results = twoSum.twoSum2(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
     }
 
@@ -35,8 +41,11 @@ public class TwoSumTest {
         int[] expectedResults = {0, 1};
 
         int[] results;
-        results = twoSum.twoSum(nums, target);
 
+        results = twoSum.twoSum(nums, target);
+        Assertions.assertArrayEquals(expectedResults, results);
+
+        results = twoSum.twoSum2(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
     }
 }
