@@ -15,7 +15,7 @@ class ThreeSum {
             if (i > 0 && nums[i] == nums[i-1]) {
                 continue;
             }
-            // Double pointers method
+            // Two pointers method
             int l = i + 1;
             int r = len - 1;
             while (l < r) {

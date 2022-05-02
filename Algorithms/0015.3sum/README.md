@@ -34,4 +34,4 @@ Output: []
 - `-10^5 <= nums[i] <= 10^5`
 
 ## Solutions
-1. [Use double pointers method](./ThreeSum.java)
+1. [Use two pointers method](./ThreeSum.java)
