@@ -19,7 +19,7 @@ public class ThreeSumTest {
         List<List<Integer>> results;
         results = threeSum.threeSum(nums);
 
-        Assertions.assertEquals(results, expectedResults);
+        Assertions.assertEquals(expectedResults, results);
     }
 
     @Test
@@ -31,7 +31,7 @@ public class ThreeSumTest {
         List<List<Integer>> results;
         results = threeSum.threeSum(nums);
 
-        Assertions.assertEquals(results, expectedResults);
+        Assertions.assertEquals(expectedResults, results);
     }
 
     @Test
@@ -43,6 +43,6 @@ public class ThreeSumTest {
         List<List<Integer>> results;
         results = threeSum.threeSum(nums);
 
-        Assertions.assertEquals(results, expectedResults);
+        Assertions.assertEquals(expectedResults, results);
     }
 }
