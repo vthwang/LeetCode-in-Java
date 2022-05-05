@@ -43,6 +43,10 @@ Output: [0,1]
 ## Solutions
 1. [Brute Force](./TwoSum.java)
     - Check `twoSum` function.
+    - Runtime: faster than 8%.
+    - Memory usage: less than 61%.
 2. [HashMap](./TwoSum.java)
     - Check `twoSum2` function.
     - Start a new empty map. Try to find the complement of the target number. If we can find it, return the map directly. If not, put the number into the Map. After the iteration, if we still can't find the array, return the empty array.
+    - Runtime: faster than 69%.
+    - Memory usage: less than 43%.
