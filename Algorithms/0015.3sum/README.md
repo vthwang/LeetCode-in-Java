@@ -35,3 +35,5 @@ Output: []
 
 ## Solutions
 1. [Use two pointers method](./ThreeSum.java)
+    - Runtime: faster than 45%.
+    - Memory usage: less than 46%.
