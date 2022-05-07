@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class TwoSumIiInputArrayIsSorted {
     public int[] twoSum(int[] numbers, int target) {
         if (numbers == null) return null;
