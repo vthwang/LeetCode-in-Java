@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-2,064,662-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-5-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-6-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 2 | 3 | 0 | 5 |
+| **Accepted** | 2 | 4 | 0 | 6 |
 | **Total** | 433 | 908 | 393 | 1734 |
 
 ## Solutions
@@ -1278,7 +1278,7 @@
 |[0638](https://leetcode.com/problems/shopping-offers/)| * Shopping Offers|54%|Medium||
 |[0637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)| * Average of Levels in Binary Tree|68%|Easy||
 |[0636](https://leetcode.com/problems/exclusive-time-of-functions/)| * Exclusive Time of Functions|60%|Medium||
-|[0633](https://leetcode.com/problems/sum-of-square-numbers/)| * Sum of Square Numbers|34%|Medium||
+|[0633](https://leetcode.com/problems/sum-of-square-numbers/)|[Sum of Square Numbers](./Algorithms/0633.sum-of-square-numbers)|34%|Medium||
 |[0632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)| * Smallest Range Covering Elements from K Lists|58%|Hard||
 |[0630](https://leetcode.com/problems/course-schedule-iii/)| * Course Schedule III|35%|Hard||
 |[0629](https://leetcode.com/problems/k-inverse-pairs-array/)| * K Inverse Pairs Array|37%|Hard||
