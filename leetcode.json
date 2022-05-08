@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1741911,
-	"Updated": "2022-05-08T16:01:07.796748-04:00",
+	"Updated": "2022-05-08T16:24:05.150515-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 4,
+			"Solved": 5,
 			"Total": 434
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 8,
+			"Solved": 9,
 			"Total": 1738
 		}
 	},
@@ -995,7 +995,7 @@
 			"TitleSlug": "merge-sorted-array",
 			"PassRate": "43%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24610,7 +24610,7 @@
 			"ID": 2235,
 			"Title": "Add Two Integers",
 			"TitleSlug": "add-two-integers",
-			"PassRate": "92%",
+			"PassRate": "93%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
