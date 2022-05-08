@@ -52,7 +52,7 @@
 |[2222](https://leetcode.com/problems/number-of-ways-to-select-buildings/)| * Number of Ways to Select Buildings|45%|Medium||
 |[2221](https://leetcode.com/problems/find-triangular-sum-of-an-array/)| * Find Triangular Sum of an Array|79%|Medium||
 |[2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)| * Minimum Bit Flips to Convert Number|81%|Easy||
-|[2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| * Maximum Value of K Coins From Piles|49%|Hard||
+|[2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| * Maximum Value of K Coins From Piles|48%|Hard||
 |[2217](https://leetcode.com/problems/find-palindrome-with-fixed-length/)| * Find Palindrome With Fixed Length|34%|Medium||
 |[2216](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)| * Minimum Deletions to Make Array Beautiful|43%|Medium||
 |[2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/)| * Find the Difference of Two Arrays|69%|Easy||
@@ -70,7 +70,7 @@
 |[2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| * Find All K-Distant Indices in an Array|64%|Easy||
 |[2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)| * Replace Non-Coprime Numbers in Array|35%|Hard||
 |[2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/)| * Create Binary Tree From Descriptions|70%|Medium||
-|[2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| * Append K Integers With Minimal Sum|23%|Medium||
+|[2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| * Append K Integers With Minimal Sum|22%|Medium||
 |[2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)| * Cells in a Range on an Excel Sheet|85%|Easy||
 |[2193](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)| * Minimum Number of Moves to Make Palindrome|41%|Hard||
 |[2192](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)| * All Ancestors of a Node in a Directed Acyclic Graph|46%|Medium||
@@ -97,7 +97,7 @@
 |[2165](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/)| * Smallest Value of the Rearranged Number|50%|Medium||
 |[2164](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)| * Sort Even and Odd Indices Independently|67%|Easy||
 |[2163](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/)| * Minimum Difference in Sums After Removal of Elements|45%|Hard||
-|[2162](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/)| * Minimum Cost to Set Cooking Time|33%|Medium||
+|[2162](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/)| * Minimum Cost to Set Cooking Time|34%|Medium||
 |[2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/)| * Partition Array According to Given Pivot|82%|Medium||
 |[2160](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)| * Minimum Sum of Four Digit Number After Splitting Digits|88%|Easy||
 |[2157](https://leetcode.com/problems/groups-of-strings/)| * Groups of Strings|24%|Hard||
@@ -531,7 +531,7 @@
 |[1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)| * Maximum Non Negative Product in a Matrix|33%|Medium||
 |[1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)| * Split a String Into the Max Number of Unique Substrings|54%|Medium||
 |[1592](https://leetcode.com/problems/rearrange-spaces-between-words/)| * Rearrange Spaces Between Words|43%|Easy||
-|[1591](https://leetcode.com/problems/strange-printer-ii/)| * Strange Printer II|57%|Hard||
+|[1591](https://leetcode.com/problems/strange-printer-ii/)| * Strange Printer II|56%|Hard||
 |[1590](https://leetcode.com/problems/make-sum-divisible-by-p/)| * Make Sum Divisible by P|28%|Medium||
 |[1589](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/)| * Maximum Sum Obtained of Any Permutation|36%|Medium||
 |[1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| * Sum of All Odd Length Subarrays|83%|Easy||
@@ -575,7 +575,7 @@
 |[1536](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)| * Minimum Swaps to Arrange a Binary Grid|45%|Medium||
 |[1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/)| * Find the Winner of an Array Game|48%|Medium||
 |[1534](https://leetcode.com/problems/count-good-triplets/)| * Count Good Triplets|80%|Easy||
-|[1531](https://leetcode.com/problems/string-compression-ii/)| * String Compression II|37%|Hard||
+|[1531](https://leetcode.com/problems/string-compression-ii/)| * String Compression II|38%|Hard||
 |[1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)| * Number of Good Leaf Nodes Pairs|59%|Medium||
 |[1529](https://leetcode.com/problems/minimum-suffix-flips/)| * Minimum Suffix Flips|72%|Medium||
 |[1528](https://leetcode.com/problems/shuffle-string/)| * Shuffle String|85%|Easy||
