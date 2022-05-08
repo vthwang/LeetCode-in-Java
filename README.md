@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,741,911-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-7-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-8-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,14 +11,14 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 3 | 4 | 0 | 7 |
+| **Accepted** | 4 | 4 | 0 | 8 |
 | **Total** | 434 | 910 | 394 | 1738 |
 
 ## Solutions
 
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
-|[2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)| *  Check if There Is a Valid Parentheses String Path|32%|Hard||
+|[2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)| *  Check if There Is a Valid Parentheses String Path|33%|Hard||
 |[2266](https://leetcode.com/problems/count-number-of-texts/)| * Count Number of Texts|47%|Medium||
 |[2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| * Count Nodes Equal to Average of Subtree|84%|Medium||
 |[2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)| * Largest 3-Same-Digit Number in String|58%|Easy||
@@ -43,7 +43,7 @@
 |[2240](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)| * Number of Ways to Buy Pens and Pencils|54%|Medium||
 |[2239](https://leetcode.com/problems/find-closest-number-to-zero/)| * Find Closest Number to Zero|46%|Easy||
 |[2236](https://leetcode.com/problems/root-equals-sum-of-children/)| * Root Equals Sum of Children|89%|Easy||
-|[2235](https://leetcode.com/problems/add-two-integers/)| * Add Two Integers|93%|Easy||
+|[2235](https://leetcode.com/problems/add-two-integers/)| * Add Two Integers|92%|Easy||
 |[2234](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)| * Maximum Total Beauty of the Gardens|25%|Hard||
 |[2233](https://leetcode.com/problems/maximum-product-after-k-increments/)| * Maximum Product After K Increments|39%|Medium||
 |[2232](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/)| * Minimize Result by Adding Parentheses to Expression|63%|Medium||
@@ -183,7 +183,7 @@
 |[2060](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/)| * Check if an Original String Exists Given Two Encoded Strings|40%|Hard||
 |[2059](https://leetcode.com/problems/minimum-operations-to-convert-number/)| * Minimum Operations to Convert Number|46%|Medium||
 |[2058](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| * Find the Minimum and Maximum Number of Nodes Between Critical Points|57%|Medium||
-|[2057](https://leetcode.com/problems/smallest-index-with-equal-value/)| * Smallest Index With Equal Value|73%|Easy||
+|[2057](https://leetcode.com/problems/smallest-index-with-equal-value/)| * Smallest Index With Equal Value|72%|Easy||
 |[2056](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)| * Number of Valid Move Combinations On Chessboard|58%|Hard||
 |[2055](https://leetcode.com/problems/plates-between-candles/)| * Plates Between Candles|45%|Medium||
 |[2054](https://leetcode.com/problems/two-best-non-overlapping-events/)| * Two Best Non-Overlapping Events|43%|Medium||
@@ -1244,7 +1244,7 @@
 |[0685](https://leetcode.com/problems/redundant-connection-ii/)| * Redundant Connection II|33%|Hard||
 |[0684](https://leetcode.com/problems/redundant-connection/)| * Redundant Connection|61%|Medium||
 |[0682](https://leetcode.com/problems/baseball-game/)| * Baseball Game|73%|Easy||
-|[0680](https://leetcode.com/problems/valid-palindrome-ii/)| * Valid Palindrome II|39%|Easy||
+|[0680](https://leetcode.com/problems/valid-palindrome-ii/)|[Valid Palindrome II](./Algorithms/0680.valid-palindrome-ii)|39%|Easy||
 |[0679](https://leetcode.com/problems/24-game/)| * 24 Game|48%|Hard||
 |[0678](https://leetcode.com/problems/valid-parenthesis-string/)| * Valid Parenthesis String|33%|Medium||
 |[0677](https://leetcode.com/problems/map-sum-pairs/)| * Map Sum Pairs|56%|Medium||

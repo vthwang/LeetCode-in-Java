@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1741911,
-	"Updated": "2022-05-08T13:26:17.060548-04:00",
+	"Updated": "2022-05-08T16:01:07.796748-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 3,
+			"Solved": 4,
 			"Total": 434
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 7,
+			"Solved": 8,
 			"Total": 1738
 		}
 	},
@@ -7507,7 +7507,7 @@
 			"TitleSlug": "valid-palindrome-ii",
 			"PassRate": "39%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -17119,7 +17119,7 @@
 			"ID": 1554,
 			"Title": "Strings Differ by One Character",
 			"TitleSlug": "strings-differ-by-one-character",
-			"PassRate": "54%",
+			"PassRate": "53%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -17823,7 +17823,7 @@
 			"ID": 1618,
 			"Title": "Maximum Font to Fit a Sentence in a Screen",
 			"TitleSlug": "maximum-font-to-fit-a-sentence-in-a-screen",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -22652,7 +22652,7 @@
 			"ID": 2057,
 			"Title": "Smallest Index With Equal Value",
 			"TitleSlug": "smallest-index-with-equal-value",
-			"PassRate": "73%",
+			"PassRate": "72%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23763,7 +23763,7 @@
 			"ID": 2158,
 			"Title": "Amount of New Area Painted Each Day",
 			"TitleSlug": "amount-of-new-area-painted-each-day",
-			"PassRate": "60%",
+			"PassRate": "59%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -24610,7 +24610,7 @@
 			"ID": 2235,
 			"Title": "Add Two Integers",
 			"TitleSlug": "add-two-integers",
-			"PassRate": "93%",
+			"PassRate": "92%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24918,7 +24918,7 @@
 			"ID": 2263,
 			"Title": "Make Array Non-decreasing or Non-increasing",
 			"TitleSlug": "make-array-non-decreasing-or-non-increasing",
-			"PassRate": "68%",
+			"PassRate": "67%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -24962,7 +24962,7 @@
 			"ID": 2267,
 			"Title": " Check if There Is a Valid Parentheses String Path",
 			"TitleSlug": "check-if-there-is-a-valid-parentheses-string-path",
-			"PassRate": "32%",
+			"PassRate": "33%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
