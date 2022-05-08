@@ -94,6 +94,8 @@ func creatREADME(p problem, s string) {
 
 	s, _ = converter.ConvertString(s)
 
+	s = replaceCodeBlock(s)
+
 	content := fmt.Sprintf(fileFormat, p.ID, p.Title, p.link()) + "\n\n" + s + "\n\n## Solutions\n\n"
 
 	filename := fmt.Sprintf("%s/README.md", p.Dir())
@@ -140,4 +142,31 @@ func replaceCharacters(s string) string {
 	}
 
 	return s
+}
+
+func replaceCodeBlock(s string) string {
+	var (
+		newS  string
+		count int
+	)
+
+	for len(s) > 0 {
+		sIndex := strings.Index(s, "```")
+		if sIndex == -1 {
+			break
+		}
+		rString := s[:sIndex]
+		count++
+		if count == 2 {
+			count = 0
+			rString = strings.Replace(rString, "<strong>", "", -1)
+			rString = strings.Replace(rString, "</strong>", "", -1)
+			rString = strings.TrimSuffix(rString, "\n")
+			rString = "```" + rString + "```"
+		}
+		newS += rString
+		s = s[sIndex+3:]
+	}
+
+	return newS
 }
