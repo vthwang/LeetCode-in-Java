@@ -9,7 +9,6 @@ The vowels are `'a'`, `'e'`, `'i'`, `'o'`, and `'u'`, and they can appear in bot
 ```
 Input: s = "hello"
 Output: "holle"
-
 ```
 
 **Example 2:**
@@ -17,7 +16,6 @@ Output: "holle"
 ```
 Input: s = "leetcode"
 Output: "leotcede"
-
 ```
 
 **Constraints:**

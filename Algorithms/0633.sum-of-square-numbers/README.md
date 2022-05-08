@@ -8,7 +8,6 @@ Given a non-negative integer `c`, decide whether there're two integers `a` and `
 Input: c = 5
 Output: true
 Explanation: 1 * 1 + 2 * 2 = 5
-
 ```
 
 **Example 2:**
@@ -16,7 +15,6 @@ Explanation: 1 * 1 + 2 * 2 = 5
 ```
 Input: c = 3
 Output: false
-
 ```
 
 **Constraints:**

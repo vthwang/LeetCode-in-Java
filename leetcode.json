@@ -1,23 +1,23 @@
 {
 	"Username": "TingSyuanWang",
-	"Ranking": 2064662,
-	"Updated": "2022-05-07T23:15:57.053488-04:00",
+	"Ranking": 1741911,
+	"Updated": "2022-05-08T11:57:56.984399-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 2,
-			"Total": 433
+			"Solved": 3,
+			"Total": 434
 		},
 		"Medium": {
 			"Solved": 4,
-			"Total": 908
+			"Total": 910
 		},
 		"Hard": {
 			"Solved": 0,
-			"Total": 393
+			"Total": 394
 		},
 		"Total": {
-			"Solved": 6,
-			"Total": 1734
+			"Solved": 7,
+			"Total": 1738
 		}
 	},
 	"Problems": [
@@ -2115,7 +2115,7 @@
 			"ID": 190,
 			"Title": "Reverse Bits",
 			"TitleSlug": "reverse-bits",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -3776,7 +3776,7 @@
 			"ID": 341,
 			"Title": "Flatten Nested List Iterator",
 			"TitleSlug": "flatten-nested-list-iterator",
-			"PassRate": "58%",
+			"PassRate": "60%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -3822,7 +3822,7 @@
 			"TitleSlug": "reverse-vowels-of-a-string",
 			"PassRate": "46%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -4502,7 +4502,7 @@
 			"ID": 407,
 			"Title": "Trapping Rain Water II",
 			"TitleSlug": "trapping-rain-water-ii",
-			"PassRate": "46%",
+			"PassRate": "47%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -17669,7 +17669,7 @@
 			"ID": 1604,
 			"Title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
 			"TitleSlug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
-			"PassRate": "46%",
+			"PassRate": "47%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18978,7 +18978,7 @@
 			"ID": 1723,
 			"Title": "Find Minimum Time to Finish All Jobs",
 			"TitleSlug": "find-minimum-time-to-finish-all-jobs",
-			"PassRate": "43%",
+			"PassRate": "42%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -19264,7 +19264,7 @@
 			"ID": 1749,
 			"Title": "Maximum Absolute Sum of Any Subarray",
 			"TitleSlug": "maximum-absolute-sum-of-any-subarray",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -19429,7 +19429,7 @@
 			"ID": 1764,
 			"Title": "Form Array by Concatenating Subarrays of Another Array",
 			"TitleSlug": "form-array-by-concatenating-subarrays-of-another-array",
-			"PassRate": "52%",
+			"PassRate": "53%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -19594,7 +19594,7 @@
 			"ID": 1779,
 			"Title": "Find Nearest Point That Has the Same X or Y Coordinate",
 			"TitleSlug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
-			"PassRate": "68%",
+			"PassRate": "67%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -22652,7 +22652,7 @@
 			"ID": 2057,
 			"Title": "Smallest Index With Equal Value",
 			"TitleSlug": "smallest-index-with-equal-value",
-			"PassRate": "72%",
+			"PassRate": "73%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24924,6 +24924,50 @@
 			"IsPaid": true,
 			"IsFavor": false,
 			"IsNew": true
+		},
+		{
+			"ID": 2264,
+			"Title": "Largest 3-Same-Digit Number in String",
+			"TitleSlug": "largest-3-same-digit-number-in-string",
+			"PassRate": "58%",
+			"Difficulty": "Easy",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2265,
+			"Title": "Count Nodes Equal to Average of Subtree",
+			"TitleSlug": "count-nodes-equal-to-average-of-subtree",
+			"PassRate": "84%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2266,
+			"Title": "Count Number of Texts",
+			"TitleSlug": "count-number-of-texts",
+			"PassRate": "47%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2267,
+			"Title": " Check if There Is a Valid Parentheses String Path",
+			"TitleSlug": "check-if-there-is-a-valid-parentheses-string-path",
+			"PassRate": "32%",
+			"Difficulty": "Hard",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
 		}
 	]
 }

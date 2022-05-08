@@ -9,7 +9,6 @@ Notice that the solution set must not contain duplicate triplets.
 ```
 Input: nums = [-1,0,1,2,-1,-4]
 Output: [[-1,-1,2],[-1,0,1]]
-
 ```
 
 **Example 2:**
@@ -17,7 +16,6 @@ Output: [[-1,-1,2],[-1,0,1]]
 ```
 Input: nums = []
 Output: []
-
 ```
 
 **Example 3:**
@@ -25,7 +23,6 @@ Output: []
 ```
 Input: nums = [0]
 Output: []
-
 ```
 
 **Constraints:**
