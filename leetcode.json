@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1601218,
-	"Updated": "2022-05-09T11:00:11.807636-04:00",
+	"Updated": "2022-05-09T11:22:11.155577-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 6,
 			"Total": 434
 		},
 		"Medium": {
-			"Solved": 4,
+			"Solved": 5,
 			"Total": 910
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 10,
+			"Solved": 11,
 			"Total": 1738
 		}
 	},
@@ -5791,7 +5791,7 @@
 			"TitleSlug": "longest-word-in-dictionary-through-deleting",
 			"PassRate": "50%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
