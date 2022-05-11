@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1439509,
-	"Updated": "2022-05-11T10:40:14.630848-04:00",
+	"Updated": "2022-05-11T11:04:34.286878-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 7,
+			"Solved": 8,
 			"Total": 434
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 12,
+			"Solved": 13,
 			"Total": 1738
 		}
 	},
@@ -258,7 +258,7 @@
 			"TitleSlug": "merge-two-sorted-lists",
 			"PassRate": "60%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

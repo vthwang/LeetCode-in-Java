@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,439,509-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-12-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-13-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 7 | 5 | 0 | 12 |
+| **Accepted** | 8 | 5 | 0 | 13 |
 | **Total** | 434 | 910 | 394 | 1738 |
 
 ## Solutions
@@ -1735,7 +1735,7 @@
 |[0024](https://leetcode.com/problems/swap-nodes-in-pairs/)| * Swap Nodes in Pairs|58%|Medium||
 |[0023](https://leetcode.com/problems/merge-k-sorted-lists/)| * Merge k Sorted Lists|47%|Hard||
 |[0022](https://leetcode.com/problems/generate-parentheses/)| * Generate Parentheses|70%|Medium||
-|[0021](https://leetcode.com/problems/merge-two-sorted-lists/)| * Merge Two Sorted Lists|60%|Easy||
+|[0021](https://leetcode.com/problems/merge-two-sorted-lists/)|[Merge Two Sorted Lists](./Algorithms/0021.merge-two-sorted-lists)|60%|Easy||
 |[0020](https://leetcode.com/problems/valid-parentheses/)| * Valid Parentheses|40%|Easy||
 |[0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| * Remove Nth Node From End of List|38%|Medium||
 |[0018](https://leetcode.com/problems/4sum/)|[4Sum](./Algorithms/0018.4sum)|37%|Medium||
