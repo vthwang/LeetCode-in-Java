@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1439509,
-	"Updated": "2022-05-11T23:28:31.899439-04:00",
+	"Updated": "2022-05-12T00:07:50.330727-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 8,
+			"Solved": 9,
 			"Total": 434
 		},
 		"Medium": {
-			"Solved": 5,
+			"Solved": 6,
 			"Total": 910
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 13,
+			"Solved": 15,
 			"Total": 1738
 		}
 	},
@@ -236,7 +236,7 @@
 			"TitleSlug": "remove-nth-node-from-end-of-list",
 			"PassRate": "38%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -940,7 +940,7 @@
 			"TitleSlug": "remove-duplicates-from-sorted-list",
 			"PassRate": "49%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24896,7 +24896,7 @@
 			"ID": 2261,
 			"Title": "K Divisible Elements Subarrays",
 			"TitleSlug": "k-divisible-elements-subarrays",
-			"PassRate": "45%",
+			"PassRate": "44%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0160.intersection-of-two-linked-lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0206.reverse-linked-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0021.merge-two-sorted-lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0019.remove-nth-node-from-end-of-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0083.remove-duplicates-from-sorted-list" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
