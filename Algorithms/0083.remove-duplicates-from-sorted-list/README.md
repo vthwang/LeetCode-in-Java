@@ -22,5 +22,5 @@ Output: [1,2,3]
 
 ## Solutions
 1. [Recursion](./RemoveDuplicatesFromSortedList.java)
-    - Runtime: faster than 65.50%.
-    - Memory usage: less than 58.80%.
+    - Runtime: faster than 63.70%.
+    - Memory usage: less than 14.06%.
