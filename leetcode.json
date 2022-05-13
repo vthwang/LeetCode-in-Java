@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1316294,
-	"Updated": "2022-05-13T12:37:31.348774-04:00",
+	"Updated": "2022-05-13T12:59:40.035595-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 9,
 			"Total": 434
 		},
 		"Medium": {
-			"Solved": 7,
+			"Solved": 8,
 			"Total": 910
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 16,
+			"Solved": 17,
 			"Total": 1738
 		}
 	},
@@ -4922,7 +4922,7 @@
 			"TitleSlug": "add-two-numbers-ii",
 			"PassRate": "58%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21970,7 +21970,7 @@
 			"ID": 1995,
 			"Title": "Count Special Quadruplets",
 			"TitleSlug": "count-special-quadruplets",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

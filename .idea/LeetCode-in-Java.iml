@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0019.remove-nth-node-from-end-of-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0083.remove-duplicates-from-sorted-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0024.swap-nodes-in-pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0445.add-two-numbers-ii" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
