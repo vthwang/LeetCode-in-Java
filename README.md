@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
-[![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,314,884-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-15-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,316,294-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-16-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 9 | 6 | 0 | 15 |
+| **Accepted** | 9 | 7 | 0 | 16 |
 | **Total** | 434 | 910 | 394 | 1738 |
 
 ## Solutions
@@ -25,12 +25,12 @@
 |[2262](https://leetcode.com/problems/total-appeal-of-a-string/)| * Total Appeal of A String|51%|Hard||
 |[2261](https://leetcode.com/problems/k-divisible-elements-subarrays/)| * K Divisible Elements Subarrays|45%|Medium||
 |[2260](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)| * Minimum Consecutive Cards to Pick Up|54%|Medium||
-|[2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)| * Remove Digit From Number to Maximize Result|45%|Easy||
+|[2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)| * Remove Digit From Number to Maximize Result|46%|Easy||
 |[2258](https://leetcode.com/problems/escape-the-spreading-fire/)| * Escape the Spreading Fire|33%|Hard||
-|[2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)| * Count Unguarded Cells in the Grid|49%|Medium||
+|[2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)| * Count Unguarded Cells in the Grid|50%|Medium||
 |[2256](https://leetcode.com/problems/minimum-average-difference/)| * Minimum Average Difference|34%|Medium||
 |[2255](https://leetcode.com/problems/count-prefixes-of-a-given-string/)| * Count Prefixes of a Given String|71%|Easy||
-|[2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)| * Number of Flowers in Full Bloom|49%|Hard||
+|[2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)| * Number of Flowers in Full Bloom|50%|Hard||
 |[2250](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)| * Count Number of Rectangles Containing Each Point|31%|Medium||
 |[2249](https://leetcode.com/problems/count-lattice-points-inside-a-circle/)| * Count Lattice Points Inside a Circle|50%|Medium||
 |[2248](https://leetcode.com/problems/intersection-of-multiple-arrays/)| * Intersection of Multiple Arrays|69%|Easy||
@@ -69,7 +69,7 @@
 |[2207](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)| * Maximize Number of Subsequences in a String|31%|Medium||
 |[2206](https://leetcode.com/problems/divide-array-into-equal-pairs/)| * Divide Array Into Equal Pairs|76%|Easy||
 |[2203](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)| * Minimum Weighted Subgraph With the Required Paths|35%|Hard||
-|[2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)| * Maximize the Topmost Element After K Moves|21%|Medium||
+|[2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)| * Maximize the Topmost Element After K Moves|22%|Medium||
 |[2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)| * Count Artifacts That Can Be Extracted|53%|Medium||
 |[2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| * Find All K-Distant Indices in an Array|64%|Easy||
 |[2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)| * Replace Non-Coprime Numbers in Array|35%|Hard||
@@ -152,7 +152,7 @@
 |[2101](https://leetcode.com/problems/detonate-the-maximum-bombs/)| * Detonate the Maximum Bombs|40%|Medium||
 |[2100](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)| * Find Good Days to Rob the Bank|46%|Medium||
 |[2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)| * Find Subsequence of Length K With the Largest Sum|43%|Easy||
-|[2097](https://leetcode.com/problems/valid-arrangement-of-pairs/)| * Valid Arrangement of Pairs|39%|Hard||
+|[2097](https://leetcode.com/problems/valid-arrangement-of-pairs/)| * Valid Arrangement of Pairs|40%|Hard||
 |[2096](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)| * Step-By-Step Directions From a Binary Tree Node to Another|48%|Medium||
 |[2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| * Delete the Middle Node of a Linked List|56%|Medium||
 |[2094](https://leetcode.com/problems/finding-3-digit-even-numbers/)| * Finding 3-Digit Even Numbers|56%|Easy||
@@ -163,7 +163,7 @@
 |[2088](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/)| * Count Fertile Pyramids in a Land|62%|Hard||
 |[2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)| * Minimum Cost Homecoming of a Robot in a Grid|50%|Medium||
 |[2086](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)| * Minimum Number of Buckets Required to Collect Rainwater from Houses|45%|Medium||
-|[2085](https://leetcode.com/problems/count-common-words-with-one-occurrence/)| * Count Common Words With One Occurrence|69%|Easy||
+|[2085](https://leetcode.com/problems/count-common-words-with-one-occurrence/)| * Count Common Words With One Occurrence|70%|Easy||
 |[2081](https://leetcode.com/problems/sum-of-k-mirror-numbers/)| * Sum of k-Mirror Numbers|41%|Hard||
 |[2080](https://leetcode.com/problems/range-frequency-queries/)| * Range Frequency Queries|36%|Medium||
 |[2079](https://leetcode.com/problems/watering-plants/)| * Watering Plants|80%|Medium||
@@ -231,7 +231,7 @@
 |[1998](https://leetcode.com/problems/gcd-sort-of-an-array/)| * GCD Sort of an Array|45%|Hard||
 |[1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)| * First Day Where You Have Been in All the Rooms|35%|Medium||
 |[1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)| * The Number of Weak Characters in the Game|33%|Medium||
-|[1995](https://leetcode.com/problems/count-special-quadruplets/)| * Count Special Quadruplets|57%|Easy||
+|[1995](https://leetcode.com/problems/count-special-quadruplets/)| * Count Special Quadruplets|58%|Easy||
 |[1994](https://leetcode.com/problems/the-number-of-good-subsets/)| * The Number of Good Subsets|34%|Hard||
 |[1993](https://leetcode.com/problems/operations-on-tree/)| * Operations on Tree|42%|Medium||
 |[1992](https://leetcode.com/problems/find-all-groups-of-farmland/)| * Find All Groups of Farmland|67%|Medium||
@@ -277,7 +277,7 @@
 |[1937](https://leetcode.com/problems/maximum-number-of-points-with-cost/)| * Maximum Number of Points with Cost|35%|Medium||
 |[1936](https://leetcode.com/problems/add-minimum-number-of-rungs/)| * Add Minimum Number of Rungs|42%|Medium||
 |[1935](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)| * Maximum Number of Words You Can Type|71%|Easy||
-|[1932](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)| * Merge BSTs to Create Single BST|34%|Hard||
+|[1932](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)| * Merge BSTs to Create Single BST|35%|Hard||
 |[1931](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/)| * Painting a Grid With Three Different Colors|57%|Hard||
 |[1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)| * Unique Length-3 Palindromic Subsequences|51%|Medium||
 |[1929](https://leetcode.com/problems/concatenation-of-array/)| * Concatenation of Array|91%|Easy||
@@ -344,7 +344,7 @@
 |[1849](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)| * Splitting a String Into Descending Consecutive Values|31%|Medium||
 |[1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/)| * Minimum Distance to the Target Element|59%|Easy||
 |[1847](https://leetcode.com/problems/closest-room/)| * Closest Room|33%|Hard||
-|[1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)| * Maximum Element After Decreasing and Rearranging|57%|Medium||
+|[1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)| * Maximum Element After Decreasing and Rearranging|58%|Medium||
 |[1845](https://leetcode.com/problems/seat-reservation-manager/)| * Seat Reservation Manager|61%|Medium||
 |[1844](https://leetcode.com/problems/replace-all-digits-with-characters/)| * Replace All Digits with Characters|79%|Easy||
 |[1840](https://leetcode.com/problems/maximum-building-height/)| * Maximum Building Height|34%|Hard||
@@ -500,7 +500,7 @@
 |[1641](https://leetcode.com/problems/count-sorted-vowel-strings/)| * Count Sorted Vowel Strings|77%|Medium||
 |[1640](https://leetcode.com/problems/check-array-formation-through-concatenation/)| * Check Array Formation Through Concatenation|55%|Easy||
 |[1639](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)| * Number of Ways to Form a Target String Given a Dictionary|42%|Hard||
-|[1638](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/)| * Count Substrings That Differ by One Character|72%|Medium||
+|[1638](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/)| * Count Substrings That Differ by One Character|71%|Medium||
 |[1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)| * Widest Vertical Area Between Two Points Containing No Points|84%|Medium||
 |[1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| * Sort Array by Increasing Frequency|68%|Easy||
 |[1632](https://leetcode.com/problems/rank-transform-of-a-matrix/)| * Rank Transform of a Matrix|40%|Hard||
@@ -541,7 +541,7 @@
 |[1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| * Sum of All Odd Length Subarrays|83%|Easy||
 |[1585](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)| * Check If String Is Transformable With Substring Sort Operations|48%|Hard||
 |[1584](https://leetcode.com/problems/min-cost-to-connect-all-points/)| * Min Cost to Connect All Points|64%|Medium||
-|[1583](https://leetcode.com/problems/count-unhappy-friends/)| * Count Unhappy Friends|57%|Medium||
+|[1583](https://leetcode.com/problems/count-unhappy-friends/)| * Count Unhappy Friends|58%|Medium||
 |[1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)| * Special Positions in a Binary Matrix|65%|Easy||
 |[1579](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)| * Remove Max Number of Edges to Keep Graph Fully Traversable|51%|Hard||
 |[1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)| * Minimum Time to Make Rope Colorful|61%|Medium||
@@ -564,7 +564,7 @@
 |[1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)| * Minimum Number of Vertices to Reach All Nodes|78%|Medium||
 |[1556](https://leetcode.com/problems/thousand-separator/)| * Thousand Separator|55%|Easy||
 |[1553](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)| * Minimum Number of Days to Eat N Oranges|32%|Hard||
-|[1552](https://leetcode.com/problems/magnetic-force-between-two-balls/)| * Magnetic Force Between Two Balls|54%|Medium||
+|[1552](https://leetcode.com/problems/magnetic-force-between-two-balls/)| * Magnetic Force Between Two Balls|55%|Medium||
 |[1551](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)| * Minimum Operations to Make Array Equal|80%|Medium||
 |[1550](https://leetcode.com/problems/three-consecutive-odds/)| * Three Consecutive Odds|64%|Easy||
 |[1547](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)| * Minimum Cost to Cut a Stick|55%|Hard||
@@ -611,7 +611,7 @@
 |[1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)| * Longest Subarray of 1&#39;s After Deleting One Element|60%|Medium||
 |[1492](https://leetcode.com/problems/the-kth-factor-of-n/)| * The kth Factor of n|62%|Medium||
 |[1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)| * Average Salary Excluding the Minimum and Maximum Salary|64%|Easy||
-|[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)| * Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|52%|Hard||
+|[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)| * Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|53%|Hard||
 |[1488](https://leetcode.com/problems/avoid-flood-in-the-city/)| * Avoid Flood in The City|25%|Medium||
 |[1487](https://leetcode.com/problems/making-file-names-unique/)| * Making File Names Unique|34%|Medium||
 |[1486](https://leetcode.com/problems/xor-operation-in-an-array/)| * XOR Operation in an Array|84%|Easy||
@@ -624,7 +624,7 @@
 |[1476](https://leetcode.com/problems/subrectangle-queries/)| * Subrectangle Queries|88%|Medium||
 |[1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)| * Final Prices With a Special Discount in a Shop|75%|Easy||
 |[1473](https://leetcode.com/problems/paint-house-iii/)| * Paint House III|50%|Hard||
-|[1472](https://leetcode.com/problems/design-browser-history/)| * Design Browser History|74%|Medium||
+|[1472](https://leetcode.com/problems/design-browser-history/)| * Design Browser History|75%|Medium||
 |[1471](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)| * The k Strongest Values in an Array|59%|Medium||
 |[1470](https://leetcode.com/problems/shuffle-the-array/)| * Shuffle the Array|88%|Easy||
 |[1467](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/)| * Probability of a Two Boxes Having The Same Number of Distinct Balls|60%|Hard||
@@ -1205,7 +1205,7 @@
 |[0731](https://leetcode.com/problems/my-calendar-ii/)| * My Calendar II|53%|Medium||
 |[0730](https://leetcode.com/problems/count-different-palindromic-subsequences/)| * Count Different Palindromic Subsequences|44%|Hard||
 |[0729](https://leetcode.com/problems/my-calendar-i/)| * My Calendar I|55%|Medium||
-|[0728](https://leetcode.com/problems/self-dividing-numbers/)| * Self Dividing Numbers|76%|Easy||
+|[0728](https://leetcode.com/problems/self-dividing-numbers/)| * Self Dividing Numbers|77%|Easy||
 |[0726](https://leetcode.com/problems/number-of-atoms/)| * Number of Atoms|51%|Hard||
 |[0725](https://leetcode.com/problems/split-linked-list-in-parts/)| * Split Linked List in Parts|56%|Medium||
 |[0724](https://leetcode.com/problems/find-pivot-index/)| * Find Pivot Index|51%|Easy||
@@ -1331,7 +1331,7 @@
 |[0542](https://leetcode.com/problems/01-matrix/)| * 01 Matrix|43%|Medium||
 |[0541](https://leetcode.com/problems/reverse-string-ii/)| * Reverse String II|50%|Easy||
 |[0540](https://leetcode.com/problems/single-element-in-a-sorted-array/)| * Single Element in a Sorted Array|58%|Medium||
-|[0539](https://leetcode.com/problems/minimum-time-difference/)| * Minimum Time Difference|54%|Medium||
+|[0539](https://leetcode.com/problems/minimum-time-difference/)| * Minimum Time Difference|55%|Medium||
 |[0538](https://leetcode.com/problems/convert-bst-to-greater-tree/)| * Convert BST to Greater Tree|66%|Medium||
 |[0537](https://leetcode.com/problems/complex-number-multiplication/)| * Complex Number Multiplication|71%|Medium||
 |[0535](https://leetcode.com/problems/encode-and-decode-tinyurl/)| * Encode and Decode TinyURL|85%|Medium||
@@ -1580,7 +1580,7 @@
 |[0203](https://leetcode.com/problems/remove-linked-list-elements/)| * Remove Linked List Elements|43%|Easy||
 |[0202](https://leetcode.com/problems/happy-number/)| * Happy Number|53%|Easy||
 |[0201](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| * Bitwise AND of Numbers Range|41%|Medium||
-|[0200](https://leetcode.com/problems/number-of-islands/)| * Number of Islands|53%|Medium||
+|[0200](https://leetcode.com/problems/number-of-islands/)| * Number of Islands|54%|Medium||
 |[0199](https://leetcode.com/problems/binary-tree-right-side-view/)| * Binary Tree Right Side View|59%|Medium||
 |[0198](https://leetcode.com/problems/house-robber/)| * House Robber|47%|Medium||
 |[0191](https://leetcode.com/problems/number-of-1-bits/)| * Number of 1 Bits|60%|Easy||
@@ -1639,7 +1639,7 @@
 |[0120](https://leetcode.com/problems/triangle/)| * Triangle|50%|Medium||
 |[0119](https://leetcode.com/problems/pascals-triangle-ii/)| * Pascal&#39;s Triangle II|57%|Easy||
 |[0118](https://leetcode.com/problems/pascals-triangle/)| * Pascal&#39;s Triangle|64%|Easy||
-|[0117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| * Populating Next Right Pointers in Each Node II|46%|Medium||
+|[0117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| * Populating Next Right Pointers in Each Node II|47%|Medium||
 |[0116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| * Populating Next Right Pointers in Each Node|57%|Medium||
 |[0115](https://leetcode.com/problems/distinct-subsequences/)| * Distinct Subsequences|42%|Hard||
 |[0114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| * Flatten Binary Tree to Linked List|57%|Medium||
@@ -1654,7 +1654,7 @@
 |[0105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| * Construct Binary Tree from Preorder and Inorder Traversal|57%|Medium||
 |[0104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| * Maximum Depth of Binary Tree|71%|Easy||
 |[0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| * Binary Tree Zigzag Level Order Traversal|53%|Medium||
-|[0102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| * Binary Tree Level Order Traversal|60%|Medium||
+|[0102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| * Binary Tree Level Order Traversal|61%|Medium||
 |[0101](https://leetcode.com/problems/symmetric-tree/)| * Symmetric Tree|51%|Easy||
 |[0100](https://leetcode.com/problems/same-tree/)| * Same Tree|55%|Easy||
 |[0099](https://leetcode.com/problems/recover-binary-search-tree/)| * Recover Binary Search Tree|48%|Medium||
@@ -1709,7 +1709,7 @@
 |[0050](https://leetcode.com/problems/powx-n/)| * Pow(x, n)|32%|Medium||
 |[0049](https://leetcode.com/problems/group-anagrams/)| * Group Anagrams|64%|Medium||
 |[0048](https://leetcode.com/problems/rotate-image/)| * Rotate Image|66%|Medium||
-|[0047](https://leetcode.com/problems/permutations-ii/)| * Permutations II|54%|Medium||
+|[0047](https://leetcode.com/problems/permutations-ii/)| * Permutations II|55%|Medium||
 |[0046](https://leetcode.com/problems/permutations/)| * Permutations|72%|Medium||
 |[0045](https://leetcode.com/problems/jump-game-ii/)| * Jump Game II|37%|Medium||
 |[0044](https://leetcode.com/problems/wildcard-matching/)| * Wildcard Matching|26%|Hard||
@@ -1732,7 +1732,7 @@
 |[0027](https://leetcode.com/problems/remove-element/)| * Remove Element|51%|Easy||
 |[0026](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| * Remove Duplicates from Sorted Array|48%|Easy||
 |[0025](https://leetcode.com/problems/reverse-nodes-in-k-group/)| * Reverse Nodes in k-Group|51%|Hard||
-|[0024](https://leetcode.com/problems/swap-nodes-in-pairs/)| * Swap Nodes in Pairs|58%|Medium||
+|[0024](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Swap Nodes in Pairs](./Algorithms/0024.swap-nodes-in-pairs)|58%|Medium||
 |[0023](https://leetcode.com/problems/merge-k-sorted-lists/)| * Merge k Sorted Lists|47%|Hard||
 |[0022](https://leetcode.com/problems/generate-parentheses/)| * Generate Parentheses|70%|Medium||
 |[0021](https://leetcode.com/problems/merge-two-sorted-lists/)|[Merge Two Sorted Lists](./Algorithms/0021.merge-two-sorted-lists)|60%|Easy||
