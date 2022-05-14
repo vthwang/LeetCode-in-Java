@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1248223,
-	"Updated": "2022-05-14T11:39:08.349788-04:00",
+	"Updated": "2022-05-14T11:54:56.067751-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 10,
 			"Total": 434
 		},
 		"Medium": {
-			"Solved": 9,
+			"Solved": 10,
 			"Total": 910
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 19,
+			"Solved": 20,
 			"Total": 1738
 		}
 	},
@@ -3635,7 +3635,7 @@
 			"TitleSlug": "odd-even-linked-list",
 			"PassRate": "59%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24225,7 +24225,7 @@
 			"ID": 2200,
 			"Title": "Find All K-Distant Indices in an Array",
 			"TitleSlug": "find-all-k-distant-indices-in-an-array",
-			"PassRate": "63%",
+			"PassRate": "64%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
