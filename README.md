@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,248,223-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-18-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-19-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 10 | 8 | 0 | 18 |
+| **Accepted** | 10 | 9 | 0 | 19 |
 | **Total** | 434 | 910 | 394 | 1738 |
 
 ## Solutions
@@ -71,7 +71,7 @@
 |[2203](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)| * Minimum Weighted Subgraph With the Required Paths|35%|Hard||
 |[2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)| * Maximize the Topmost Element After K Moves|22%|Medium||
 |[2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)| * Count Artifacts That Can Be Extracted|54%|Medium||
-|[2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| * Find All K-Distant Indices in an Array|64%|Easy||
+|[2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| * Find All K-Distant Indices in an Array|63%|Easy||
 |[2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)| * Replace Non-Coprime Numbers in Array|35%|Hard||
 |[2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/)| * Create Binary Tree From Descriptions|70%|Medium||
 |[2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| * Append K Integers With Minimal Sum|23%|Medium||
@@ -231,7 +231,7 @@
 |[1998](https://leetcode.com/problems/gcd-sort-of-an-array/)| * GCD Sort of an Array|45%|Hard||
 |[1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)| * First Day Where You Have Been in All the Rooms|35%|Medium||
 |[1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)| * The Number of Weak Characters in the Game|33%|Medium||
-|[1995](https://leetcode.com/problems/count-special-quadruplets/)| * Count Special Quadruplets|58%|Easy||
+|[1995](https://leetcode.com/problems/count-special-quadruplets/)| * Count Special Quadruplets|57%|Easy||
 |[1994](https://leetcode.com/problems/the-number-of-good-subsets/)| * The Number of Good Subsets|34%|Hard||
 |[1993](https://leetcode.com/problems/operations-on-tree/)| * Operations on Tree|42%|Medium||
 |[1992](https://leetcode.com/problems/find-all-groups-of-farmland/)| * Find All Groups of Farmland|67%|Medium||
@@ -1207,7 +1207,7 @@
 |[0729](https://leetcode.com/problems/my-calendar-i/)| * My Calendar I|55%|Medium||
 |[0728](https://leetcode.com/problems/self-dividing-numbers/)| * Self Dividing Numbers|77%|Easy||
 |[0726](https://leetcode.com/problems/number-of-atoms/)| * Number of Atoms|51%|Hard||
-|[0725](https://leetcode.com/problems/split-linked-list-in-parts/)| * Split Linked List in Parts|56%|Medium||
+|[0725](https://leetcode.com/problems/split-linked-list-in-parts/)|[Split Linked List in Parts](./Algorithms/0725.split-linked-list-in-parts)|56%|Medium||
 |[0724](https://leetcode.com/problems/find-pivot-index/)| * Find Pivot Index|51%|Easy||
 |[0722](https://leetcode.com/problems/remove-comments/)| * Remove Comments|37%|Medium||
 |[0721](https://leetcode.com/problems/accounts-merge/)| * Accounts Merge|55%|Medium||

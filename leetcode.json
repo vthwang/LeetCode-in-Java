@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1248223,
-	"Updated": "2022-05-14T11:11:44.22018-04:00",
+	"Updated": "2022-05-14T11:39:08.349788-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 10,
 			"Total": 434
 		},
 		"Medium": {
-			"Solved": 8,
+			"Solved": 9,
 			"Total": 910
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 394
 		},
 		"Total": {
-			"Solved": 18,
+			"Solved": 19,
 			"Total": 1738
 		}
 	},
@@ -8002,7 +8002,7 @@
 			"TitleSlug": "split-linked-list-in-parts",
 			"PassRate": "56%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21970,7 +21970,7 @@
 			"ID": 1995,
 			"Title": "Count Special Quadruplets",
 			"TitleSlug": "count-special-quadruplets",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24225,7 +24225,7 @@
 			"ID": 2200,
 			"Title": "Find All K-Distant Indices in an Array",
 			"TitleSlug": "find-all-k-distant-indices-in-an-array",
-			"PassRate": "64%",
+			"PassRate": "63%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
