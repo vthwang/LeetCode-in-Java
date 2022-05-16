@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1135937,
-	"Updated": "2022-05-16T12:32:24.321325-04:00",
+	"Updated": "2022-05-16T12:40:11.970985-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 12,
+			"Solved": 13,
 			"Total": 436
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 22,
+			"Solved": 23,
 			"Total": 1746
 		}
 	},
@@ -6000,7 +6000,7 @@
 			"TitleSlug": "diameter-of-binary-tree",
 			"PassRate": "54%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

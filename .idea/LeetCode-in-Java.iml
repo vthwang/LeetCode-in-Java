@@ -27,6 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0725.split-linked-list-in-parts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0104.maximum-depth-of-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0110.balanced-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0543.diameter-of-binary-tree" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

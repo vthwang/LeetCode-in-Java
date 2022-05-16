@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,135,937-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-22-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-23-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 12 | 10 | 0 | 22 |
+| **Accepted** | 13 | 10 | 0 | 23 |
 | **Total** | 436 | 914 | 396 | 1746 |
 
 ## Solutions
@@ -1335,7 +1335,7 @@
 |[0551](https://leetcode.com/problems/student-attendance-record-i/)| * Student Attendance Record I|47%|Easy||
 |[0547](https://leetcode.com/problems/number-of-provinces/)| * Number of Provinces|62%|Medium||
 |[0546](https://leetcode.com/problems/remove-boxes/)| * Remove Boxes|47%|Hard||
-|[0543](https://leetcode.com/problems/diameter-of-binary-tree/)| * Diameter of Binary Tree|54%|Easy||
+|[0543](https://leetcode.com/problems/diameter-of-binary-tree/)|[Diameter of Binary Tree](./Algorithms/0543.diameter-of-binary-tree)|54%|Easy||
 |[0542](https://leetcode.com/problems/01-matrix/)| * 01 Matrix|43%|Medium||
 |[0541](https://leetcode.com/problems/reverse-string-ii/)| * Reverse String II|50%|Easy||
 |[0540](https://leetcode.com/problems/single-element-in-a-sorted-array/)| * Single Element in a Sorted Array|58%|Medium||
