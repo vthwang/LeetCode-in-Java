@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1135937,
-	"Updated": "2022-05-16T12:40:11.970985-04:00",
+	"Updated": "2022-05-16T13:12:17.350637-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 13,
+			"Solved": 14,
 			"Total": 436
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 23,
+			"Solved": 24,
 			"Total": 1746
 		}
 	},
@@ -2513,7 +2513,7 @@
 			"TitleSlug": "invert-binary-tree",
 			"PassRate": "71%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -12026,7 +12026,7 @@
 			"ID": 1091,
 			"Title": "Shortest Path in Binary Matrix",
 			"TitleSlug": "shortest-path-in-binary-matrix",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18208,7 +18208,7 @@
 			"ID": 1653,
 			"Title": "Minimum Deletions to Make String Balanced",
 			"TitleSlug": "minimum-deletions-to-make-string-balanced",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -19594,7 +19594,7 @@
 			"ID": 1779,
 			"Title": "Find Nearest Point That Has the Same X or Y Coordinate",
 			"TitleSlug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
-			"PassRate": "68%",
+			"PassRate": "67%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24379,7 +24379,7 @@
 			"ID": 2214,
 			"Title": "Minimum Health to Beat Game",
 			"TitleSlug": "minimum-health-to-beat-game",
-			"PassRate": "57%",
+			"PassRate": "56%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

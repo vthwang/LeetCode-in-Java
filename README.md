@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,135,937-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-23-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-24-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 13 | 10 | 0 | 23 |
+| **Accepted** | 14 | 10 | 0 | 24 |
 | **Total** | 436 | 914 | 396 | 1746 |
 
 ## Solutions
@@ -402,7 +402,7 @@
 |[1782](https://leetcode.com/problems/count-pairs-of-nodes/)| * Count Pairs Of Nodes|37%|Hard||
 |[1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)| * Sum of Beauty of All Substrings|59%|Medium||
 |[1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)| * Check if Number is a Sum of Powers of Three|64%|Medium||
-|[1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)| * Find Nearest Point That Has the Same X or Y Coordinate|68%|Easy||
+|[1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)| * Find Nearest Point That Has the Same X or Y Coordinate|67%|Easy||
 |[1776](https://leetcode.com/problems/car-fleet-ii/)| * Car Fleet II|52%|Hard||
 |[1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)| * Equal Sum Arrays With Minimum Number of Operations|51%|Medium||
 |[1774](https://leetcode.com/problems/closest-dessert-cost/)| * Closest Dessert Cost|45%|Medium||
@@ -497,7 +497,7 @@
 |[1656](https://leetcode.com/problems/design-an-ordered-stream/)| * Design an Ordered Stream|83%|Easy||
 |[1655](https://leetcode.com/problems/distribute-repeating-integers/)| * Distribute Repeating Integers|40%|Hard||
 |[1654](https://leetcode.com/problems/minimum-jumps-to-reach-home/)| * Minimum Jumps to Reach Home|27%|Medium||
-|[1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)| * Minimum Deletions to Make String Balanced|56%|Medium||
+|[1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)| * Minimum Deletions to Make String Balanced|57%|Medium||
 |[1652](https://leetcode.com/problems/defuse-the-bomb/)| * Defuse the Bomb|60%|Easy||
 |[1649](https://leetcode.com/problems/create-sorted-array-through-instructions/)| * Create Sorted Array through Instructions|37%|Hard||
 |[1648](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)| * Sell Diminishing-Valued Colored Balls|30%|Medium||
@@ -891,7 +891,7 @@
 |[1094](https://leetcode.com/problems/car-pooling/)| * Car Pooling|58%|Medium||
 |[1093](https://leetcode.com/problems/statistics-from-a-large-sample/)| * Statistics from a Large Sample|45%|Medium||
 |[1092](https://leetcode.com/problems/shortest-common-supersequence/)| * Shortest Common Supersequence |56%|Hard||
-|[1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)| * Shortest Path in Binary Matrix|43%|Medium||
+|[1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)| * Shortest Path in Binary Matrix|44%|Medium||
 |[1090](https://leetcode.com/problems/largest-values-from-labels/)| * Largest Values From Labels|60%|Medium||
 |[1089](https://leetcode.com/problems/duplicate-zeros/)| * Duplicate Zeros|51%|Easy||
 |[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)| * Smallest Subsequence of Distinct Characters|56%|Medium||
@@ -1562,7 +1562,7 @@
 |[0229](https://leetcode.com/problems/majority-element-ii/)| * Majority Element II|42%|Medium||
 |[0228](https://leetcode.com/problems/summary-ranges/)| * Summary Ranges|46%|Easy||
 |[0227](https://leetcode.com/problems/basic-calculator-ii/)| * Basic Calculator II|41%|Medium||
-|[0226](https://leetcode.com/problems/invert-binary-tree/)| * Invert Binary Tree|71%|Easy||
+|[0226](https://leetcode.com/problems/invert-binary-tree/)|[Invert Binary Tree](./Algorithms/0226.invert-binary-tree)|71%|Easy||
 |[0225](https://leetcode.com/problems/implement-stack-using-queues/)| * Implement Stack using Queues|55%|Easy||
 |[0224](https://leetcode.com/problems/basic-calculator/)| * Basic Calculator|40%|Hard||
 |[0223](https://leetcode.com/problems/rectangle-area/)| * Rectangle Area|40%|Medium||
