@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,067,907-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-26-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-27-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 16 | 10 | 0 | 26 |
+| **Accepted** | 16 | 11 | 0 | 27 |
 | **Total** | 436 | 914 | 396 | 1746 |
 
 ## Solutions
@@ -1422,7 +1422,7 @@
 |[0441](https://leetcode.com/problems/arranging-coins/)| * Arranging Coins|45%|Easy||
 |[0440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)| * K-th Smallest in Lexicographical Order|30%|Hard||
 |[0438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| * Find All Anagrams in a String|48%|Medium||
-|[0437](https://leetcode.com/problems/path-sum-iii/)| * Path Sum III|50%|Medium||
+|[0437](https://leetcode.com/problems/path-sum-iii/)|[Path Sum III](./Algorithms/0437.path-sum-iii)|50%|Medium||
 |[0436](https://leetcode.com/problems/find-right-interval/)| * Find Right Interval|49%|Medium||
 |[0435](https://leetcode.com/problems/non-overlapping-intervals/)| * Non-overlapping Intervals|48%|Medium||
 |[0434](https://leetcode.com/problems/number-of-segments-in-a-string/)| * Number of Segments in a String|37%|Easy||
