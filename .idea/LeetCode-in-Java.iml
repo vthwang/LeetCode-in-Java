@@ -29,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0110.balanced-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0226.invert-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0543.diameter-of-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0617.merge-two-binary-trees" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
