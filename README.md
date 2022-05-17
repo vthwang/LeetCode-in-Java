@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,067,907-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-27-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-28-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 16 | 11 | 0 | 27 |
+| **Accepted** | 17 | 11 | 0 | 28 |
 | **Total** | 436 | 914 | 396 | 1746 |
 
 ## Solutions
@@ -23,7 +23,7 @@
 |[2274](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)| * Maximum Consecutive Floors Without Special Floors|52%|Medium||
 |[2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)| * Find Resultant Array After Removing Anagrams|54%|Easy||
 |[2272](https://leetcode.com/problems/substring-with-largest-variance/)| * Substring With Largest Variance|24%|Hard||
-|[2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/)| * Maximum White Tiles Covered by a Carpet|25%|Medium||
+|[2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/)| * Maximum White Tiles Covered by a Carpet|26%|Medium||
 |[2270](https://leetcode.com/problems/number-of-ways-to-split-array/)| * Number of Ways to Split Array|41%|Medium||
 |[2269](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)| * Find the K-Beauty of a Number|56%|Easy||
 |[2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)| *  Check if There Is a Valid Parentheses String Path|36%|Hard||
@@ -79,7 +79,7 @@
 |[2203](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)| * Minimum Weighted Subgraph With the Required Paths|35%|Hard||
 |[2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)| * Maximize the Topmost Element After K Moves|22%|Medium||
 |[2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)| * Count Artifacts That Can Be Extracted|54%|Medium||
-|[2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| * Find All K-Distant Indices in an Array|64%|Easy||
+|[2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| * Find All K-Distant Indices in an Array|63%|Easy||
 |[2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)| * Replace Non-Coprime Numbers in Array|35%|Hard||
 |[2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/)| * Create Binary Tree From Descriptions|70%|Medium||
 |[2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| * Append K Integers With Minimal Sum|23%|Medium||
@@ -233,7 +233,7 @@
 |[2007](https://leetcode.com/problems/find-original-array-from-doubled-array/)| * Find Original Array From Doubled Array|38%|Medium||
 |[2006](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)| * Count Number of Pairs With Absolute Difference K|82%|Easy||
 |[2003](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/)| * Smallest Missing Genetic Value in Each Subtree|42%|Hard||
-|[2002](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)| * Maximum Product of the Length of Two Palindromic Subsequences|53%|Medium||
+|[2002](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)| * Maximum Product of the Length of Two Palindromic Subsequences|52%|Medium||
 |[2001](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)| * Number of Pairs of Interchangeable Rectangles|43%|Medium||
 |[2000](https://leetcode.com/problems/reverse-prefix-of-word/)| * Reverse Prefix of Word|77%|Easy||
 |[1998](https://leetcode.com/problems/gcd-sort-of-an-array/)| * GCD Sort of an Array|45%|Hard||
@@ -1317,7 +1317,7 @@
 |[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| * Shortest Unsorted Continuous Subarray|35%|Medium||
 |[0576](https://leetcode.com/problems/out-of-boundary-paths/)| * Out of Boundary Paths|40%|Medium||
 |[0575](https://leetcode.com/problems/distribute-candies/)| * Distribute Candies|65%|Easy||
-|[0572](https://leetcode.com/problems/subtree-of-another-tree/)| * Subtree of Another Tree|45%|Easy||
+|[0572](https://leetcode.com/problems/subtree-of-another-tree/)|[Subtree of Another Tree](./Algorithms/0572.subtree-of-another-tree)|45%|Easy||
 |[0567](https://leetcode.com/problems/permutation-in-string/)| * Permutation in String|44%|Medium||
 |[0566](https://leetcode.com/problems/reshape-the-matrix/)| * Reshape the Matrix|62%|Easy||
 |[0565](https://leetcode.com/problems/array-nesting/)| * Array Nesting|56%|Medium||
@@ -1738,7 +1738,7 @@
 |[0029](https://leetcode.com/problems/divide-two-integers/)| * Divide Two Integers|16%|Medium||
 |[0028](https://leetcode.com/problems/implement-strstr/)| * Implement strStr()|35%|Easy||
 |[0027](https://leetcode.com/problems/remove-element/)| * Remove Element|51%|Easy||
-|[0026](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| * Remove Duplicates from Sorted Array|48%|Easy||
+|[0026](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| * Remove Duplicates from Sorted Array|49%|Easy||
 |[0025](https://leetcode.com/problems/reverse-nodes-in-k-group/)| * Reverse Nodes in k-Group|51%|Hard||
 |[0024](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Swap Nodes in Pairs](./Algorithms/0024.swap-nodes-in-pairs)|58%|Medium||
 |[0023](https://leetcode.com/problems/merge-k-sorted-lists/)| * Merge k Sorted Lists|47%|Hard||

@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1067907,
-	"Updated": "2022-05-17T13:00:09.361778-04:00",
+	"Updated": "2022-05-17T16:46:50.567416-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 16,
+			"Solved": 17,
 			"Total": 436
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 27,
+			"Solved": 28,
 			"Total": 1746
 		}
 	},
@@ -311,7 +311,7 @@
 			"ID": 26,
 			"Title": "Remove Duplicates from Sorted Array",
 			"TitleSlug": "remove-duplicates-from-sorted-array",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -6319,7 +6319,7 @@
 			"TitleSlug": "subtree-of-another-tree",
 			"PassRate": "45%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22047,7 +22047,7 @@
 			"ID": 2002,
 			"Title": "Maximum Product of the Length of Two Palindromic Subsequences",
 			"TitleSlug": "maximum-product-of-the-length-of-two-palindromic-subsequences",
-			"PassRate": "53%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24225,7 +24225,7 @@
 			"ID": 2200,
 			"Title": "Find All K-Distant Indices in an Array",
 			"TitleSlug": "find-all-k-distant-indices-in-an-array",
-			"PassRate": "64%",
+			"PassRate": "63%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24973,7 +24973,7 @@
 			"ID": 2268,
 			"Title": "Minimum Number of Keypresses",
 			"TitleSlug": "minimum-number-of-keypresses",
-			"PassRate": "83%",
+			"PassRate": "84%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25006,7 +25006,7 @@
 			"ID": 2271,
 			"Title": "Maximum White Tiles Covered by a Carpet",
 			"TitleSlug": "maximum-white-tiles-covered-by-a-carpet",
-			"PassRate": "25%",
+			"PassRate": "26%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
