@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1067907,
-	"Updated": "2022-05-17T12:36:09.962186-04:00",
+	"Updated": "2022-05-17T12:47:34.525746-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 15,
+			"Solved": 16,
 			"Total": 436
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 25,
+			"Solved": 26,
 			"Total": 1746
 		}
 	},
@@ -1259,7 +1259,7 @@
 			"TitleSlug": "path-sum",
 			"PassRate": "45%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

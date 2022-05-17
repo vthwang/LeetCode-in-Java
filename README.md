@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,067,907-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-25-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-26-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 15 | 10 | 0 | 25 |
+| **Accepted** | 16 | 10 | 0 | 26 |
 | **Total** | 436 | 914 | 396 | 1746 |
 
 ## Solutions
@@ -1652,7 +1652,7 @@
 |[0115](https://leetcode.com/problems/distinct-subsequences/)| * Distinct Subsequences|42%|Hard||
 |[0114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| * Flatten Binary Tree to Linked List|57%|Medium||
 |[0113](https://leetcode.com/problems/path-sum-ii/)| * Path Sum II|54%|Medium||
-|[0112](https://leetcode.com/problems/path-sum/)| * Path Sum|45%|Easy||
+|[0112](https://leetcode.com/problems/path-sum/)|[Path Sum](./Algorithms/0112.path-sum)|45%|Easy||
 |[0111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| * Minimum Depth of Binary Tree|42%|Easy||
 |[0110](https://leetcode.com/problems/balanced-binary-tree/)|[Balanced Binary Tree](./Algorithms/0110.balanced-binary-tree)|46%|Easy||
 |[0109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| * Convert Sorted List to Binary Search Tree|55%|Medium||
