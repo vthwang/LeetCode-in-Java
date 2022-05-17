@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 1067907,
-	"Updated": "2022-05-17T16:46:50.567416-04:00",
+	"Updated": "2022-05-17T16:53:45.629741-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 17,
+			"Solved": 18,
 			"Total": 436
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 28,
+			"Solved": 29,
 			"Total": 1746
 		}
 	},
@@ -1138,7 +1138,7 @@
 			"TitleSlug": "symmetric-tree",
 			"PassRate": "51%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25017,7 +25017,7 @@
 			"ID": 2272,
 			"Title": "Substring With Largest Variance",
 			"TitleSlug": "substring-with-largest-variance",
-			"PassRate": "24%",
+			"PassRate": "25%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,

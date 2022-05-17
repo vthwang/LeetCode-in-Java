@@ -32,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0112.path-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0437.path-sum-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0617.merge-two-binary-trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0101.symmetric-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0572.subtree-of-another-tree" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />

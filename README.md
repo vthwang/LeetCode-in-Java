@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-1,067,907-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-28-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-29-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 17 | 11 | 0 | 28 |
+| **Accepted** | 18 | 11 | 0 | 29 |
 | **Total** | 436 | 914 | 396 | 1746 |
 
 ## Solutions
@@ -22,7 +22,7 @@
 |[2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/)| * Largest Combination With Bitwise AND Greater Than Zero|69%|Medium||
 |[2274](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)| * Maximum Consecutive Floors Without Special Floors|52%|Medium||
 |[2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)| * Find Resultant Array After Removing Anagrams|54%|Easy||
-|[2272](https://leetcode.com/problems/substring-with-largest-variance/)| * Substring With Largest Variance|24%|Hard||
+|[2272](https://leetcode.com/problems/substring-with-largest-variance/)| * Substring With Largest Variance|25%|Hard||
 |[2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/)| * Maximum White Tiles Covered by a Carpet|26%|Medium||
 |[2270](https://leetcode.com/problems/number-of-ways-to-split-array/)| * Number of Ways to Split Array|41%|Medium||
 |[2269](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)| * Find the K-Beauty of a Number|56%|Easy||
@@ -1663,7 +1663,7 @@
 |[0104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Maximum Depth of Binary Tree](./Algorithms/0104.maximum-depth-of-binary-tree)|71%|Easy||
 |[0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| * Binary Tree Zigzag Level Order Traversal|53%|Medium||
 |[0102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| * Binary Tree Level Order Traversal|61%|Medium||
-|[0101](https://leetcode.com/problems/symmetric-tree/)| * Symmetric Tree|51%|Easy||
+|[0101](https://leetcode.com/problems/symmetric-tree/)|[Symmetric Tree](./Algorithms/0101.symmetric-tree)|51%|Easy||
 |[0100](https://leetcode.com/problems/same-tree/)| * Same Tree|55%|Easy||
 |[0099](https://leetcode.com/problems/recover-binary-search-tree/)| * Recover Binary Search Tree|48%|Medium||
 |[0098](https://leetcode.com/problems/validate-binary-search-tree/)| * Validate Binary Search Tree|30%|Medium||
