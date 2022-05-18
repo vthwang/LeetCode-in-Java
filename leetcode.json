@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 974531,
-	"Updated": "2022-05-18T12:05:04.796822-04:00",
+	"Updated": "2022-05-18T12:14:02.083922-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 19,
+			"Solved": 20,
 			"Total": 437
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 30,
+			"Solved": 31,
 			"Total": 1746
 		}
 	},
@@ -4471,7 +4471,7 @@
 			"TitleSlug": "sum-of-left-leaves",
 			"PassRate": "55%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -5404,7 +5404,7 @@
 			"ID": 489,
 			"Title": "Robot Room Cleaner",
 			"TitleSlug": "robot-room-cleaner",
-			"PassRate": "75%",
+			"PassRate": "76%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -17174,7 +17174,7 @@
 			"ID": 1559,
 			"Title": "Detect Cycles in 2D Grid",
 			"TitleSlug": "detect-cycles-in-2d-grid",
-			"PassRate": "47%",
+			"PassRate": "48%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25006,7 +25006,7 @@
 			"ID": 2271,
 			"Title": "Maximum White Tiles Covered by a Carpet",
 			"TitleSlug": "maximum-white-tiles-covered-by-a-carpet",
-			"PassRate": "27%",
+			"PassRate": "26%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
