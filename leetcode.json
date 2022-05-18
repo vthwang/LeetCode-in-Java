@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 974531,
-	"Updated": "2022-05-18T12:14:02.083922-04:00",
+	"Updated": "2022-05-18T12:27:37.573819-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 20,
 			"Total": 437
 		},
 		"Medium": {
-			"Solved": 11,
+			"Solved": 12,
 			"Total": 913
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 31,
+			"Solved": 32,
 			"Total": 1746
 		}
 	},
@@ -5448,7 +5448,7 @@
 			"ID": 493,
 			"Title": "Reverse Pairs",
 			"TitleSlug": "reverse-pairs",
-			"PassRate": "30%",
+			"PassRate": "29%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -7584,7 +7584,7 @@
 			"TitleSlug": "longest-univalue-path",
 			"PassRate": "39%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -14369,7 +14369,7 @@
 			"ID": 1304,
 			"Title": "Find N Unique Integers Sum up to Zero",
 			"TitleSlug": "find-n-unique-integers-sum-up-to-zero",
-			"PassRate": "77%",
+			"PassRate": "76%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

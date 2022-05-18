@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-974,531-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-31-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-32-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 20 | 11 | 0 | 31 |
+| **Accepted** | 20 | 12 | 0 | 32 |
 | **Total** | 437 | 913 | 396 | 1746 |
 
 ## Solutions
@@ -771,7 +771,7 @@
 |[1307](https://leetcode.com/problems/verbal-arithmetic-puzzle/)| * Verbal Arithmetic Puzzle|34%|Hard||
 |[1306](https://leetcode.com/problems/jump-game-iii/)| * Jump Game III|62%|Medium||
 |[1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| * All Elements in Two Binary Search Trees|79%|Medium||
-|[1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| * Find N Unique Integers Sum up to Zero|77%|Easy||
+|[1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| * Find N Unique Integers Sum up to Zero|76%|Easy||
 |[1302](https://leetcode.com/problems/deepest-leaves-sum/)| * Deepest Leaves Sum|87%|Medium||
 |[1301](https://leetcode.com/problems/number-of-paths-with-max-score/)| * Number of Paths with Max Score|38%|Hard||
 |[1300](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)| * Sum of Mutated Array Closest to Target|42%|Medium||
@@ -1247,7 +1247,7 @@
 |[0690](https://leetcode.com/problems/employee-importance/)| * Employee Importance|64%|Medium||
 |[0689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)| * Maximum Sum of 3 Non-Overlapping Subarrays|48%|Hard||
 |[0688](https://leetcode.com/problems/knight-probability-in-chessboard/)| * Knight Probability in Chessboard|51%|Medium||
-|[0687](https://leetcode.com/problems/longest-univalue-path/)| * Longest Univalue Path|39%|Medium||
+|[0687](https://leetcode.com/problems/longest-univalue-path/)|[Longest Univalue Path](./Algorithms/0687.longest-univalue-path)|39%|Medium||
 |[0686](https://leetcode.com/problems/repeated-string-match/)| * Repeated String Match|33%|Medium||
 |[0685](https://leetcode.com/problems/redundant-connection-ii/)| * Redundant Connection II|33%|Hard||
 |[0684](https://leetcode.com/problems/redundant-connection/)| * Redundant Connection|61%|Medium||
@@ -1375,7 +1375,7 @@
 |[0496](https://leetcode.com/problems/next-greater-element-i/)| * Next Greater Element I|70%|Easy||
 |[0495](https://leetcode.com/problems/teemo-attacking/)| * Teemo Attacking|56%|Easy||
 |[0494](https://leetcode.com/problems/target-sum/)| * Target Sum|45%|Medium||
-|[0493](https://leetcode.com/problems/reverse-pairs/)| * Reverse Pairs|30%|Hard||
+|[0493](https://leetcode.com/problems/reverse-pairs/)| * Reverse Pairs|29%|Hard||
 |[0492](https://leetcode.com/problems/construct-the-rectangle/)| * Construct the Rectangle|52%|Easy||
 |[0491](https://leetcode.com/problems/increasing-subsequences/)| * Increasing Subsequences|50%|Medium||
 |[0488](https://leetcode.com/problems/zuma-game/)| * Zuma Game|35%|Hard||
