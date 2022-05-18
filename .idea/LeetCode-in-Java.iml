@@ -35,6 +35,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0101.symmetric-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0572.subtree-of-another-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0111.minimum-depth-of-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0404.sum-of-left-leaves" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

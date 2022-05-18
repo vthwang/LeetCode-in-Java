@@ -23,6 +23,6 @@ Output: 5
 ```
 
 ## Solutions
-1. [Recursion](./SymmetricTree.java)
+1. [Recursion](./MinimumDepthOfBinaryTree.java)
     - Runtime: faster than 11.08%.
     - Memory usage: less than 67.44%.
