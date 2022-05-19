@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-912,122-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-34-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-35-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,7 +11,7 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 21 | 13 | 0 | 34 |
+| **Accepted** | 22 | 13 | 0 | 35 |
 | **Total** | 437 | 913 | 396 | 1746 |
 
 ## Solutions
@@ -64,7 +64,7 @@
 |[2222](https://leetcode.com/problems/number-of-ways-to-select-buildings/)| * Number of Ways to Select Buildings|45%|Medium||
 |[2221](https://leetcode.com/problems/find-triangular-sum-of-an-array/)| * Find Triangular Sum of an Array|79%|Medium||
 |[2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)| * Minimum Bit Flips to Convert Number|81%|Easy||
-|[2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| * Maximum Value of K Coins From Piles|49%|Hard||
+|[2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| * Maximum Value of K Coins From Piles|48%|Hard||
 |[2217](https://leetcode.com/problems/find-palindrome-with-fixed-length/)| * Find Palindrome With Fixed Length|34%|Medium||
 |[2216](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)| * Minimum Deletions to Make Array Beautiful|44%|Medium||
 |[2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/)| * Find the Difference of Two Arrays|69%|Easy||
@@ -483,7 +483,7 @@
 |[1674](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)| * Minimum Moves to Make Array Complementary|37%|Medium||
 |[1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/)| * Find the Most Competitive Subsequence|48%|Medium||
 |[1672](https://leetcode.com/problems/richest-customer-wealth/)| * Richest Customer Wealth|89%|Easy||
-|[1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)| * Minimum Number of Removals to Make Mountain Array|42%|Hard||
+|[1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)| * Minimum Number of Removals to Make Mountain Array|43%|Hard||
 |[1670](https://leetcode.com/problems/design-front-middle-back-queue/)| * Design Front Middle Back Queue|55%|Medium||
 |[1669](https://leetcode.com/problems/merge-in-between-linked-lists/)| * Merge In Between Linked Lists|74%|Medium||
 |[1668](https://leetcode.com/problems/maximum-repeating-substring/)| * Maximum Repeating Substring|39%|Easy||
@@ -862,7 +862,7 @@
 |[1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)| * Number of Dice Rolls With Target Sum|47%|Medium||
 |[1154](https://leetcode.com/problems/day-of-the-year/)| * Day of the Year|50%|Easy||
 |[1147](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)| * Longest Chunked Palindrome Decomposition|60%|Hard||
-|[1146](https://leetcode.com/problems/snapshot-array/)| * Snapshot Array|36%|Medium||
+|[1146](https://leetcode.com/problems/snapshot-array/)| * Snapshot Array|37%|Medium||
 |[1145](https://leetcode.com/problems/binary-tree-coloring-game/)| * Binary Tree Coloring Game|51%|Medium||
 |[1144](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)| * Decrease Elements To Make Array Zigzag|47%|Medium||
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| * Longest Common Subsequence|58%|Medium||
@@ -1051,7 +1051,7 @@
 |[0906](https://leetcode.com/problems/super-palindromes/)| * Super Palindromes|39%|Hard||
 |[0905](https://leetcode.com/problems/sort-array-by-parity/)| * Sort Array By Parity|75%|Easy||
 |[0904](https://leetcode.com/problems/fruit-into-baskets/)| * Fruit Into Baskets|42%|Medium||
-|[0903](https://leetcode.com/problems/valid-permutations-for-di-sequence/)| * Valid Permutations for DI Sequence|56%|Hard||
+|[0903](https://leetcode.com/problems/valid-permutations-for-di-sequence/)| * Valid Permutations for DI Sequence|57%|Hard||
 |[0902](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)| * Numbers At Most N Given Digit Set|40%|Hard||
 |[0901](https://leetcode.com/problems/online-stock-span/)| * Online Stock Span|63%|Medium||
 |[0900](https://leetcode.com/problems/rle-iterator/)| * RLE Iterator|58%|Medium||
@@ -1126,7 +1126,7 @@
 |[0831](https://leetcode.com/problems/masking-personal-information/)| * Masking Personal Information|46%|Medium||
 |[0830](https://leetcode.com/problems/positions-of-large-groups/)| * Positions of Large Groups|51%|Easy||
 |[0829](https://leetcode.com/problems/consecutive-numbers-sum/)| * Consecutive Numbers Sum|41%|Hard||
-|[0828](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)| * Count Unique Characters of All Substrings of a Given String|49%|Hard||
+|[0828](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)| * Count Unique Characters of All Substrings of a Given String|50%|Hard||
 |[0827](https://leetcode.com/problems/making-a-large-island/)| * Making A Large Island|44%|Hard||
 |[0826](https://leetcode.com/problems/most-profit-assigning-work/)| * Most Profit Assigning Work|42%|Medium||
 |[0825](https://leetcode.com/problems/friends-of-appropriate-ages/)| * Friends Of Appropriate Ages|46%|Medium||
@@ -1288,7 +1288,7 @@
 |[0640](https://leetcode.com/problems/solve-the-equation/)| * Solve the Equation|43%|Medium||
 |[0639](https://leetcode.com/problems/decode-ways-ii/)| * Decode Ways II|30%|Hard||
 |[0638](https://leetcode.com/problems/shopping-offers/)| * Shopping Offers|54%|Medium||
-|[0637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)| * Average of Levels in Binary Tree|68%|Easy||
+|[0637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Average of Levels in Binary Tree](./Algorithms/0637.average-of-levels-in-binary-tree)|68%|Easy||
 |[0636](https://leetcode.com/problems/exclusive-time-of-functions/)| * Exclusive Time of Functions|60%|Medium||
 |[0633](https://leetcode.com/problems/sum-of-square-numbers/)|[Sum of Square Numbers](./Algorithms/0633.sum-of-square-numbers)|34%|Medium||
 |[0632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)| * Smallest Range Covering Elements from K Lists|58%|Hard||

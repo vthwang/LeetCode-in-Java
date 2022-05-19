@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 912122,
-	"Updated": "2022-05-19T12:07:58.446762-04:00",
+	"Updated": "2022-05-19T13:46:25.007025-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 21,
+			"Solved": 22,
 			"Total": 437
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 34,
+			"Solved": 35,
 			"Total": 1746
 		}
 	},
@@ -7034,7 +7034,7 @@
 			"TitleSlug": "average-of-levels-in-binary-tree",
 			"PassRate": "68%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -9133,7 +9133,7 @@
 			"ID": 828,
 			"Title": "Count Unique Characters of All Substrings of a Given String",
 			"TitleSlug": "count-unique-characters-of-all-substrings-of-a-given-string",
-			"PassRate": "49%",
+			"PassRate": "50%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -9958,7 +9958,7 @@
 			"ID": 903,
 			"Title": "Valid Permutations for DI Sequence",
 			"TitleSlug": "valid-permutations-for-di-sequence",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -12631,7 +12631,7 @@
 			"ID": 1146,
 			"Title": "Snapshot Array",
 			"TitleSlug": "snapshot-array",
-			"PassRate": "36%",
+			"PassRate": "37%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18406,7 +18406,7 @@
 			"ID": 1671,
 			"Title": "Minimum Number of Removals to Make Mountain Array",
 			"TitleSlug": "minimum-number-of-removals-to-make-mountain-array",
-			"PassRate": "42%",
+			"PassRate": "43%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24379,7 +24379,7 @@
 			"ID": 2214,
 			"Title": "Minimum Health to Beat Game",
 			"TitleSlug": "minimum-health-to-beat-game",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -24423,7 +24423,7 @@
 			"ID": 2218,
 			"Title": "Maximum Value of K Coins From Piles",
 			"TitleSlug": "maximum-value-of-k-coins-from-piles",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,

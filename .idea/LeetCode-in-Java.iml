@@ -38,6 +38,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0404.sum-of-left-leaves" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0687.longest-univalue-path" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0337.house-robber-iii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0637.average-of-levels-in-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0671.second-minimum-node-in-a-binary-tree" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
