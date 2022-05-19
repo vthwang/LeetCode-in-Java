@@ -56,7 +56,7 @@ func getRanking() int {
 	var leetcodeUser leetcodeUser
 	err := json.Unmarshal(data, &leetcodeUser)
 	if err != nil {
-		log.Fatal("Unmarshal leetcodeUser failed with error: ", err.Error())
+		log.Fatal("❌ Unmarshal leetcodeUser failed with error: ", err.Error())
 	}
 
 	r := leetcodeUser.Data.MatchedUser.Profile.Ranking

@@ -21,7 +21,7 @@ func newReq() *request.Request {
 }
 
 func signin() *request.Request {
-	log.Println("Signing to your account...")
+	log.Println("Signing to your account... 🔑🔑🔑")
 	cfg := getConfig()
 
 	req := request.NewRequest(new(http.Client))
@@ -40,7 +40,7 @@ func signin() *request.Request {
 func getCSRFToken(req *request.Request) string {
 	resp, err := req.Get(loginPageURL)
 	if err != nil {
-		log.Panicf("Failed to get from %s: %s", loginPageURL, err)
+		log.Panicf("❌ Failed to get from %s: %s", loginPageURL, err)
 	}
 
 	cookies := resp.Cookies()
@@ -51,7 +51,7 @@ func getCSRFToken(req *request.Request) string {
 		}
 	}
 
-	panic("Failed to find CSRF token in Cookies")
+	panic("❌ Failed to find CSRF token in Cookies.")
 }
 
 func login(req *request.Request) error {

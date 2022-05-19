@@ -24,11 +24,11 @@ type leetcode struct {
 }
 
 func newLeetCode() *leetcode {
-	log.Println("=== Getting data from LeetCode now ===")
+	log.Println("Downloading data from Leetcode... 🐎🐎🐎")
 
 	lc, err := readLeetCode()
 	if err != nil {
-		log.Println("Failed to get LeetCode's record, regenerate data now. Reason: ", err.Error())
+		log.Println("❌ Failed to get LeetCode's record, regenerate data now. Reason: ", err.Error())
 		lc = getLeetCode()
 	}
 
@@ -36,19 +36,19 @@ func newLeetCode() *leetcode {
 
 	lc.save()
 
-	log.Println("=== Got data from LeetCode ===")
+	log.Println("Leetcode data has been downloaded. 🛫🛫🛫")
 	return lc
 }
 
 func readLeetCode() (*leetcode, error) {
 	data, err := ioutil.ReadFile(leetcodeJSON)
 	if err != nil {
-		return nil, errors.New("Failed to read leetcode.json: " + err.Error())
+		return nil, errors.New("❌ Failed to read leetcode.json: " + err.Error())
 	}
 
 	lc := new(leetcode)
 	if err := json.Unmarshal(data, lc); err != nil {
-		return nil, errors.New("Unmarshal json failed: " + err.Error())
+		return nil, errors.New("❌ Unmarshal json failed: " + err.Error())
 	}
 
 	return lc, nil
@@ -56,27 +56,27 @@ func readLeetCode() (*leetcode, error) {
 
 func (lc *leetcode) save() {
 	if err := os.Remove(leetcodeJSON); err != nil {
-		log.Panicf("Failed to delete %s, Reason: %s", leetcodeJSON, err)
+		log.Panicf("❌ Failed to delete %s, Reason: %s.", leetcodeJSON, err)
 	}
 
 	raw, err := json.MarshalIndent(lc, "", "\t")
 	if err != nil {
-		log.Fatal("Failed to  make json to []bytes: ", err)
+		log.Fatal("❌ Failed to  make json to []bytes: ", err)
 	}
 	if err = ioutil.WriteFile(leetcodeJSON, raw, 0666); err != nil {
 		log.Fatal("Failed to save marshalled LeetCode to file: ", err)
 	}
-	log.Println("Saved latest LeetCode record.")
+	log.Println("Saved latest Leetcode record. ✅ ")
 	return
 }
 
 func (lc *leetcode) refresh() {
 	if time.Since(lc.Updated) < time.Minute {
-		log.Printf("LeetCode updated %s ago，Skip this refresh.\n", time.Since(lc.Updated))
+		log.Printf("Leetcode updated %s ago，Skip this update. ⏩ \n", time.Since(lc.Updated))
 		return
 	}
 
-	log.Println("refresh LeetCode data.")
+	log.Println("Refreshing Leetcode data... 🏗️🏗️🏗️")
 	newLC := getLeetCode()
 
 	logDiff(lc, newLC)
@@ -86,11 +86,11 @@ func (lc *leetcode) refresh() {
 
 func logDiff(old, new *leetcode) {
 	str := fmt.Sprintf("Current Ranking is %d", new.Ranking)
-	verb, delta := "Getting better for", old.Ranking-new.Ranking
+	verb, delta := "Getting better 😀 for", old.Ranking-new.Ranking
 	if new.Ranking > old.Ranking {
-		verb, delta = "Getting worse for", new.Ranking-old.Ranking
+		verb, delta = "Getting worse 😭 for", new.Ranking-old.Ranking
 	}
-	str += fmt.Sprintf(", %s %d ranks", verb, delta)
+	str += fmt.Sprintf(", %s %d ranks.", verb, delta)
 	log.Println(str)
 
 	lenOld, lenNew := len(old.Problems), len(new.Problems)
@@ -101,33 +101,33 @@ func logDiff(old, new *leetcode) {
 	for i < lenOld && i < lenNew {
 		o, n := old.Problems[i], new.Problems[i]
 		if o.IsAccepted == false && n.IsAccepted == true {
-			log.Printf("~New Completed~ %d - %s", n.ID, n.Title)
+			log.Printf("🎉 New Completed %d - %s", n.ID, n.Title)
 			hasNewFinished = true
 		}
 
 		if o.IsFavor == false && n.IsFavor == true {
-			log.Printf("~New Favoriate~ %d - %s", n.ID, n.Title)
+			log.Printf("🌟 New Favoriate %d - %s", n.ID, n.Title)
 		} else if o.IsFavor == true && n.IsFavor == false {
-			log.Printf("~Cancel Favoriate~ %d - %s", o.ID, o.Title)
+			log.Printf("💥 Cancel Favoriate %d - %s", o.ID, o.Title)
 			time.Sleep(time.Second)
 		}
 
 		if o.Title == "" && n.Title != "" {
-			log.Printf("New Question: %d - %s", new.Problems[i].ID, new.Problems[i].Title)
+			log.Printf("🙋 New Question: %d - %s", new.Problems[i].ID, new.Problems[i].Title)
 		}
 
 		i++
 	}
 
-	log.Printf("Checked %d questions\n", i)
+	log.Printf("Checked %d questions. ✅ \n", i)
 
 	if !hasNewFinished {
-		log.Println("~Can't find new completed question~")
+		log.Println("Can't find new completed question. ❎ ")
 	}
 
 	for i < lenNew {
 		if new.Problems[i].isAvailable() {
-			log.Printf("New Question: %d - %s", new.Problems[i].ID, new.Problems[i].Title)
+			log.Printf("🙋 New Question: %d - %s", new.Problems[i].ID, new.Problems[i].Title)
 		}
 		i++
 	}
@@ -136,7 +136,7 @@ func logDiff(old, new *leetcode) {
 func (lc *leetcode) Badges() string {
 	r, err := thousands.Separate(lc.Ranking, "en")
 	if err != nil {
-		log.Fatalf("thounsands error: %s", err.Error())
+		log.Fatalf("❌ Thounsands error: %s", err.Error())
 	}
 
 	ranking := "[![LeetCode Ranking](https://img.shields.io/badge/" + lc.Username + "-" + r + "-blue.svg)](https://leetcode.com/TingSyuanWang/)"

@@ -28,7 +28,7 @@ type JsL1Data struct {
 }
 
 func getRaw(URL string) []byte {
-	log.Printf("Start downloading data from %s", URL)
+	log.Printf("Downloading data from %s... 🛬🛬🛬", URL)
 
 	req := newReq()
 	resp, err := req.Get(URL)
@@ -44,7 +44,7 @@ func getRaw(URL string) []byte {
 }
 
 func getGraphql(URL string, body map[string]string) []byte {
-	log.Printf("Start downloading data from %s", URL)
+	log.Printf("Downloading data from %s... 🛬🛬🛬", URL)
 
 	jsonValue, _ := json.Marshal(body)
 	req, err := http.NewRequest("POST", URL, bytes.NewBuffer(jsonValue))
@@ -54,7 +54,7 @@ func getGraphql(URL string, body map[string]string) []byte {
 	defer resp.Body.Close()
 
 	if err != nil {
-		log.Fatal("The HTTP request failed with error: ", err.Error())
+		log.Fatal("❌ The HTTP request failed with error: ", err.Error())
 	}
 
 	data, _ := ioutil.ReadAll(resp.Body)
@@ -80,24 +80,24 @@ func getProblemsGraphql(p problem) (string, string) {
 
 	resp, err := http.Post("https://leetcode.com/graphql", "application/json", postContent)
 	if err != nil {
-		log.Fatal("getGraphql: POST Error: " + err.Error())
+		log.Fatal("❌ getGraphql - POST Error: " + err.Error())
 	}
 
 	defer resp.Body.Close()
 
 	if resp.StatusCode != 200 {
-		log.Fatal("Get question failed. code: " + resp.Status)
+		log.Fatal("❌ Get question failed. code: " + resp.Status)
 	}
 
 	respBytes, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
-		log.Fatal("getGraphql: Read Error: " + err.Error())
+		log.Fatal("❌ getGraphql - Read Error: " + err.Error())
 	}
 
 	res := &JsL1Data{}
 	err = json.Unmarshal(respBytes, &res)
 	if err != nil {
-		log.Fatal("Unmarshal Error: " + err.Error())
+		log.Fatal("❌ Unmarshal Error: " + err.Error())
 	}
 
 	code := ""

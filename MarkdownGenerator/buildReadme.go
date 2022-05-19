@@ -10,7 +10,7 @@ import (
 )
 
 func buildReadme() {
-	log.Println("=== README.md is updating. ===")
+	log.Println("README.md is updating... 🐎🐎🐎")
 
 	lc := newLeetCode()
 
@@ -18,14 +18,14 @@ func buildReadme() {
 
 	makeMyFavoriteFile(lc)
 
-	log.Println("=== README.md updated. ===")
+	log.Println("README.md has been updated. 🚀🚀🚀")
 }
 
 func makeReadmeFile(lc *leetcode) {
 	file := "README.md"
 	err := os.Remove(file)
 	if err != nil {
-		log.Fatal("Failed to remove README.md file: ", err)
+		log.Fatal("❌ Failed to remove README.md file: ", err)
 	}
 
 	var b bytes.Buffer
@@ -45,7 +45,7 @@ func makeMyFavoriteFile(lc *leetcode) {
 	file := "Favorite.md"
 	err := os.Remove(file)
 	if err != nil {
-		log.Fatal("Couldn't remove Favorite.md file: ", err)
+		log.Fatal("❌ Couldn't remove Favorite.md file: ", err)
 	}
 
 	var b bytes.Buffer
