@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 912122,
-	"Updated": "2022-05-19T14:25:11.814495-04:00",
+	"Updated": "2022-05-19T14:33:47.134542-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 22,
 			"Total": 437
 		},
 		"Medium": {
-			"Solved": 13,
+			"Solved": 14,
 			"Total": 913
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 35,
+			"Solved": 36,
 			"Total": 1746
 		}
 	},
@@ -5670,7 +5670,7 @@
 			"TitleSlug": "find-bottom-left-tree-value",
 			"PassRate": "65%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -9133,7 +9133,7 @@
 			"ID": 828,
 			"Title": "Count Unique Characters of All Substrings of a Given String",
 			"TitleSlug": "count-unique-characters-of-all-substrings-of-a-given-string",
-			"PassRate": "50%",
+			"PassRate": "49%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
