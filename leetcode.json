@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 871855,
-	"Updated": "2022-05-20T14:01:14.659989-04:00",
+	"Updated": "2022-05-20T14:10:24.178405-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 24,
+			"Solved": 25,
 			"Total": 437
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 38,
+			"Solved": 39,
 			"Total": 1746
 		}
 	},
@@ -1061,7 +1061,7 @@
 			"TitleSlug": "binary-tree-inorder-traversal",
 			"PassRate": "70%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21277,7 +21277,7 @@
 			"ID": 1932,
 			"Title": "Merge BSTs to Create Single BST",
 			"TitleSlug": "merge-bsts-to-create-single-bst",
-			"PassRate": "35%",
+			"PassRate": "34%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,

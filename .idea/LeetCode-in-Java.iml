@@ -41,6 +41,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0513.find-bottom-left-tree-value" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0637.average-of-levels-in-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0671.second-minimum-node-in-a-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0094.binary-tree-inorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0144.binary-tree-preorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0145.binary-tree-postorder-traversal" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
