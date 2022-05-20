@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 871855,
-	"Updated": "2022-05-20T13:53:15.030158-04:00",
+	"Updated": "2022-05-20T14:01:14.659989-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 23,
+			"Solved": 24,
 			"Total": 437
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 37,
+			"Solved": 38,
 			"Total": 1746
 		}
 	},
@@ -1622,7 +1622,7 @@
 			"TitleSlug": "binary-tree-postorder-traversal",
 			"PassRate": "64%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -5448,7 +5448,7 @@
 			"ID": 493,
 			"Title": "Reverse Pairs",
 			"TitleSlug": "reverse-pairs",
-			"PassRate": "30%",
+			"PassRate": "29%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
