@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 871855,
-	"Updated": "2022-05-20T14:10:24.178405-04:00",
+	"Updated": "2022-05-20T14:30:19.20532-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 25,
 			"Total": 437
 		},
 		"Medium": {
-			"Solved": 14,
+			"Solved": 15,
 			"Total": 913
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 39,
+			"Solved": 40,
 			"Total": 1746
 		}
 	},
@@ -7386,7 +7386,7 @@
 			"TitleSlug": "trim-a-binary-search-tree",
 			"PassRate": "66%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21277,7 +21277,7 @@
 			"ID": 1932,
 			"Title": "Merge BSTs to Create Single BST",
 			"TitleSlug": "merge-bsts-to-create-single-bst",
-			"PassRate": "34%",
+			"PassRate": "35%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
