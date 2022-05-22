@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 823607,
-	"Updated": "2022-05-21T21:56:48.139292-04:00",
+	"Updated": "2022-05-21T22:10:24.337234-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 26,
 			"Total": 437
 		},
 		"Medium": {
-			"Solved": 17,
+			"Solved": 18,
 			"Total": 913
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 43,
+			"Solved": 44,
 			"Total": 1746
 		}
 	},
@@ -2623,7 +2623,7 @@
 			"TitleSlug": "lowest-common-ancestor-of-a-binary-tree",
 			"PassRate": "55%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -12147,7 +12147,7 @@
 			"ID": 1102,
 			"Title": "Path With Maximum Minimum Value",
 			"TitleSlug": "path-with-maximum-minimum-value",
-			"PassRate": "53%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -16107,7 +16107,7 @@
 			"ID": 1462,
 			"Title": "Course Schedule IV",
 			"TitleSlug": "course-schedule-iv",
-			"PassRate": "47%",
+			"PassRate": "48%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18318,7 +18318,7 @@
 			"ID": 1663,
 			"Title": "Smallest String With A Given Numeric Value",
 			"TitleSlug": "smallest-string-with-a-given-numeric-value",
-			"PassRate": "66%",
+			"PassRate": "67%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24225,7 +24225,7 @@
 			"ID": 2200,
 			"Title": "Find All K-Distant Indices in an Array",
 			"TitleSlug": "find-all-k-distant-indices-in-an-array",
-			"PassRate": "64%",
+			"PassRate": "63%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
