@@ -29,3 +29,7 @@ Explanation: [1,null,3] and [3,1] are both height-balanced BSTs.
 1. [Recursion](./ConvertSortedArrayToBinarySearchTree.java)
     - Runtime: faster than 100%.
     - Memory usage: less than 83.90%.
+2. [Recursion](./ConvertSortedArrayToBinarySearchTree2.java)
+    - This is the default output.
+    - Runtime: faster than 100%.
+    - Memory usage: less than 72.64%.
