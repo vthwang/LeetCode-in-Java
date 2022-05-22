@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 823607,
-	"Updated": "2022-05-21T21:40:06.186969-04:00",
+	"Updated": "2022-05-21T21:56:48.139292-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 25,
+			"Solved": 26,
 			"Total": 437
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 42,
+			"Solved": 43,
 			"Total": 1746
 		}
 	},
@@ -2612,7 +2612,7 @@
 			"TitleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
 			"PassRate": "57%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24423,7 +24423,7 @@
 			"ID": 2218,
 			"Title": "Maximum Value of K Coins From Piles",
 			"TitleSlug": "maximum-value-of-k-coins-from-piles",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
