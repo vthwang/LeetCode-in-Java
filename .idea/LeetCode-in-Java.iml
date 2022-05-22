@@ -46,6 +46,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0145.binary-tree-postorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0669.trim-a-binary-search-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0230.kth-smallest-element-in-a-bst" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0538.convert-bst-to-greater-tree" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
