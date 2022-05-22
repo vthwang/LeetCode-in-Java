@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 823607,
-	"Updated": "2022-05-21T22:10:24.337234-04:00",
+	"Updated": "2022-05-21T23:11:58.253919-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 26,
+			"Solved": 27,
 			"Total": 437
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 396
 		},
 		"Total": {
-			"Solved": 44,
+			"Solved": 45,
 			"Total": 1746
 		}
 	},
@@ -1215,7 +1215,7 @@
 			"TitleSlug": "convert-sorted-array-to-binary-search-tree",
 			"PassRate": "66%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -11905,7 +11905,7 @@
 			"ID": 1080,
 			"Title": "Insufficient Nodes in Root to Leaf Paths",
 			"TitleSlug": "insufficient-nodes-in-root-to-leaf-paths",
-			"PassRate": "51%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -12631,7 +12631,7 @@
 			"ID": 1146,
 			"Title": "Snapshot Array",
 			"TitleSlug": "snapshot-array",
-			"PassRate": "37%",
+			"PassRate": "36%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -21277,7 +21277,7 @@
 			"ID": 1932,
 			"Title": "Merge BSTs to Create Single BST",
 			"TitleSlug": "merge-bsts-to-create-single-bst",
-			"PassRate": "34%",
+			"PassRate": "35%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
