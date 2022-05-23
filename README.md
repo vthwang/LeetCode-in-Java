@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-752,456-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-49-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-50-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 30 | 19 | 0 | 49 |
+| **Accepted** | 30 | 20 | 0 | 50 |
 | **Total** | 438 | 915 | 397 | 1750 |
-| **Coverage** | 6.85 % | 2.08 % | 0.00 % | 2.80 % |
+| **Coverage** | 6.85 % | 2.19 % | 0.00 % | 2.86 % |
 
 ## Solutions
 
@@ -1585,7 +1585,7 @@
 |[0211](https://leetcode.com/problems/design-add-and-search-words-data-structure/)| * Design Add and Search Words Data Structure|43%|Medium||
 |[0210](https://leetcode.com/problems/course-schedule-ii/)| * Course Schedule II|46%|Medium||
 |[0209](https://leetcode.com/problems/minimum-size-subarray-sum/)| * Minimum Size Subarray Sum|43%|Medium||
-|[0208](https://leetcode.com/problems/implement-trie-prefix-tree/)| * Implement Trie (Prefix Tree)|58%|Medium||
+|[0208](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](./Algorithms/0208.implement-trie-prefix-tree)|58%|Medium||
 |[0207](https://leetcode.com/problems/course-schedule/)| * Course Schedule|45%|Medium||
 |[0206](https://leetcode.com/problems/reverse-linked-list/)|[Reverse Linked List](./Algorithms/0206.reverse-linked-list)|70%|Easy||
 |[0205](https://leetcode.com/problems/isomorphic-strings/)| * Isomorphic Strings|42%|Easy||

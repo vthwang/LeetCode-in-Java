@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 752456,
-	"Updated": "2022-05-23T11:58:29.513264-04:00",
+	"Updated": "2022-05-23T12:21:02.501123-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 30,
 			"Total": 438
 		},
 		"Medium": {
-			"Solved": 19,
+			"Solved": 20,
 			"Total": 915
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 49,
+			"Solved": 50,
 			"Total": 1750
 		}
 	},
@@ -2315,7 +2315,7 @@
 			"TitleSlug": "implement-trie-prefix-tree",
 			"PassRate": "58%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
