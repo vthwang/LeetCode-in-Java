@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 771106,
-	"Updated": "2022-05-22T21:28:21.165157-04:00",
+	"Updated": "2022-05-22T21:39:39.060659-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 27,
+			"Solved": 28,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 46,
+			"Solved": 47,
 			"Total": 1750
 		}
 	},
@@ -5272,7 +5272,7 @@
 			"ID": 477,
 			"Title": "Total Hamming Distance",
 			"TitleSlug": "total-hamming-distance",
-			"PassRate": "51%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -7210,7 +7210,7 @@
 			"TitleSlug": "two-sum-iv-input-is-a-bst",
 			"PassRate": "58%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -11905,7 +11905,7 @@
 			"ID": 1080,
 			"Title": "Insufficient Nodes in Root to Leaf Paths",
 			"TitleSlug": "insufficient-nodes-in-root-to-leaf-paths",
-			"PassRate": "52%",
+			"PassRate": "51%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

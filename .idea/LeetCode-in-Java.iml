@@ -51,6 +51,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0236.lowest-common-ancestor-of-a-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0538.convert-bst-to-greater-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0109.convert-sorted-list-to-binary-search-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0653.two-sum-iv-input-is-a-bst" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
