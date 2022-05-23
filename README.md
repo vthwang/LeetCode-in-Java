@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-752,456-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-48-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-49-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 29 | 19 | 0 | 48 |
+| **Accepted** | 30 | 19 | 0 | 49 |
 | **Total** | 438 | 915 | 397 | 1750 |
-| **Coverage** | 6.62 % | 2.08 % | 0.00 % | 2.74 % |
+| **Coverage** | 6.85 % | 2.08 % | 0.00 % | 2.80 % |
 
 ## Solutions
 
@@ -161,7 +161,7 @@
 |[2105](https://leetcode.com/problems/watering-plants-ii/)| * Watering Plants II|51%|Medium||
 |[2104](https://leetcode.com/problems/sum-of-subarray-ranges/)| * Sum of Subarray Ranges|60%|Medium||
 |[2103](https://leetcode.com/problems/rings-and-rods/)| * Rings and Rods|81%|Easy||
-|[2102](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)| * Sequentially Ordinal Rank Tracker|62%|Hard||
+|[2102](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)| * Sequentially Ordinal Rank Tracker|63%|Hard||
 |[2101](https://leetcode.com/problems/detonate-the-maximum-bombs/)| * Detonate the Maximum Bombs|40%|Medium||
 |[2100](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)| * Find Good Days to Rob the Bank|46%|Medium||
 |[2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)| * Find Subsequence of Length K With the Largest Sum|43%|Easy||
@@ -1373,7 +1373,7 @@
 |[0504](https://leetcode.com/problems/base-7/)| * Base 7|47%|Easy||
 |[0503](https://leetcode.com/problems/next-greater-element-ii/)| * Next Greater Element II|62%|Medium||
 |[0502](https://leetcode.com/problems/ipo/)| * IPO|44%|Hard||
-|[0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)| * Find Mode in Binary Search Tree|47%|Easy||
+|[0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Find Mode in Binary Search Tree](./Algorithms/0501.find-mode-in-binary-search-tree)|47%|Easy||
 |[0500](https://leetcode.com/problems/keyboard-row/)| * Keyboard Row|68%|Easy||
 |[0498](https://leetcode.com/problems/diagonal-traverse/)| * Diagonal Traverse|56%|Medium||
 |[0497](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)| * Random Point in Non-overlapping Rectangles|39%|Medium||

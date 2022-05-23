@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 752456,
-	"Updated": "2022-05-23T11:46:05.272759-04:00",
+	"Updated": "2022-05-23T11:58:29.513264-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 29,
+			"Solved": 30,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 48,
+			"Solved": 49,
 			"Total": 1750
 		}
 	},
@@ -5538,7 +5538,7 @@
 			"TitleSlug": "find-mode-in-binary-search-tree",
 			"PassRate": "47%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -23147,7 +23147,7 @@
 			"ID": 2102,
 			"Title": "Sequentially Ordinal Rank Tracker",
 			"TitleSlug": "sequentially-ordinal-rank-tracker",
-			"PassRate": "62%",
+			"PassRate": "63%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
