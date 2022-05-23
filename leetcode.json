@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 752456,
-	"Updated": "2022-05-23T12:21:02.501123-04:00",
+	"Updated": "2022-05-23T12:48:24.226212-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 30,
 			"Total": 438
 		},
 		"Medium": {
-			"Solved": 20,
+			"Solved": 21,
 			"Total": 915
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 50,
+			"Solved": 51,
 			"Total": 1750
 		}
 	},
@@ -5118,7 +5118,7 @@
 			"ID": 463,
 			"Title": "Island Perimeter",
 			"TitleSlug": "island-perimeter",
-			"PassRate": "68%",
+			"PassRate": "69%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -7474,7 +7474,7 @@
 			"TitleSlug": "map-sum-pairs",
 			"PassRate": "56%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

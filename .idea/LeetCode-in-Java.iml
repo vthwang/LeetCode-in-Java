@@ -55,6 +55,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0208.implement-trie-prefix-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0501.find-mode-in-binary-search-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0530.minimum-absolute-difference-in-bst" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0677.map-sum-pairs" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
