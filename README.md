@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-717,438-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-53-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-54-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 32 | 21 | 0 | 53 |
+| **Accepted** | 33 | 21 | 0 | 54 |
 | **Total** | 438 | 915 | 397 | 1750 |
-| **Coverage** | 7.31 % | 2.30 % | 0.00 % | 3.03 % |
+| **Coverage** | 7.53 % | 2.30 % | 0.00 % | 3.09 % |
 
 ## Solutions
 
@@ -1612,9 +1612,9 @@
 |[0166](https://leetcode.com/problems/fraction-to-recurring-decimal/)| * Fraction to Recurring Decimal|23%|Medium||
 |[0165](https://leetcode.com/problems/compare-version-numbers/)| * Compare Version Numbers|34%|Medium||
 |[0164](https://leetcode.com/problems/maximum-gap/)| * Maximum Gap|41%|Hard||
-|[0162](https://leetcode.com/problems/find-peak-element/)| * Find Peak Element|46%|Medium||
+|[0162](https://leetcode.com/problems/find-peak-element/)| * Find Peak Element|45%|Medium||
 |[0160](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Intersection of Two Linked Lists](./Algorithms/0160.intersection-of-two-linked-lists)|50%|Easy||
-|[0155](https://leetcode.com/problems/min-stack/)| * Min Stack|50%|Easy||
+|[0155](https://leetcode.com/problems/min-stack/)|[Min Stack](./Algorithms/0155.min-stack)|50%|Easy||
 |[0154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| * Find Minimum in Rotated Sorted Array II|43%|Hard||
 |[0153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| * Find Minimum in Rotated Sorted Array|48%|Medium||
 |[0152](https://leetcode.com/problems/maximum-product-subarray/)| * Maximum Product Subarray|34%|Medium||

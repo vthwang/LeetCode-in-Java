@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 717438,
-	"Updated": "2022-05-24T18:54:07.272859-04:00",
+	"Updated": "2022-05-24T19:02:55.350762-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 32,
+			"Solved": 33,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 53,
+			"Solved": 54,
 			"Total": 1750
 		}
 	},
@@ -1732,7 +1732,7 @@
 			"TitleSlug": "min-stack",
 			"PassRate": "50%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -1807,7 +1807,7 @@
 			"ID": 162,
 			"Title": "Find Peak Element",
 			"TitleSlug": "find-peak-element",
-			"PassRate": "46%",
+			"PassRate": "45%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
