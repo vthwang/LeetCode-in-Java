@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 717438,
-	"Updated": "2022-05-24T17:55:44.66185-04:00",
+	"Updated": "2022-05-24T18:54:07.272859-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 31,
+			"Solved": 32,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 52,
+			"Solved": 53,
 			"Total": 1750
 		}
 	},
@@ -2502,7 +2502,7 @@
 			"TitleSlug": "implement-stack-using-queues",
 			"PassRate": "55%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-717,438-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-52-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-53-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 31 | 21 | 0 | 52 |
+| **Accepted** | 32 | 21 | 0 | 53 |
 | **Total** | 438 | 915 | 397 | 1750 |
-| **Coverage** | 7.08 % | 2.30 % | 0.00 % | 2.97 % |
+| **Coverage** | 7.31 % | 2.30 % | 0.00 % | 3.03 % |
 
 ## Solutions
 
@@ -1568,7 +1568,7 @@
 |[0228](https://leetcode.com/problems/summary-ranges/)| * Summary Ranges|46%|Easy||
 |[0227](https://leetcode.com/problems/basic-calculator-ii/)| * Basic Calculator II|41%|Medium||
 |[0226](https://leetcode.com/problems/invert-binary-tree/)|[Invert Binary Tree](./Algorithms/0226.invert-binary-tree)|71%|Easy||
-|[0225](https://leetcode.com/problems/implement-stack-using-queues/)| * Implement Stack using Queues|55%|Easy||
+|[0225](https://leetcode.com/problems/implement-stack-using-queues/)|[Implement Stack using Queues](./Algorithms/0225.implement-stack-using-queues)|55%|Easy||
 |[0224](https://leetcode.com/problems/basic-calculator/)| * Basic Calculator|40%|Hard||
 |[0223](https://leetcode.com/problems/rectangle-area/)| * Rectangle Area|40%|Medium||
 |[0222](https://leetcode.com/problems/count-complete-tree-nodes/)| * Count Complete Tree Nodes|55%|Medium||
