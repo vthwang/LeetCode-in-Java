@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 717438,
-	"Updated": "2022-05-24T19:02:55.350762-04:00",
+	"Updated": "2022-05-24T19:17:41.703631-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 33,
+			"Solved": 34,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 54,
+			"Solved": 55,
 			"Total": 1750
 		}
 	},
@@ -247,7 +247,7 @@
 			"TitleSlug": "valid-parentheses",
 			"PassRate": "40%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -1807,7 +1807,7 @@
 			"ID": 162,
 			"Title": "Find Peak Element",
 			"TitleSlug": "find-peak-element",
-			"PassRate": "45%",
+			"PassRate": "46%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -12532,7 +12532,7 @@
 			"ID": 1137,
 			"Title": "N-th Tribonacci Number",
 			"TitleSlug": "n-th-tribonacci-number",
-			"PassRate": "62%",
+			"PassRate": "63%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
