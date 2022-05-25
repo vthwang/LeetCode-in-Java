@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 685572,
-	"Updated": "2022-05-25T10:39:44.322062-04:00",
+	"Updated": "2022-05-25T10:57:33.34748-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 34,
 			"Total": 438
 		},
 		"Medium": {
-			"Solved": 22,
+			"Solved": 23,
 			"Total": 915
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 56,
+			"Solved": 57,
 			"Total": 1750
 		}
 	},
@@ -5560,7 +5560,7 @@
 			"TitleSlug": "next-greater-element-ii",
 			"PassRate": "62%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22740,7 +22740,7 @@
 			"ID": 2065,
 			"Title": "Maximum Path Quality of a Graph",
 			"TitleSlug": "maximum-path-quality-of-a-graph",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25017,7 +25017,7 @@
 			"ID": 2272,
 			"Title": "Substring With Largest Variance",
 			"TitleSlug": "substring-with-largest-variance",
-			"PassRate": "27%",
+			"PassRate": "28%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
