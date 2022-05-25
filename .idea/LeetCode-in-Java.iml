@@ -60,6 +60,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0155.min-stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0225.implement-stack-using-queues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0232.implement-queue-using-stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0739.daily-temperatures" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
