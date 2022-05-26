@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 671100,
-	"Updated": "2022-05-26T14:51:11.239439-04:00",
+	"Updated": "2022-05-26T14:59:12.554188-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 35,
+			"Solved": 36,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 58,
+			"Solved": 59,
 			"Total": 1750
 		}
 	},
@@ -6561,7 +6561,7 @@
 			"TitleSlug": "longest-harmonious-subsequence",
 			"PassRate": "52%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25127,7 +25127,7 @@
 			"ID": 2282,
 			"Title": "Number of People That Can Be Seen in a Grid",
 			"TitleSlug": "number-of-people-that-can-be-seen-in-a-grid",
-			"PassRate": "57%",
+			"PassRate": "55%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

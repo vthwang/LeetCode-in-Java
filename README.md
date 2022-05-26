@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-671,100-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-58-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-59-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 35 | 23 | 0 | 58 |
+| **Accepted** | 36 | 23 | 0 | 59 |
 | **Total** | 438 | 915 | 397 | 1750 |
-| **Coverage** | 7.99 % | 2.51 % | 0.00 % | 3.31 % |
+| **Coverage** | 8.22 % | 2.51 % | 0.00 % | 3.37 % |
 
 ## Solutions
 
@@ -1311,7 +1311,7 @@
 |[0600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)| * Non-negative Integers without Consecutive Ones|38%|Hard||
 |[0599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)| * Minimum Index Sum of Two Lists|52%|Easy||
 |[0598](https://leetcode.com/problems/range-addition-ii/)| * Range Addition II|54%|Easy||
-|[0594](https://leetcode.com/problems/longest-harmonious-subsequence/)| * Longest Harmonious Subsequence|52%|Easy||
+|[0594](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Longest Harmonious Subsequence](./Algorithms/0594.longest-harmonious-subsequence)|52%|Easy||
 |[0593](https://leetcode.com/problems/valid-square/)| * Valid Square|43%|Medium||
 |[0592](https://leetcode.com/problems/fraction-addition-and-subtraction/)| * Fraction Addition and Subtraction|51%|Medium||
 |[0591](https://leetcode.com/problems/tag-validator/)| * Tag Validator|36%|Hard||

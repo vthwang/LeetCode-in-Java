@@ -63,6 +63,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0503.next-greater-element-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0739.daily-temperatures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0217.contains-duplicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0594.longest-harmonious-subsequence" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
