@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-657,176-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-60-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-61-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 36 | 24 | 0 | 60 |
+| **Accepted** | 37 | 24 | 0 | 61 |
 | **Total** | 438 | 914 | 397 | 1749 |
-| **Coverage** | 8.22 % | 2.63 % | 0.00 % | 3.43 % |
+| **Coverage** | 8.45 % | 2.63 % | 0.00 % | 3.49 % |
 
 ## Solutions
 
@@ -1550,7 +1550,7 @@
 |[0260](https://leetcode.com/problems/single-number-iii/)| * Single Number III|67%|Medium||
 |[0258](https://leetcode.com/problems/add-digits/)| * Add Digits|62%|Easy||
 |[0257](https://leetcode.com/problems/binary-tree-paths/)| * Binary Tree Paths|58%|Easy||
-|[0242](https://leetcode.com/problems/valid-anagram/)| * Valid Anagram|61%|Easy||
+|[0242](https://leetcode.com/problems/valid-anagram/)|[Valid Anagram](./Algorithms/0242.valid-anagram)|61%|Easy||
 |[0241](https://leetcode.com/problems/different-ways-to-add-parentheses/)| * Different Ways to Add Parentheses|61%|Medium||
 |[0240](https://leetcode.com/problems/search-a-2d-matrix-ii/)| * Search a 2D Matrix II|48%|Medium||
 |[0239](https://leetcode.com/problems/sliding-window-maximum/)| * Sliding Window Maximum|46%|Hard||

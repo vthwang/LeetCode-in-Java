@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 657176,
-	"Updated": "2022-05-27T14:25:20.092696-04:00",
+	"Updated": "2022-05-27T14:33:40.245122-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 36,
+			"Solved": 37,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 60,
+			"Solved": 61,
 			"Total": 1749
 		}
 	},
@@ -2689,7 +2689,7 @@
 			"TitleSlug": "valid-anagram",
 			"PassRate": "61%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -13368,7 +13368,7 @@
 			"ID": 1213,
 			"Title": "Intersection of Three Sorted Arrays",
 			"TitleSlug": "intersection-of-three-sorted-arrays",
-			"PassRate": "79%",
+			"PassRate": "80%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": true,
