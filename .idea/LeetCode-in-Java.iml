@@ -66,6 +66,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0594.longest-harmonious-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0128.longest-consecutive-sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0242.valid-anagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0409.longest-palindrome" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

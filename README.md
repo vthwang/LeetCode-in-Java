@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-657,176-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-61-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-62-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 37 | 24 | 0 | 61 |
+| **Accepted** | 38 | 24 | 0 | 62 |
 | **Total** | 438 | 914 | 397 | 1749 |
-| **Coverage** | 8.45 % | 2.63 % | 0.00 % | 3.49 % |
+| **Coverage** | 8.68 % | 2.63 % | 0.00 % | 3.54 % |
 
 ## Solutions
 
@@ -85,7 +85,7 @@
 |[2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)| * Maximize the Topmost Element After K Moves|22%|Medium||
 |[2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)| * Count Artifacts That Can Be Extracted|54%|Medium||
 |[2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| * Find All K-Distant Indices in an Array|63%|Easy||
-|[2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)| * Replace Non-Coprime Numbers in Array|35%|Hard||
+|[2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)| * Replace Non-Coprime Numbers in Array|36%|Hard||
 |[2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/)| * Create Binary Tree From Descriptions|70%|Medium||
 |[2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| * Append K Integers With Minimal Sum|23%|Medium||
 |[2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)| * Cells in a Range on an Excel Sheet|85%|Easy||
@@ -1448,7 +1448,7 @@
 |[0413](https://leetcode.com/problems/arithmetic-slices/)| * Arithmetic Slices|64%|Medium||
 |[0412](https://leetcode.com/problems/fizz-buzz/)| * Fizz Buzz|66%|Easy||
 |[0410](https://leetcode.com/problems/split-array-largest-sum/)| * Split Array Largest Sum|52%|Hard||
-|[0409](https://leetcode.com/problems/longest-palindrome/)| * Longest Palindrome|53%|Easy||
+|[0409](https://leetcode.com/problems/longest-palindrome/)|[Longest Palindrome](./Algorithms/0409.longest-palindrome)|53%|Easy||
 |[0407](https://leetcode.com/problems/trapping-rain-water-ii/)| * Trapping Rain Water II|47%|Hard||
 |[0406](https://leetcode.com/problems/queue-reconstruction-by-height/)| * Queue Reconstruction by Height|70%|Medium||
 |[0405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)| * Convert a Number to Hexadecimal|45%|Easy||

@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 657176,
-	"Updated": "2022-05-27T14:33:40.245122-04:00",
+	"Updated": "2022-05-27T14:56:54.256945-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 37,
+			"Solved": 38,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 61,
+			"Solved": 62,
 			"Total": 1749
 		}
 	},
@@ -4526,7 +4526,7 @@
 			"TitleSlug": "longest-palindrome",
 			"PassRate": "53%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24192,7 +24192,7 @@
 			"ID": 2197,
 			"Title": "Replace Non-Coprime Numbers in Array",
 			"TitleSlug": "replace-non-coprime-numbers-in-array",
-			"PassRate": "35%",
+			"PassRate": "36%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25127,7 +25127,7 @@
 			"ID": 2282,
 			"Title": "Number of People That Can Be Seen in a Grid",
 			"TitleSlug": "number-of-people-that-can-be-seen-in-a-grid",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
