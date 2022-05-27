@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 657176,
-	"Updated": "2022-05-27T14:56:54.256945-04:00",
+	"Updated": "2022-05-27T15:12:28.197941-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 38,
+			"Solved": 39,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 62,
+			"Solved": 63,
 			"Total": 1749
 		}
 	},
@@ -2282,7 +2282,7 @@
 			"TitleSlug": "isomorphic-strings",
 			"PassRate": "42%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -6878,7 +6878,7 @@
 			"ID": 623,
 			"Title": "Add One Row to Tree",
 			"TitleSlug": "add-one-row-to-tree",
-			"PassRate": "53%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-657,176-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-62-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-63-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 38 | 24 | 0 | 62 |
+| **Accepted** | 39 | 24 | 0 | 63 |
 | **Total** | 438 | 914 | 397 | 1749 |
-| **Coverage** | 8.68 % | 2.63 % | 0.00 % | 3.54 % |
+| **Coverage** | 8.90 % | 2.63 % | 0.00 % | 3.60 % |
 
 ## Solutions
 
@@ -1300,7 +1300,7 @@
 |[0630](https://leetcode.com/problems/course-schedule-iii/)| * Course Schedule III|35%|Hard||
 |[0629](https://leetcode.com/problems/k-inverse-pairs-array/)| * K Inverse Pairs Array|37%|Hard||
 |[0628](https://leetcode.com/problems/maximum-product-of-three-numbers/)| * Maximum Product of Three Numbers|46%|Easy||
-|[0623](https://leetcode.com/problems/add-one-row-to-tree/)| * Add One Row to Tree|53%|Medium||
+|[0623](https://leetcode.com/problems/add-one-row-to-tree/)| * Add One Row to Tree|54%|Medium||
 |[0622](https://leetcode.com/problems/design-circular-queue/)| * Design Circular Queue|48%|Medium||
 |[0621](https://leetcode.com/problems/task-scheduler/)| * Task Scheduler|54%|Medium||
 |[0617](https://leetcode.com/problems/merge-two-binary-trees/)|[Merge Two Binary Trees](./Algorithms/0617.merge-two-binary-trees)|78%|Easy||
@@ -1587,7 +1587,7 @@
 |[0208](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Implement Trie (Prefix Tree)](./Algorithms/0208.implement-trie-prefix-tree)|58%|Medium||
 |[0207](https://leetcode.com/problems/course-schedule/)| * Course Schedule|45%|Medium||
 |[0206](https://leetcode.com/problems/reverse-linked-list/)|[Reverse Linked List](./Algorithms/0206.reverse-linked-list)|70%|Easy||
-|[0205](https://leetcode.com/problems/isomorphic-strings/)| * Isomorphic Strings|42%|Easy||
+|[0205](https://leetcode.com/problems/isomorphic-strings/)|[Isomorphic Strings](./Algorithms/0205.isomorphic-strings)|42%|Easy||
 |[0204](https://leetcode.com/problems/count-primes/)| * Count Primes|33%|Medium||
 |[0203](https://leetcode.com/problems/remove-linked-list-elements/)| * Remove Linked List Elements|43%|Easy||
 |[0202](https://leetcode.com/problems/happy-number/)| * Happy Number|53%|Easy||
