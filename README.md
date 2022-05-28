@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-657,176-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-64-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-65-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 39 | 25 | 0 | 64 |
+| **Accepted** | 40 | 25 | 0 | 65 |
 | **Total** | 438 | 914 | 397 | 1749 |
-| **Coverage** | 8.90 % | 2.74 % | 0.00 % | 3.66 % |
+| **Coverage** | 9.13 % | 2.74 % | 0.00 % | 3.72 % |
 
 ## Solutions
 
@@ -1759,7 +1759,7 @@
 |[0012](https://leetcode.com/problems/integer-to-roman/)| * Integer to Roman|59%|Medium||
 |[0011](https://leetcode.com/problems/container-with-most-water/)| * Container With Most Water|53%|Medium||
 |[0010](https://leetcode.com/problems/regular-expression-matching/)| * Regular Expression Matching|28%|Hard||
-|[0009](https://leetcode.com/problems/palindrome-number/)| * Palindrome Number|52%|Easy||
+|[0009](https://leetcode.com/problems/palindrome-number/)|[Palindrome Number](./Algorithms/0009.palindrome-number)|52%|Easy||
 |[0008](https://leetcode.com/problems/string-to-integer-atoi/)| * String to Integer (atoi)|16%|Medium||
 |[0007](https://leetcode.com/problems/reverse-integer/)| * Reverse Integer|26%|Medium||
 |[0006](https://leetcode.com/problems/zigzag-conversion/)| * Zigzag Conversion|41%|Medium||

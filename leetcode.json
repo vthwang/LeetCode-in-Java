@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 657176,
-	"Updated": "2022-05-27T20:59:03.161926-04:00",
+	"Updated": "2022-05-27T21:16:37.908529-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 39,
+			"Solved": 40,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 64,
+			"Solved": 65,
 			"Total": 1749
 		}
 	},
@@ -126,7 +126,7 @@
 			"TitleSlug": "palindrome-number",
 			"PassRate": "52%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
