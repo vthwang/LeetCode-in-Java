@@ -70,6 +70,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0409.longest-palindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0009.palindrome-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0647.palindromic-substrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0696.count-binary-substrings" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

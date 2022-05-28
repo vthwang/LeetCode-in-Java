@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 657176,
-	"Updated": "2022-05-27T21:16:37.908529-04:00",
+	"Updated": "2022-05-27T21:50:08.318333-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 40,
+			"Solved": 41,
 			"Total": 438
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 397
 		},
 		"Total": {
-			"Solved": 65,
+			"Solved": 66,
 			"Total": 1749
 		}
 	},
@@ -7683,9 +7683,9 @@
 			"TitleSlug": "count-binary-substrings",
 			"PassRate": "65%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
-			"IsFavor": false,
+			"IsFavor": true,
 			"IsNew": false
 		},
 		{
@@ -21409,7 +21409,7 @@
 			"ID": 1944,
 			"Title": "Number of Visible People in a Queue",
 			"TitleSlug": "number-of-visible-people-in-a-queue",
-			"PassRate": "70%",
+			"PassRate": "69%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,

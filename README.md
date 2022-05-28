@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-657,176-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-65-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-66-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 40 | 25 | 0 | 65 |
+| **Accepted** | 41 | 25 | 0 | 66 |
 | **Total** | 438 | 914 | 397 | 1749 |
-| **Coverage** | 9.13 % | 2.74 % | 0.00 % | 3.72 % |
+| **Coverage** | 9.36 % | 2.74 % | 0.00 % | 3.77 % |
 
 ## Solutions
 
@@ -282,7 +282,7 @@
 |[1947](https://leetcode.com/problems/maximum-compatibility-score-sum/)| * Maximum Compatibility Score Sum|60%|Medium||
 |[1946](https://leetcode.com/problems/largest-number-after-mutating-substring/)| * Largest Number After Mutating Substring|34%|Medium||
 |[1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)| * Sum of Digits of String After Convert|61%|Easy||
-|[1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)| * Number of Visible People in a Queue|70%|Hard||
+|[1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)| * Number of Visible People in a Queue|69%|Hard||
 |[1943](https://leetcode.com/problems/describe-the-painting/)| * Describe the Painting|46%|Medium||
 |[1942](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/)| * The Number of the Smallest Unoccupied Chair|39%|Medium||
 |[1941](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)| * Check if All Characters Have Equal Number of Occurrences|77%|Easy||
@@ -1244,7 +1244,7 @@
 |[0699](https://leetcode.com/problems/falling-squares/)| * Falling Squares|44%|Hard||
 |[0698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| * Partition to K Equal Sum Subsets|43%|Medium||
 |[0697](https://leetcode.com/problems/degree-of-an-array/)| * Degree of an Array|55%|Easy||
-|[0696](https://leetcode.com/problems/count-binary-substrings/)| * Count Binary Substrings|65%|Easy||
+|[0696](https://leetcode.com/problems/count-binary-substrings/)|[Count Binary Substrings](./Algorithms/0696.count-binary-substrings)|65%|Easy|[⭐](https://leetcode.com/list/yxanka6/)|
 |[0695](https://leetcode.com/problems/max-area-of-island/)| * Max Area of Island|69%|Medium||
 |[0693](https://leetcode.com/problems/binary-number-with-alternating-bits/)| * Binary Number with Alternating Bits|60%|Easy||
 |[0692](https://leetcode.com/problems/top-k-frequent-words/)| * Top K Frequent Words|54%|Medium||
