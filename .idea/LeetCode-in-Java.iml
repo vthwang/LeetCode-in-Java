@@ -68,6 +68,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0205.isomorphic-strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0242.valid-anagram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0409.longest-palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0647.palindromic-substrings" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

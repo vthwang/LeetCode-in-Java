@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-657,176-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-63-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-64-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 39 | 24 | 0 | 63 |
+| **Accepted** | 39 | 25 | 0 | 64 |
 | **Total** | 438 | 914 | 397 | 1749 |
-| **Coverage** | 8.90 % | 2.63 % | 0.00 % | 3.60 % |
+| **Coverage** | 8.90 % | 2.74 % | 0.00 % | 3.66 % |
 
 ## Solutions
 
@@ -991,7 +991,7 @@
 |[0971](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)| * Flip Binary Tree To Match Preorder Traversal|49%|Medium||
 |[0970](https://leetcode.com/problems/powerful-integers/)| * Powerful Integers|43%|Medium||
 |[0969](https://leetcode.com/problems/pancake-sorting/)| * Pancake Sorting|69%|Medium||
-|[0968](https://leetcode.com/problems/binary-tree-cameras/)| * Binary Tree Cameras|41%|Hard||
+|[0968](https://leetcode.com/problems/binary-tree-cameras/)| * Binary Tree Cameras|42%|Hard||
 |[0967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)| * Numbers With Same Consecutive Differences|47%|Medium||
 |[0966](https://leetcode.com/problems/vowel-spellchecker/)| * Vowel Spellchecker|51%|Medium||
 |[0965](https://leetcode.com/problems/univalued-binary-tree/)| * Univalued Binary Tree|68%|Easy||
@@ -1285,7 +1285,7 @@
 |[0650](https://leetcode.com/problems/2-keys-keyboard/)| * 2 Keys Keyboard|52%|Medium||
 |[0649](https://leetcode.com/problems/dota2-senate/)| * Dota2 Senate|40%|Medium||
 |[0648](https://leetcode.com/problems/replace-words/)| * Replace Words|62%|Medium||
-|[0647](https://leetcode.com/problems/palindromic-substrings/)| * Palindromic Substrings|65%|Medium||
+|[0647](https://leetcode.com/problems/palindromic-substrings/)|[Palindromic Substrings](./Algorithms/0647.palindromic-substrings)|65%|Medium||
 |[0646](https://leetcode.com/problems/maximum-length-of-pair-chain/)| * Maximum Length of Pair Chain|55%|Medium||
 |[0645](https://leetcode.com/problems/set-mismatch/)| * Set Mismatch|41%|Easy||
 |[0643](https://leetcode.com/problems/maximum-average-subarray-i/)| * Maximum Average Subarray I|43%|Easy||
