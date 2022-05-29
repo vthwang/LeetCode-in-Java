@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 611043,
-	"Updated": "2022-05-28T22:10:32.269443-04:00",
+	"Updated": "2022-05-28T22:21:16.261281-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 42,
+			"Solved": 43,
 			"Total": 439
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 398
 		},
 		"Total": {
-			"Solved": 67,
+			"Solved": 68,
 			"Total": 1753
 		}
 	},
@@ -6253,7 +6253,7 @@
 			"TitleSlug": "reshape-the-matrix",
 			"PassRate": "62%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24104,7 +24104,7 @@
 			"ID": 2189,
 			"Title": "Number of Ways to Build House of Cards",
 			"TitleSlug": "number-of-ways-to-build-house-of-cards",
-			"PassRate": "65%",
+			"PassRate": "64%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

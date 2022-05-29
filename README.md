@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-611,043-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-67-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-68-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 42 | 25 | 0 | 67 |
+| **Accepted** | 43 | 25 | 0 | 68 |
 | **Total** | 439 | 916 | 398 | 1753 |
-| **Coverage** | 9.57 % | 2.73 % | 0.00 % | 3.82 % |
+| **Coverage** | 9.79 % | 2.73 % | 0.00 % | 3.88 % |
 
 ## Solutions
 
@@ -1328,7 +1328,7 @@
 |[0575](https://leetcode.com/problems/distribute-candies/)| * Distribute Candies|65%|Easy||
 |[0572](https://leetcode.com/problems/subtree-of-another-tree/)|[Subtree of Another Tree](./Algorithms/0572.subtree-of-another-tree)|45%|Easy||
 |[0567](https://leetcode.com/problems/permutation-in-string/)| * Permutation in String|44%|Medium||
-|[0566](https://leetcode.com/problems/reshape-the-matrix/)| * Reshape the Matrix|62%|Easy||
+|[0566](https://leetcode.com/problems/reshape-the-matrix/)|[Reshape the Matrix](./Algorithms/0566.reshape-the-matrix)|62%|Easy||
 |[0565](https://leetcode.com/problems/array-nesting/)| * Array Nesting|56%|Medium||
 |[0564](https://leetcode.com/problems/find-the-closest-palindrome/)| * Find the Closest Palindrome|21%|Hard||
 |[0563](https://leetcode.com/problems/binary-tree-tilt/)| * Binary Tree Tilt|58%|Easy||
