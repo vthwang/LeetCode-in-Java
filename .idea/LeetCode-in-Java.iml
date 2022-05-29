@@ -72,6 +72,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0647.palindromic-substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0696.count-binary-substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0283.move-zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0485.max-consecutive-ones" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0566.reshape-the-matrix" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
