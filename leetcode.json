@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 587854,
-	"Updated": "2022-05-29T12:11:26.352094-04:00",
+	"Updated": "2022-05-29T12:56:32.215178-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 44,
+			"Solved": 45,
 			"Total": 440
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 71,
+			"Solved": 72,
 			"Total": 1757
 		}
 	},
@@ -7122,7 +7122,7 @@
 			"TitleSlug": "set-mismatch",
 			"PassRate": "41%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -18032,7 +18032,7 @@
 			"ID": 1637,
 			"Title": "Widest Vertical Area Between Two Points Containing No Points",
 			"TitleSlug": "widest-vertical-area-between-two-points-containing-no-points",
-			"PassRate": "84%",
+			"PassRate": "83%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -22597,7 +22597,7 @@
 			"ID": 2052,
 			"Title": "Minimum Cost to Separate Sentence Into Rows",
 			"TitleSlug": "minimum-cost-to-separate-sentence-into-rows",
-			"PassRate": "52%",
+			"PassRate": "51%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
