@@ -77,6 +77,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0566.reshape-the-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0378.kth-smallest-element-in-a-sorted-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0645.set-mismatch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0287.find-the-duplicate-number" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

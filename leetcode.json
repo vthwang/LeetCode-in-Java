@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 587854,
-	"Updated": "2022-05-29T12:56:32.215178-04:00",
+	"Updated": "2022-05-29T16:06:57.517446-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 45,
 			"Total": 440
 		},
 		"Medium": {
-			"Solved": 27,
+			"Solved": 28,
 			"Total": 918
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 72,
+			"Solved": 73,
 			"Total": 1757
 		}
 	},
@@ -3184,7 +3184,7 @@
 			"TitleSlug": "find-the-duplicate-number",
 			"PassRate": "58%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -18032,7 +18032,7 @@
 			"ID": 1637,
 			"Title": "Widest Vertical Area Between Two Points Containing No Points",
 			"TitleSlug": "widest-vertical-area-between-two-points-containing-no-points",
-			"PassRate": "83%",
+			"PassRate": "84%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25182,7 +25182,7 @@
 			"ID": 2287,
 			"Title": "Rearrange Characters to Make Target String",
 			"TitleSlug": "rearrange-characters-to-make-target-string",
-			"PassRate": "55%",
+			"PassRate": "56%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25204,7 +25204,7 @@
 			"ID": 2289,
 			"Title": "Steps to Make Array Non-decreasing",
 			"TitleSlug": "steps-to-make-array-non-decreasing",
-			"PassRate": "12%",
+			"PassRate": "13%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25215,7 +25215,7 @@
 			"ID": 2290,
 			"Title": "Minimum Obstacle Removal to Reach Corner",
 			"TitleSlug": "minimum-obstacle-removal-to-reach-corner",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
