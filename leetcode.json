@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 611043,
-	"Updated": "2022-05-28T22:27:01.26601-04:00",
+	"Updated": "2022-05-28T22:37:00.259354-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 44,
 			"Total": 439
 		},
 		"Medium": {
-			"Solved": 25,
+			"Solved": 26,
 			"Total": 916
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 398
 		},
 		"Total": {
-			"Solved": 69,
+			"Solved": 70,
 			"Total": 1753
 		}
 	},
@@ -2667,7 +2667,7 @@
 			"TitleSlug": "search-a-2d-matrix-ii",
 			"PassRate": "48%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25160,7 +25160,7 @@
 			"ID": 2285,
 			"Title": "Maximum Total Importance of Roads",
 			"TitleSlug": "maximum-total-importance-of-roads",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

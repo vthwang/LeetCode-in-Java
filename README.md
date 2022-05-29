@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-611,043-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-69-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-70-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,16 +11,16 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 44 | 25 | 0 | 69 |
+| **Accepted** | 44 | 26 | 0 | 70 |
 | **Total** | 439 | 916 | 398 | 1753 |
-| **Coverage** | 10.02 % | 2.73 % | 0.00 % | 3.94 % |
+| **Coverage** | 10.02 % | 2.84 % | 0.00 % | 3.99 % |
 
 ## Solutions
 
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
 |[2286](https://leetcode.com/problems/booking-concert-tickets-in-groups/)| * Booking Concert Tickets in Groups|6%|Hard||
-|[2285](https://leetcode.com/problems/maximum-total-importance-of-roads/)| * Maximum Total Importance of Roads|58%|Medium||
+|[2285](https://leetcode.com/problems/maximum-total-importance-of-roads/)| * Maximum Total Importance of Roads|57%|Medium||
 |[2284](https://leetcode.com/problems/sender-with-largest-word-count/)| * Sender With Largest Word Count|51%|Medium||
 |[2283](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)| * Check if Number Has Equal Digit Count and Digit Value|72%|Easy||
 |[2281](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)| * Sum of Total Strength of Wizards|19%|Hard||
@@ -1556,7 +1556,7 @@
 |[0257](https://leetcode.com/problems/binary-tree-paths/)| * Binary Tree Paths|58%|Easy||
 |[0242](https://leetcode.com/problems/valid-anagram/)|[Valid Anagram](./Algorithms/0242.valid-anagram)|61%|Easy||
 |[0241](https://leetcode.com/problems/different-ways-to-add-parentheses/)| * Different Ways to Add Parentheses|61%|Medium||
-|[0240](https://leetcode.com/problems/search-a-2d-matrix-ii/)| * Search a 2D Matrix II|48%|Medium||
+|[0240](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Search a 2D Matrix II](./Algorithms/0240.search-a-2d-matrix-ii)|48%|Medium||
 |[0239](https://leetcode.com/problems/sliding-window-maximum/)| * Sliding Window Maximum|46%|Hard||
 |[0238](https://leetcode.com/problems/product-of-array-except-self/)| * Product of Array Except Self|64%|Medium||
 |[0237](https://leetcode.com/problems/delete-node-in-a-linked-list/)| * Delete Node in a Linked List|72%|Easy||
