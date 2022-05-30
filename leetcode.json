@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 571624,
-	"Updated": "2022-05-30T12:50:05.671019-04:00",
+	"Updated": "2022-05-30T13:08:11.342136-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 46,
+			"Solved": 47,
 			"Total": 440
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 75,
+			"Solved": 76,
 			"Total": 1757
 		}
 	},
@@ -8453,7 +8453,7 @@
 			"TitleSlug": "toeplitz-matrix",
 			"PassRate": "68%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
