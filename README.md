@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-571,624-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-74-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-75-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 45 | 29 | 0 | 74 |
+| **Accepted** | 46 | 29 | 0 | 75 |
 | **Total** | 440 | 918 | 399 | 1757 |
-| **Coverage** | 10.23 % | 3.16 % | 0.00 % | 4.21 % |
+| **Coverage** | 10.45 % | 3.16 % | 0.00 % | 4.27 % |
 
 ## Solutions
 
@@ -1251,7 +1251,7 @@
 |[0700](https://leetcode.com/problems/search-in-a-binary-search-tree/)| * Search in a Binary Search Tree|76%|Easy||
 |[0699](https://leetcode.com/problems/falling-squares/)| * Falling Squares|44%|Hard||
 |[0698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| * Partition to K Equal Sum Subsets|43%|Medium||
-|[0697](https://leetcode.com/problems/degree-of-an-array/)| * Degree of an Array|55%|Easy||
+|[0697](https://leetcode.com/problems/degree-of-an-array/)|[Degree of an Array](./Algorithms/0697.degree-of-an-array)|55%|Easy||
 |[0696](https://leetcode.com/problems/count-binary-substrings/)|[Count Binary Substrings](./Algorithms/0696.count-binary-substrings)|65%|Easy|[⭐](https://leetcode.com/list/yxanka6/)|
 |[0695](https://leetcode.com/problems/max-area-of-island/)| * Max Area of Island|69%|Medium||
 |[0693](https://leetcode.com/problems/binary-number-with-alternating-bits/)| * Binary Number with Alternating Bits|60%|Easy||
