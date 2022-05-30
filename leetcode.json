@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 571624,
-	"Updated": "2022-05-30T13:15:21.282238-04:00",
+	"Updated": "2022-05-30T13:43:22.572144-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 47,
 			"Total": 440
 		},
 		"Medium": {
-			"Solved": 30,
+			"Solved": 31,
 			"Total": 918
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 77,
+			"Solved": 78,
 			"Total": 1757
 		}
 	},
@@ -8486,7 +8486,7 @@
 			"TitleSlug": "max-chunks-to-make-sorted",
 			"PassRate": "57%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -18978,7 +18978,7 @@
 			"ID": 1723,
 			"Title": "Find Minimum Time to Finish All Jobs",
 			"TitleSlug": "find-minimum-time-to-finish-all-jobs",
-			"PassRate": "43%",
+			"PassRate": "42%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24610,7 +24610,7 @@
 			"ID": 2235,
 			"Title": "Add Two Integers",
 			"TitleSlug": "add-two-integers",
-			"PassRate": "92%",
+			"PassRate": "93%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

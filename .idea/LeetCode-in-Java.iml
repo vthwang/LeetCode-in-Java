@@ -82,6 +82,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0667.beautiful-arrangement-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0697.degree-of-an-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0766.toeplitz-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0769.max-chunks-to-make-sorted" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
