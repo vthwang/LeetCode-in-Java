@@ -78,6 +78,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0378.kth-smallest-element-in-a-sorted-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0645.set-mismatch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0287.find-the-duplicate-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0565.array-nesting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0667.beautiful-arrangement-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0697.degree-of-an-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0766.toeplitz-matrix" isTestSource="false" />
