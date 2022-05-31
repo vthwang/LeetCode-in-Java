@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 545742,
-	"Updated": "2022-05-31T13:06:11.019684-04:00",
+	"Updated": "2022-05-31T13:40:32.389349-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 47,
 			"Total": 440
 		},
 		"Medium": {
-			"Solved": 32,
+			"Solved": 33,
 			"Total": 919
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 79,
+			"Solved": 80,
 			"Total": 1758
 		}
 	},
@@ -2304,9 +2304,9 @@
 			"TitleSlug": "course-schedule",
 			"PassRate": "45%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
-			"IsFavor": false,
+			"IsFavor": true,
 			"IsNew": false
 		},
 		{
@@ -21453,7 +21453,7 @@
 			"ID": 1948,
 			"Title": "Delete Duplicate Folders in System",
 			"TitleSlug": "delete-duplicate-folders-in-system",
-			"PassRate": "59%",
+			"PassRate": "58%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25149,7 +25149,7 @@
 			"ID": 2284,
 			"Title": "Sender With Largest Word Count",
 			"TitleSlug": "sender-with-largest-word-count",
-			"PassRate": "52%",
+			"PassRate": "53%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
