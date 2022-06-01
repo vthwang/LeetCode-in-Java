@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-536,375-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-82-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-83-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 47 | 35 | 0 | 82 |
+| **Accepted** | 48 | 35 | 0 | 83 |
 | **Total** | 440 | 919 | 399 | 1758 |
-| **Coverage** | 10.68 % | 3.81 % | 0.00 % | 4.66 % |
+| **Coverage** | 10.91 % | 3.81 % | 0.00 % | 4.72 % |
 
 ## Solutions
 
@@ -1413,7 +1413,7 @@
 |[0464](https://leetcode.com/problems/can-i-win/)| * Can I Win|29%|Medium||
 |[0463](https://leetcode.com/problems/island-perimeter/)| * Island Perimeter|69%|Easy||
 |[0462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)| * Minimum Moves to Equal Array Elements II|57%|Medium||
-|[0461](https://leetcode.com/problems/hamming-distance/)| * Hamming Distance|74%|Easy||
+|[0461](https://leetcode.com/problems/hamming-distance/)|[Hamming Distance](./Algorithms/0461.hamming-distance)|74%|Easy||
 |[0460](https://leetcode.com/problems/lfu-cache/)| * LFU Cache|39%|Hard||
 |[0459](https://leetcode.com/problems/repeated-substring-pattern/)| * Repeated Substring Pattern|43%|Easy||
 |[0458](https://leetcode.com/problems/poor-pigs/)| * Poor Pigs|55%|Hard||

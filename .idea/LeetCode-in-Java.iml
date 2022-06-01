@@ -86,6 +86,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0207.course-schedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0785.is-graph-bipartite" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0210.course-schedule-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0461.hamming-distance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0684.redundant-connection" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
