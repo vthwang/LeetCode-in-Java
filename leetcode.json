@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 536375,
-	"Updated": "2022-06-01T14:02:22.785947-04:00",
+	"Updated": "2022-06-01T14:13:54.098982-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 47,
 			"Total": 440
 		},
 		"Medium": {
-			"Solved": 34,
+			"Solved": 35,
 			"Total": 919
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 81,
+			"Solved": 82,
 			"Total": 1758
 		}
 	},
@@ -7551,9 +7551,9 @@
 			"TitleSlug": "redundant-connection",
 			"PassRate": "61%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
-			"IsFavor": false,
+			"IsFavor": true,
 			"IsNew": false
 		},
 		{
@@ -12873,7 +12873,7 @@
 			"ID": 1168,
 			"Title": "Optimize Water Distribution in a Village",
 			"TitleSlug": "optimize-water-distribution-in-a-village",
-			"PassRate": "64%",
+			"PassRate": "63%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25226,7 +25226,7 @@
 			"ID": 2291,
 			"Title": "Maximum Profit From Trading Stocks",
 			"TitleSlug": "maximum-profit-from-trading-stocks",
-			"PassRate": "54%",
+			"PassRate": "55%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
