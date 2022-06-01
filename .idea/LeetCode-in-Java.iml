@@ -85,6 +85,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0769.max-chunks-to-make-sorted" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0207.course-schedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0785.is-graph-bipartite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0210.course-schedule-ii" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
