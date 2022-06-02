@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 522663,
-	"Updated": "2022-06-02T15:46:53.339973-04:00",
+	"Updated": "2022-06-02T15:52:56.804084-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 49,
+			"Solved": 50,
 			"Total": 440
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 84,
+			"Solved": 85,
 			"Total": 1758
 		}
 	},
@@ -2975,7 +2975,7 @@
 			"TitleSlug": "missing-number",
 			"PassRate": "60%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

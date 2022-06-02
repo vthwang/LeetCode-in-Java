@@ -89,6 +89,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0461.hamming-distance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0684.redundant-connection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0136.single-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0268.missing-number" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
