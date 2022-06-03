@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 522663,
-	"Updated": "2022-06-02T15:52:56.804084-04:00",
+	"Updated": "2022-06-02T23:34:22.871365-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 50,
 			"Total": 440
 		},
 		"Medium": {
-			"Solved": 35,
+			"Solved": 36,
 			"Total": 919
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 85,
+			"Solved": 86,
 			"Total": 1758
 		}
 	},
@@ -2887,7 +2887,7 @@
 			"TitleSlug": "single-number-iii",
 			"PassRate": "67%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -4260,7 +4260,7 @@
 			"ID": 385,
 			"Title": "Mini Parser",
 			"TitleSlug": "mini-parser",
-			"PassRate": "35%",
+			"PassRate": "36%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18692,7 +18692,7 @@
 			"ID": 1697,
 			"Title": "Checking Existence of Edge Length Limited Paths",
 			"TitleSlug": "checking-existence-of-edge-length-limited-paths",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18901,7 +18901,7 @@
 			"ID": 1716,
 			"Title": "Calculate Money in Leetcode Bank",
 			"TitleSlug": "calculate-money-in-leetcode-bank",
-			"PassRate": "65%",
+			"PassRate": "64%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18978,7 +18978,7 @@
 			"ID": 1723,
 			"Title": "Find Minimum Time to Finish All Jobs",
 			"TitleSlug": "find-minimum-time-to-finish-all-jobs",
-			"PassRate": "43%",
+			"PassRate": "42%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24225,7 +24225,7 @@
 			"ID": 2200,
 			"Title": "Find All K-Distant Indices in an Array",
 			"TitleSlug": "find-all-k-distant-indices-in-an-array",
-			"PassRate": "64%",
+			"PassRate": "63%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24786,7 +24786,7 @@
 			"ID": 2251,
 			"Title": "Number of Flowers in Full Bloom",
 			"TitleSlug": "number-of-flowers-in-full-bloom",
-			"PassRate": "50%",
+			"PassRate": "51%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24918,7 +24918,7 @@
 			"ID": 2263,
 			"Title": "Make Array Non-decreasing or Non-increasing",
 			"TitleSlug": "make-array-non-decreasing-or-non-increasing",
-			"PassRate": "62%",
+			"PassRate": "63%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -24962,7 +24962,7 @@
 			"ID": 2267,
 			"Title": " Check if There Is a Valid Parentheses String Path",
 			"TitleSlug": "check-if-there-is-a-valid-parentheses-string-path",
-			"PassRate": "36%",
+			"PassRate": "37%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25127,7 +25127,7 @@
 			"ID": 2282,
 			"Title": "Number of People That Can Be Seen in a Grid",
 			"TitleSlug": "number-of-people-that-can-be-seen-in-a-grid",
-			"PassRate": "55%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25149,7 +25149,7 @@
 			"ID": 2284,
 			"Title": "Sender With Largest Word Count",
 			"TitleSlug": "sender-with-largest-word-count",
-			"PassRate": "53%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25226,7 +25226,7 @@
 			"ID": 2291,
 			"Title": "Maximum Profit From Trading Stocks",
 			"TitleSlug": "maximum-profit-from-trading-stocks",
-			"PassRate": "56%",
+			"PassRate": "55%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
