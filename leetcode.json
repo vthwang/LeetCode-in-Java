@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 522663,
-	"Updated": "2022-06-02T23:34:22.871365-04:00",
+	"Updated": "2022-06-02T23:53:02.416183-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 50,
+			"Solved": 51,
 			"Total": 440
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 86,
+			"Solved": 87,
 			"Total": 1758
 		}
 	},
@@ -2117,7 +2117,7 @@
 			"TitleSlug": "reverse-bits",
 			"PassRate": "49%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -18692,7 +18692,7 @@
 			"ID": 1697,
 			"Title": "Checking Existence of Edge Length Limited Paths",
 			"TitleSlug": "checking-existence-of-edge-length-limited-paths",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,

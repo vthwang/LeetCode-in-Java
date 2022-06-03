@@ -90,6 +90,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0684.redundant-connection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0136.single-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0268.missing-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0190.reverse-bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0260.single-number-iii" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />

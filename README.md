@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-522,663-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-86-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-87-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 50 | 36 | 0 | 86 |
+| **Accepted** | 51 | 36 | 0 | 87 |
 | **Total** | 440 | 919 | 399 | 1758 |
-| **Coverage** | 11.36 % | 3.92 % | 0.00 % | 4.89 % |
+| **Coverage** | 11.59 % | 3.92 % | 0.00 % | 4.95 % |
 
 ## Solutions
 
@@ -476,7 +476,7 @@
 |[1702](https://leetcode.com/problems/maximum-binary-string-after-change/)| * Maximum Binary String After Change|45%|Medium||
 |[1701](https://leetcode.com/problems/average-waiting-time/)| * Average Waiting Time|61%|Medium||
 |[1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)| * Number of Students Unable to Eat Lunch|67%|Easy||
-|[1697](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)| * Checking Existence of Edge Length Limited Paths|49%|Hard||
+|[1697](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)| * Checking Existence of Edge Length Limited Paths|48%|Hard||
 |[1696](https://leetcode.com/problems/jump-game-vi/)| * Jump Game VI|42%|Medium||
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)| * Maximum Erasure Value|52%|Medium||
 |[1694](https://leetcode.com/problems/reformat-phone-number/)| * Reformat Phone Number|65%|Easy||
@@ -1605,7 +1605,7 @@
 |[0199](https://leetcode.com/problems/binary-tree-right-side-view/)| * Binary Tree Right Side View|59%|Medium||
 |[0198](https://leetcode.com/problems/house-robber/)| * House Robber|47%|Medium||
 |[0191](https://leetcode.com/problems/number-of-1-bits/)| * Number of 1 Bits|62%|Easy||
-|[0190](https://leetcode.com/problems/reverse-bits/)| * Reverse Bits|49%|Easy||
+|[0190](https://leetcode.com/problems/reverse-bits/)|[Reverse Bits](./Algorithms/0190.reverse-bits)|49%|Easy||
 |[0189](https://leetcode.com/problems/rotate-array/)| * Rotate Array|38%|Medium||
 |[0188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| * Best Time to Buy and Sell Stock IV|33%|Hard||
 |[0187](https://leetcode.com/problems/repeated-dna-sequences/)| * Repeated DNA Sequences|44%|Medium||
