@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 505155,
-	"Updated": "2022-06-03T13:11:01.837412-04:00",
+	"Updated": "2022-06-03T13:15:26.579652-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 53,
+			"Solved": 54,
 			"Total": 440
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 89,
+			"Solved": 90,
 			"Total": 1758
 		}
 	},
@@ -7650,7 +7650,7 @@
 			"TitleSlug": "binary-number-with-alternating-bits",
 			"PassRate": "60%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
