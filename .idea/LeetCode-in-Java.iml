@@ -93,6 +93,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0190.reverse-bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0260.single-number-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0231.power-of-two" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0342.power-of-four" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
