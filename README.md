@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-492,994-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-91-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-92-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 55 | 36 | 0 | 91 |
+| **Accepted** | 55 | 37 | 0 | 92 |
 | **Total** | 440 | 919 | 399 | 1758 |
-| **Coverage** | 12.50 % | 3.92 % | 0.00 % | 5.18 % |
+| **Coverage** | 12.50 % | 4.03 % | 0.00 % | 5.23 % |
 
 ## Solutions
 
@@ -1492,7 +1492,7 @@
 |[0374](https://leetcode.com/problems/guess-number-higher-or-lower/)| * Guess Number Higher or Lower|49%|Easy||
 |[0373](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)| * Find K Pairs with Smallest Sums|38%|Medium||
 |[0372](https://leetcode.com/problems/super-pow/)| * Super Pow|37%|Medium||
-|[0371](https://leetcode.com/problems/sum-of-two-integers/)| * Sum of Two Integers|50%|Medium||
+|[0371](https://leetcode.com/problems/sum-of-two-integers/)|[Sum of Two Integers](./Algorithms/0371.sum-of-two-integers)|50%|Medium||
 |[0368](https://leetcode.com/problems/largest-divisible-subset/)| * Largest Divisible Subset|40%|Medium||
 |[0367](https://leetcode.com/problems/valid-perfect-square/)| * Valid Perfect Square|43%|Easy||
 |[0365](https://leetcode.com/problems/water-and-jug-problem/)| * Water and Jug Problem|34%|Medium||

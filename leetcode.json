@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 492994,
-	"Updated": "2022-06-04T10:06:37.169799-04:00",
+	"Updated": "2022-06-04T10:14:16.567723-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 55,
 			"Total": 440
 		},
 		"Medium": {
-			"Solved": 36,
+			"Solved": 37,
 			"Total": 919
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 91,
+			"Solved": 92,
 			"Total": 1758
 		}
 	},
@@ -4108,7 +4108,7 @@
 			"TitleSlug": "sum-of-two-integers",
 			"PassRate": "50%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

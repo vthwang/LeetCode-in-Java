@@ -95,6 +95,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0231.power-of-two" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0342.power-of-four" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0693.binary-number-with-alternating-bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0371.sum-of-two-integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0476.number-complement" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
