@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 492994,
-	"Updated": "2022-06-04T10:27:51.32751-04:00",
+	"Updated": "2022-06-04T10:43:07.17144-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 55,
+			"Solved": 56,
 			"Total": 440
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 399
 		},
 		"Total": {
-			"Solved": 93,
+			"Solved": 94,
 			"Total": 1758
 		}
 	},
@@ -3745,7 +3745,7 @@
 			"TitleSlug": "counting-bits",
 			"PassRate": "74%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22960,7 +22960,7 @@
 			"ID": 2085,
 			"Title": "Count Common Words With One Occurrence",
 			"TitleSlug": "count-common-words-with-one-occurrence",
-			"PassRate": "69%",
+			"PassRate": "70%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
