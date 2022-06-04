@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-492,994-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-92-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-93-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 55 | 37 | 0 | 92 |
+| **Accepted** | 55 | 38 | 0 | 93 |
 | **Total** | 440 | 919 | 399 | 1758 |
-| **Coverage** | 12.50 % | 4.03 % | 0.00 % | 5.23 % |
+| **Coverage** | 12.50 % | 4.13 % | 0.00 % | 5.29 % |
 
 ## Solutions
 
@@ -1525,7 +1525,7 @@
 |[0322](https://leetcode.com/problems/coin-change/)| * Coin Change|40%|Medium||
 |[0321](https://leetcode.com/problems/create-maximum-number/)| * Create Maximum Number|28%|Hard||
 |[0319](https://leetcode.com/problems/bulb-switcher/)| * Bulb Switcher|47%|Medium||
-|[0318](https://leetcode.com/problems/maximum-product-of-word-lengths/)| * Maximum Product of Word Lengths|60%|Medium||
+|[0318](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Maximum Product of Word Lengths](./Algorithms/0318.maximum-product-of-word-lengths)|60%|Medium||
 |[0316](https://leetcode.com/problems/remove-duplicate-letters/)| * Remove Duplicate Letters|44%|Medium||
 |[0315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| * Count of Smaller Numbers After Self|42%|Hard||
 |[0313](https://leetcode.com/problems/super-ugly-number/)| * Super Ugly Number|45%|Medium||
