@@ -17,6 +17,6 @@ Output: [1]
 ```
 
 ## Solutions
-1. [Sort](./TopKFrequentElements.java)
+1. [Bucket](./TopKFrequentElements.java)
     - Runtime: faster than 98.46%.
     - Memory usage: less than 85.28%.
