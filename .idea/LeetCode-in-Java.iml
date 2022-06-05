@@ -99,6 +99,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0338.counting-bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0371.sum-of-two-integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0476.number-complement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0075.sort-colors" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0215.kth-largest-element-in-an-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0347.top-k-frequent-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0451.sort-characters-by-frequency" isTestSource="false" />

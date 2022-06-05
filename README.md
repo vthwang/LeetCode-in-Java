@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-477,423-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-97-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-98-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 56 | 41 | 0 | 97 |
+| **Accepted** | 56 | 42 | 0 | 98 |
 | **Total** | 441 | 921 | 400 | 1762 |
-| **Coverage** | 12.70 % | 4.45 % | 0.00 % | 5.51 % |
+| **Coverage** | 12.70 % | 4.56 % | 0.00 % | 5.56 % |
 
 ## Solutions
 
@@ -210,7 +210,7 @@
 |[2058](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| * Find the Minimum and Maximum Number of Nodes Between Critical Points|57%|Medium||
 |[2057](https://leetcode.com/problems/smallest-index-with-equal-value/)| * Smallest Index With Equal Value|72%|Easy||
 |[2056](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)| * Number of Valid Move Combinations On Chessboard|58%|Hard||
-|[2055](https://leetcode.com/problems/plates-between-candles/)| * Plates Between Candles|44%|Medium||
+|[2055](https://leetcode.com/problems/plates-between-candles/)| * Plates Between Candles|45%|Medium||
 |[2054](https://leetcode.com/problems/two-best-non-overlapping-events/)| * Two Best Non-Overlapping Events|43%|Medium||
 |[2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/)| * Kth Distinct String in an Array|72%|Easy||
 |[2050](https://leetcode.com/problems/parallel-courses-iii/)| * Parallel Courses III|59%|Hard||
@@ -1445,7 +1445,7 @@
 |[0434](https://leetcode.com/problems/number-of-segments-in-a-string/)| * Number of Segments in a String|37%|Easy||
 |[0433](https://leetcode.com/problems/minimum-genetic-mutation/)| * Minimum Genetic Mutation|47%|Medium||
 |[0432](https://leetcode.com/problems/all-oone-data-structure/)| * All O`one Data Structure|36%|Hard||
-|[0430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| * Flatten a Multilevel Doubly Linked List|58%|Medium||
+|[0430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| * Flatten a Multilevel Doubly Linked List|59%|Medium||
 |[0429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| * N-ary Tree Level Order Traversal|68%|Medium||
 |[0427](https://leetcode.com/problems/construct-quad-tree/)| * Construct Quad Tree|65%|Medium||
 |[0424](https://leetcode.com/problems/longest-repeating-character-replacement/)| * Longest Repeating Character Replacement|50%|Medium||
@@ -1706,7 +1706,7 @@
 |[0078](https://leetcode.com/problems/subsets/)| * Subsets|71%|Medium||
 |[0077](https://leetcode.com/problems/combinations/)| * Combinations|64%|Medium||
 |[0076](https://leetcode.com/problems/minimum-window-substring/)| * Minimum Window Substring|39%|Hard||
-|[0075](https://leetcode.com/problems/sort-colors/)| * Sort Colors|55%|Medium||
+|[0075](https://leetcode.com/problems/sort-colors/)|[Sort Colors](./Algorithms/0075.sort-colors)|55%|Medium||
 |[0074](https://leetcode.com/problems/search-a-2d-matrix/)| * Search a 2D Matrix|44%|Medium||
 |[0073](https://leetcode.com/problems/set-matrix-zeroes/)| * Set Matrix Zeroes|48%|Medium||
 |[0072](https://leetcode.com/problems/edit-distance/)| * Edit Distance|51%|Hard||

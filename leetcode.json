@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 477423,
-	"Updated": "2022-06-05T15:03:36.277989-04:00",
+	"Updated": "2022-06-05T15:16:08.199917-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 56,
 			"Total": 441
 		},
 		"Medium": {
-			"Solved": 41,
+			"Solved": 42,
 			"Total": 921
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 400
 		},
 		"Total": {
-			"Solved": 97,
+			"Solved": 98,
 			"Total": 1762
 		}
 	},
@@ -852,7 +852,7 @@
 			"TitleSlug": "sort-colors",
 			"PassRate": "55%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -4755,7 +4755,7 @@
 			"ID": 430,
 			"Title": "Flatten a Multilevel Doubly Linked List",
 			"TitleSlug": "flatten-a-multilevel-doubly-linked-list",
-			"PassRate": "58%",
+			"PassRate": "59%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -22630,7 +22630,7 @@
 			"ID": 2055,
 			"Title": "Plates Between Candles",
 			"TitleSlug": "plates-between-candles",
-			"PassRate": "44%",
+			"PassRate": "45%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
