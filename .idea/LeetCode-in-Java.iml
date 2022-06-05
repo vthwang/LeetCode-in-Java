@@ -100,6 +100,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0371.sum-of-two-integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0476.number-complement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0215.kth-largest-element-in-an-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0347.top-k-frequent-elements" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
