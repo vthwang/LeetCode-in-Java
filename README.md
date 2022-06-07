@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-477,423-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-101-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-102-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 57 | 44 | 0 | 101 |
+| **Accepted** | 57 | 45 | 0 | 102 |
 | **Total** | 441 | 921 | 400 | 1762 |
-| **Coverage** | 12.93 % | 4.78 % | 0.00 % | 5.73 % |
+| **Coverage** | 12.93 % | 4.89 % | 0.00 % | 5.79 % |
 
 ## Solutions
 
@@ -1462,7 +1462,7 @@
 |[0410](https://leetcode.com/problems/split-array-largest-sum/)| * Split Array Largest Sum|52%|Hard||
 |[0409](https://leetcode.com/problems/longest-palindrome/)|[Longest Palindrome](./Algorithms/0409.longest-palindrome)|53%|Easy||
 |[0407](https://leetcode.com/problems/trapping-rain-water-ii/)| * Trapping Rain Water II|47%|Hard||
-|[0406](https://leetcode.com/problems/queue-reconstruction-by-height/)| * Queue Reconstruction by Height|70%|Medium||
+|[0406](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Queue Reconstruction by Height](./Algorithms/0406.queue-reconstruction-by-height)|70%|Medium|[⭐](https://leetcode.com/list/yxanka6/)|
 |[0405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)| * Convert a Number to Hexadecimal|45%|Easy||
 |[0404](https://leetcode.com/problems/sum-of-left-leaves/)|[Sum of Left Leaves](./Algorithms/0404.sum-of-left-leaves)|55%|Easy||
 |[0403](https://leetcode.com/problems/frog-jump/)| * Frog Jump|43%|Hard||
