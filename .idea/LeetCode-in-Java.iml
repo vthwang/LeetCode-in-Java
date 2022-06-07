@@ -104,6 +104,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0347.top-k-frequent-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0451.sort-characters-by-frequency" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0455.assign-cookies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0435.non-overlapping-intervals" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
