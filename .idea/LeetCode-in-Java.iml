@@ -107,6 +107,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0406.queue-reconstruction-by-height" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0435.non-overlapping-intervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0452.minimum-number-of-arrows-to-burst-balloons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0121.best-time-to-buy-and-sell-stock" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
