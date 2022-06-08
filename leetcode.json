@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 477423,
-	"Updated": "2022-06-08T13:27:38.991748-04:00",
+	"Updated": "2022-06-08T13:59:27.140952-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 58,
+			"Solved": 59,
 			"Total": 441
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 400
 		},
 		"Total": {
-			"Solved": 104,
+			"Solved": 105,
 			"Total": 1762
 		}
 	},
@@ -6682,7 +6682,7 @@
 			"TitleSlug": "can-place-flowers",
 			"PassRate": "33%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -15953,7 +15953,7 @@
 			"ID": 1448,
 			"Title": "Count Good Nodes in Binary Tree",
 			"TitleSlug": "count-good-nodes-in-binary-tree",
-			"PassRate": "72%",
+			"PassRate": "73%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18626,7 +18626,7 @@
 			"ID": 1691,
 			"Title": "Maximum Height by Stacking Cuboids ",
 			"TitleSlug": "maximum-height-by-stacking-cuboids",
-			"PassRate": "53%",
+			"PassRate": "54%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24973,7 +24973,7 @@
 			"ID": 2268,
 			"Title": "Minimum Number of Keypresses",
 			"TitleSlug": "minimum-number-of-keypresses",
-			"PassRate": "79%",
+			"PassRate": "78%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25226,12 +25226,12 @@
 			"ID": 2291,
 			"Title": "Maximum Profit From Trading Stocks",
 			"TitleSlug": "maximum-profit-from-trading-stocks",
-			"PassRate": "53%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
 			"IsFavor": false,
-			"IsNew": true
+			"IsNew": false
 		},
 		{
 			"ID": 0,
@@ -25248,7 +25248,7 @@
 			"ID": 2293,
 			"Title": "Min Max Game",
 			"TitleSlug": "min-max-game",
-			"PassRate": "63%",
+			"PassRate": "62%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25292,7 +25292,7 @@
 			"ID": 2297,
 			"Title": "Jump Game IX",
 			"TitleSlug": "jump-game-ix",
-			"PassRate": "56%",
+			"PassRate": "60%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
