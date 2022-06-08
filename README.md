@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-477,423-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-103-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-104-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 58 | 45 | 0 | 103 |
+| **Accepted** | 58 | 46 | 0 | 104 |
 | **Total** | 441 | 921 | 400 | 1762 |
-| **Coverage** | 13.15 % | 4.89 % | 0.00 % | 5.85 % |
+| **Coverage** | 13.15 % | 4.99 % | 0.00 % | 5.90 % |
 
 ## Solutions
 
@@ -1659,7 +1659,7 @@
 |[0125](https://leetcode.com/problems/valid-palindrome/)| * Valid Palindrome|42%|Easy||
 |[0124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| * Binary Tree Maximum Path Sum|37%|Hard||
 |[0123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| * Best Time to Buy and Sell Stock III|43%|Hard||
-|[0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| * Best Time to Buy and Sell Stock II|62%|Medium||
+|[0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](./Algorithms/0122.best-time-to-buy-and-sell-stock-ii)|62%|Medium||
 |[0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](./Algorithms/0121.best-time-to-buy-and-sell-stock)|54%|Easy||
 |[0120](https://leetcode.com/problems/triangle/)| * Triangle|51%|Medium||
 |[0119](https://leetcode.com/problems/pascals-triangle-ii/)| * Pascal&#39;s Triangle II|57%|Easy||
