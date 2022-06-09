@@ -110,6 +110,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0121.best-time-to-buy-and-sell-stock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0122.best-time-to-buy-and-sell-stock-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0605.can-place-flowers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0392.is-subsequence" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
