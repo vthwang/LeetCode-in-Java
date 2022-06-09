@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-438,414-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-107-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-108-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 60 | 47 | 0 | 107 |
+| **Accepted** | 61 | 47 | 0 | 108 |
 | **Total** | 441 | 921 | 400 | 1762 |
-| **Coverage** | 13.61 % | 5.10 % | 0.00 % | 6.07 % |
+| **Coverage** | 13.83 % | 5.10 % | 0.00 % | 6.13 % |
 
 ## Solutions
 
@@ -1728,7 +1728,7 @@
 |[0056](https://leetcode.com/problems/merge-intervals/)| * Merge Intervals|45%|Medium||
 |[0055](https://leetcode.com/problems/jump-game/)| * Jump Game|37%|Medium||
 |[0054](https://leetcode.com/problems/spiral-matrix/)| * Spiral Matrix|41%|Medium||
-|[0053](https://leetcode.com/problems/maximum-subarray/)| * Maximum Subarray|49%|Easy||
+|[0053](https://leetcode.com/problems/maximum-subarray/)|[Maximum Subarray](./Algorithms/0053.maximum-subarray)|49%|Easy||
 |[0052](https://leetcode.com/problems/n-queens-ii/)| * N-Queens II|69%|Hard||
 |[0051](https://leetcode.com/problems/n-queens/)| * N-Queens|60%|Hard||
 |[0050](https://leetcode.com/problems/powx-n/)| * Pow(x, n)|32%|Medium||
