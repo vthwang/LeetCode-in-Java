@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-438,414-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-108-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-109-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 61 | 47 | 0 | 108 |
+| **Accepted** | 61 | 48 | 0 | 109 |
 | **Total** | 441 | 921 | 400 | 1762 |
-| **Coverage** | 13.83 % | 5.10 % | 0.00 % | 6.13 % |
+| **Coverage** | 13.83 % | 5.21 % | 0.00 % | 6.19 % |
 
 ## Solutions
 
@@ -1037,7 +1037,7 @@
 |[0937](https://leetcode.com/problems/reorder-data-in-log-files/)| * Reorder Data in Log Files|56%|Easy||
 |[0936](https://leetcode.com/problems/stamping-the-sequence/)| * Stamping The Sequence|53%|Hard||
 |[0935](https://leetcode.com/problems/knight-dialer/)| * Knight Dialer|49%|Medium||
-|[0934](https://leetcode.com/problems/shortest-bridge/)| * Shortest Bridge|52%|Medium||
+|[0934](https://leetcode.com/problems/shortest-bridge/)| * Shortest Bridge|53%|Medium||
 |[0933](https://leetcode.com/problems/number-of-recent-calls/)| * Number of Recent Calls|73%|Easy||
 |[0932](https://leetcode.com/problems/beautiful-array/)| * Beautiful Array|64%|Medium||
 |[0931](https://leetcode.com/problems/minimum-falling-path-sum/)| * Minimum Falling Path Sum|67%|Medium||
@@ -1204,7 +1204,7 @@
 |[0766](https://leetcode.com/problems/toeplitz-matrix/)|[Toeplitz Matrix](./Algorithms/0766.toeplitz-matrix)|68%|Easy||
 |[0765](https://leetcode.com/problems/couples-holding-hands/)| * Couples Holding Hands|56%|Hard||
 |[0764](https://leetcode.com/problems/largest-plus-sign/)| * Largest Plus Sign|48%|Medium||
-|[0763](https://leetcode.com/problems/partition-labels/)| * Partition Labels|79%|Medium||
+|[0763](https://leetcode.com/problems/partition-labels/)|[Partition Labels](./Algorithms/0763.partition-labels)|79%|Medium||
 |[0762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| * Prime Number of Set Bits in Binary Representation|66%|Easy||
 |[0761](https://leetcode.com/problems/special-binary-string/)| * Special Binary String|59%|Hard||
 |[0757](https://leetcode.com/problems/set-intersection-size-at-least-two/)| * Set Intersection Size At Least Two|43%|Hard||

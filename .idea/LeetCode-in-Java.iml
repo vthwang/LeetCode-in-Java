@@ -113,6 +113,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0053.maximum-subarray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0392.is-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0665.non-decreasing-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0763.partition-labels" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
