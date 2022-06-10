@@ -115,6 +115,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0665.non-decreasing-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0763.partition-labels" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0069.sqrtx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0744.find-smallest-letter-greater-than-target" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

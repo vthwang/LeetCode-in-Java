@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 425150,
-	"Updated": "2022-06-10T14:53:34.039356-04:00",
+	"Updated": "2022-06-10T15:01:05.314258-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 62,
+			"Solved": 63,
 			"Total": 441
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 400
 		},
 		"Total": {
-			"Solved": 110,
+			"Solved": 111,
 			"Total": 1762
 		}
 	},
@@ -8211,7 +8211,7 @@
 			"TitleSlug": "find-smallest-letter-greater-than-target",
 			"PassRate": "44%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -12741,7 +12741,7 @@
 			"ID": 1156,
 			"Title": "Swap For Longest Repeated Character Substring",
 			"TitleSlug": "swap-for-longest-repeated-character-substring",
-			"PassRate": "45%",
+			"PassRate": "46%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
