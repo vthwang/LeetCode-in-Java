@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 423038,
-	"Updated": "2022-06-20T08:28:01.048145-04:00",
+	"Updated": "2022-06-20T08:36:17.591102-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 64,
 			"Total": 444
 		},
 		"Medium": {
-			"Solved": 50,
+			"Solved": 51,
 			"Total": 927
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 403
 		},
 		"Total": {
-			"Solved": 114,
+			"Solved": 115,
 			"Total": 1774
 		}
 	},
@@ -1710,7 +1710,7 @@
 			"TitleSlug": "find-minimum-in-rotated-sorted-array",
 			"PassRate": "48%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

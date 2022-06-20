@@ -117,6 +117,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0069.sqrtx" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0744.find-smallest-letter-greater-than-target" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0034.find-first-and-last-position-of-element-in-sorted-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0153.find-minimum-in-rotated-sorted-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0278.first-bad-version" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0540.single-element-in-a-sorted-array" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
