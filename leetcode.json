@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 423038,
-	"Updated": "2022-06-20T08:17:04.80048-04:00",
+	"Updated": "2022-06-20T08:28:01.048145-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 64,
 			"Total": 444
 		},
 		"Medium": {
-			"Solved": 49,
+			"Solved": 50,
 			"Total": 927
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 403
 		},
 		"Total": {
-			"Solved": 113,
+			"Solved": 114,
 			"Total": 1774
 		}
 	},
@@ -401,7 +401,7 @@
 			"TitleSlug": "find-first-and-last-position-of-element-in-sorted-array",
 			"PassRate": "40%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25017,7 +25017,7 @@
 			"ID": 2272,
 			"Title": "Substring With Largest Variance",
 			"TitleSlug": "substring-with-largest-variance",
-			"PassRate": "32%",
+			"PassRate": "31%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
