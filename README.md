@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-423,038-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-112-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-113-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 63 | 49 | 0 | 112 |
+| **Accepted** | 64 | 49 | 0 | 113 |
 | **Total** | 444 | 927 | 403 | 1774 |
-| **Coverage** | 14.19 % | 5.29 % | 0.00 % | 6.31 % |
+| **Coverage** | 14.41 % | 5.29 % | 0.00 % | 6.37 % |
 
 ## Solutions
 
@@ -1565,7 +1565,7 @@
 |[0283](https://leetcode.com/problems/move-zeroes/)|[Move Zeroes](./Algorithms/0283.move-zeroes)|60%|Easy||
 |[0282](https://leetcode.com/problems/expression-add-operators/)| * Expression Add Operators|39%|Hard||
 |[0279](https://leetcode.com/problems/perfect-squares/)| * Perfect Squares|51%|Medium||
-|[0278](https://leetcode.com/problems/first-bad-version/)| * First Bad Version|42%|Easy||
+|[0278](https://leetcode.com/problems/first-bad-version/)|[First Bad Version](./Algorithms/0278.first-bad-version)|42%|Easy||
 |[0275](https://leetcode.com/problems/h-index-ii/)| * H-Index II|37%|Medium||
 |[0274](https://leetcode.com/problems/h-index/)| * H-Index|37%|Medium||
 |[0273](https://leetcode.com/problems/integer-to-english-words/)| * Integer to English Words|29%|Hard||
