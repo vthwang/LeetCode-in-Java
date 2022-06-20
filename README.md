@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
-[![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-423,038-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-115-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-410,518-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-116-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,16 +11,16 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 64 | 51 | 0 | 115 |
+| **Accepted** | 64 | 52 | 0 | 116 |
 | **Total** | 444 | 927 | 403 | 1774 |
-| **Coverage** | 14.41 % | 5.50 % | 0.00 % | 6.48 % |
+| **Coverage** | 14.41 % | 5.61 % | 0.00 % | 6.54 % |
 
 ## Solutions
 
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
 |[2312](https://leetcode.com/problems/selling-pieces-of-wood/)| * Selling Pieces of Wood|42%|Hard||
-|[2311](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/)| * Longest Binary Subsequence Less Than or Equal to K|32%|Medium||
+|[2311](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/)| * Longest Binary Subsequence Less Than or Equal to K|33%|Medium||
 |[2310](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)| * Sum of Numbers With Units Digit K|23%|Medium||
 |[2309](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)| * Greatest English Letter in Upper and Lower Case|69%|Easy||
 |[2306](https://leetcode.com/problems/naming-a-company/)| * Naming a Company|32%|Hard||
@@ -673,7 +673,7 @@
 |[1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)| * Check If a String Contains All Binary Codes of Size K|56%|Medium||
 |[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| * Make Two Arrays Equal by Reversing Sub-arrays|72%|Easy||
 |[1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)| * Max Dot Product of Two Subsequences|45%|Hard||
-|[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| * Pseudo-Palindromic Paths in a Binary Tree|66%|Medium||
+|[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| * Pseudo-Palindromic Paths in a Binary Tree|67%|Medium||
 |[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)| * Maximum Number of Vowels in a Substring of Given Length|57%|Medium||
 |[1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)| * Check If a Word Occurs As a Prefix of Any Word in a Sentence|64%|Easy||
 |[1453](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)| * Maximum Number of Darts Inside of a Circular Dartboard|36%|Hard||
@@ -1111,7 +1111,7 @@
 |[0875](https://leetcode.com/problems/koko-eating-bananas/)| * Koko Eating Bananas|54%|Medium||
 |[0874](https://leetcode.com/problems/walking-robot-simulation/)| * Walking Robot Simulation|37%|Medium||
 |[0873](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)| * Length of Longest Fibonacci Subsequence|48%|Medium||
-|[0872](https://leetcode.com/problems/leaf-similar-trees/)| * Leaf-Similar Trees|64%|Easy||
+|[0872](https://leetcode.com/problems/leaf-similar-trees/)| * Leaf-Similar Trees|65%|Easy||
 |[0871](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| * Minimum Number of Refueling Stops|35%|Hard||
 |[0870](https://leetcode.com/problems/advantage-shuffle/)| * Advantage Shuffle|51%|Medium||
 |[0869](https://leetcode.com/problems/reordered-power-of-2/)| * Reordered Power of 2|61%|Medium||
@@ -1163,7 +1163,7 @@
 |[0823](https://leetcode.com/problems/binary-trees-with-factors/)| * Binary Trees With Factors|43%|Medium||
 |[0822](https://leetcode.com/problems/card-flipping-game/)| * Card Flipping Game|44%|Medium||
 |[0821](https://leetcode.com/problems/shortest-distance-to-a-character/)| * Shortest Distance to a Character|71%|Easy||
-|[0820](https://leetcode.com/problems/short-encoding-of-words/)| * Short Encoding of Words|58%|Medium||
+|[0820](https://leetcode.com/problems/short-encoding-of-words/)|[Short Encoding of Words](./Algorithms/0820.short-encoding-of-words)|59%|Medium||
 |[0819](https://leetcode.com/problems/most-common-word/)| * Most Common Word|45%|Easy||
 |[0818](https://leetcode.com/problems/race-car/)| * Race Car|43%|Hard||
 |[0817](https://leetcode.com/problems/linked-list-components/)| * Linked List Components|58%|Medium||
@@ -1460,7 +1460,7 @@
 |[0430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| * Flatten a Multilevel Doubly Linked List|59%|Medium||
 |[0429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| * N-ary Tree Level Order Traversal|68%|Medium||
 |[0427](https://leetcode.com/problems/construct-quad-tree/)| * Construct Quad Tree|65%|Medium||
-|[0424](https://leetcode.com/problems/longest-repeating-character-replacement/)| * Longest Repeating Character Replacement|50%|Medium||
+|[0424](https://leetcode.com/problems/longest-repeating-character-replacement/)| * Longest Repeating Character Replacement|51%|Medium||
 |[0423](https://leetcode.com/problems/reconstruct-original-digits-from-english/)| * Reconstruct Original Digits from English|51%|Medium||
 |[0421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| * Maximum XOR of Two Numbers in an Array|54%|Medium||
 |[0420](https://leetcode.com/problems/strong-password-checker/)| * Strong Password Checker|14%|Hard||

@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
-	"Ranking": 423038,
-	"Updated": "2022-06-20T08:36:17.591102-04:00",
+	"Ranking": 410518,
+	"Updated": "2022-06-20T13:34:01.366516-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 64,
 			"Total": 444
 		},
 		"Medium": {
-			"Solved": 51,
+			"Solved": 52,
 			"Total": 927
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 403
 		},
 		"Total": {
-			"Solved": 115,
+			"Solved": 116,
 			"Total": 1774
 		}
 	},
@@ -4689,7 +4689,7 @@
 			"ID": 424,
 			"Title": "Longest Repeating Character Replacement",
 			"TitleSlug": "longest-repeating-character-replacement",
-			"PassRate": "50%",
+			"PassRate": "51%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -9045,9 +9045,9 @@
 			"ID": 820,
 			"Title": "Short Encoding of Words",
 			"TitleSlug": "short-encoding-of-words",
-			"PassRate": "58%",
+			"PassRate": "59%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -9617,7 +9617,7 @@
 			"ID": 872,
 			"Title": "Leaf-Similar Trees",
 			"TitleSlug": "leaf-similar-trees",
-			"PassRate": "64%",
+			"PassRate": "65%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -16052,7 +16052,7 @@
 			"ID": 1457,
 			"Title": "Pseudo-Palindromic Paths in a Binary Tree",
 			"TitleSlug": "pseudo-palindromic-paths-in-a-binary-tree",
-			"PassRate": "66%",
+			"PassRate": "67%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25127,7 +25127,7 @@
 			"ID": 2282,
 			"Title": "Number of People That Can Be Seen in a Grid",
 			"TitleSlug": "number-of-people-that-can-be-seen-in-a-grid",
-			"PassRate": "52%",
+			"PassRate": "51%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25446,7 +25446,7 @@
 			"ID": 2311,
 			"Title": "Longest Binary Subsequence Less Than or Equal to K",
 			"TitleSlug": "longest-binary-subsequence-less-than-or-equal-to-k",
-			"PassRate": "32%",
+			"PassRate": "33%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
