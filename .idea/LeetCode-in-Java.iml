@@ -121,6 +121,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0278.first-bad-version" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0540.single-element-in-a-sorted-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0820.short-encoding-of-words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1642.furthest-building-you-can-reach" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
