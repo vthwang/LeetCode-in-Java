@@ -123,6 +123,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0820.short-encoding-of-words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1642.furthest-building-you-can-reach" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0630.course-schedule-iii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1354.construct-target-array-with-multiple-sums" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
