@@ -125,6 +125,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0630.course-schedule-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1354.construct-target-array-with-multiple-sums" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1423.maximum-points-you-can-obtain-from-cards" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1689.partitioning-into-minimum-number-of-deci-binary-numbers" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
