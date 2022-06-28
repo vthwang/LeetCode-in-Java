@@ -126,6 +126,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1354.construct-target-array-with-multiple-sums" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1423.maximum-points-you-can-obtain-from-cards" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1689.partitioning-into-minimum-number-of-deci-binary-numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1647.minimum-deletions-to-make-character-frequencies-unique" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
