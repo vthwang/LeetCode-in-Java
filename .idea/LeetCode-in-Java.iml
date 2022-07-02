@@ -129,6 +129,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1647.minimum-deletions-to-make-character-frequencies-unique" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0462.minimum-moves-to-equal-array-elements-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1710.maximum-units-on-a-truck" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
