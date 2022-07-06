@@ -132,6 +132,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0376.wiggle-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0135.candy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0509.fibonacci-number" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
