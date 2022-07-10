@@ -136,6 +136,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0097.interleaving-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1473.paint-house-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1696.jump-game-vi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0746.min-cost-climbing-stairs" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
