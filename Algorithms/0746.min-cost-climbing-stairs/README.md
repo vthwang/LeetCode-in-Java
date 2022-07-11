@@ -32,6 +32,6 @@ The total cost is 6.
 ```
 
 ## Solutions
-2. [Dynamic Programming](./MinCostClimbingStairs.java)
+1. [Dynamic Programming](./MinCostClimbingStairs.java)
     - Runtime: faster than 89.45%.
     - Memory usage: less than 50.06%.
