@@ -140,6 +140,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0199.binary-tree-right-side-view" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0473.matchsticks-to-square" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0102.binary-tree-level-order-traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0105.construct-binary-tree-from-preorder-and-inorder-traversal" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
