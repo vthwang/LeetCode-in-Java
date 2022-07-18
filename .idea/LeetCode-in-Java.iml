@@ -144,6 +144,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0695.max-area-of-island" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0576.out-of-boundary-paths" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0629.k-inverse-pairs-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1074.number-of-submatrices-that-sum-to-target" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
