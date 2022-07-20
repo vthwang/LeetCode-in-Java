@@ -146,6 +146,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0629.k-inverse-pairs-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1074.number-of-submatrices-that-sum-to-target" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0118.pascals-triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0792.number-of-matching-subsequences" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
