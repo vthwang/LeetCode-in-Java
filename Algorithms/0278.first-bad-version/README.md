@@ -27,5 +27,5 @@ Output: 1
 
 ## Solutions
 1. [Binary Search Algorithm](./FirstBadVersion.java)
-    - Runtime: faster than 49.13%.
-    - Memory usage: less than 7.91%
+    - Runtime: faster than 76.91%.
+    - Memory usage: less than 57.81%
