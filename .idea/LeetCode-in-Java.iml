@@ -152,6 +152,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0315.count-of-smaller-numbers-after-self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0035.search-insert-position" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0704.binary-search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0114.flatten-binary-tree-to-linked-list" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
