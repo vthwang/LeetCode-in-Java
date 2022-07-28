@@ -153,6 +153,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0035.search-insert-position" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0704.binary-search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0114.flatten-binary-tree-to-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0189.rotate-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0977.squares-of-a-sorted-array" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />

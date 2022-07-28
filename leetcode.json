@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 337302,
-	"Updated": "2022-07-28T15:19:13.262128-04:00",
+	"Updated": "2022-07-28T15:44:43.83456-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 69,
 			"Total": 448
 		},
 		"Medium": {
-			"Solved": 73,
+			"Solved": 74,
 			"Total": 946
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 412
 		},
 		"Total": {
-			"Solved": 149,
+			"Solved": 150,
 			"Total": 1806
 		}
 	},
@@ -2106,7 +2106,7 @@
 			"TitleSlug": "rotate-array",
 			"PassRate": "38%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24731,7 +24731,7 @@
 			"ID": 2246,
 			"Title": "Longest Path With Different Adjacent Characters",
 			"TitleSlug": "longest-path-with-different-adjacent-characters",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
