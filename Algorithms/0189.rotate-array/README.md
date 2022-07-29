@@ -24,6 +24,6 @@ rotate 2 steps to the right: [3,99,-1,-100]
 ```
 
 ## Solutions
-2. [Two Pointers](./RotateArray.java)
+1. [Two Pointers](./RotateArray.java)
     - Runtime: faster than 100%.
     - Memory usage: less than 28.75%
