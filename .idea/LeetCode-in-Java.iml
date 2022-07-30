@@ -156,6 +156,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0189.rotate-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0977.squares-of-a-sorted-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0890.find-and-replace-pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0916.word-subsets" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
