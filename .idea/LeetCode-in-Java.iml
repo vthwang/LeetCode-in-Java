@@ -158,6 +158,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0890.find-and-replace-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0916.word-subsets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0307.range-sum-query-mutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0062.unique-paths" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
