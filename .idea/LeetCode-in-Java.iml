@@ -160,6 +160,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0307.range-sum-query-mutable" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0062.unique-paths" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0729.my-calendar-i" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0858.mirror-reflection" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
