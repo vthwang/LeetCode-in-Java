@@ -162,6 +162,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0729.my-calendar-i" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0858.mirror-reflection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0377.combination-sum-iv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0458.poor-pigs" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
