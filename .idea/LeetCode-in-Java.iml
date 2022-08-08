@@ -164,6 +164,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0377.combination-sum-iv" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0458.poor-pigs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1220.count-vowels-permutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0300.longest-increasing-subsequence" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
