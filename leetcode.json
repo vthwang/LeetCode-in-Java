@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 311822,
-	"Updated": "2022-08-10T13:59:44.141097-04:00",
+	"Updated": "2022-08-10T14:32:52.251529-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 70,
+			"Solved": 71,
 			"Total": 451
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 414
 		},
 		"Total": {
-			"Solved": 162,
+			"Solved": 163,
 			"Total": 1818
 		}
 	},
@@ -7991,7 +7991,7 @@
 			"TitleSlug": "find-pivot-index",
 			"PassRate": "52%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -20045,7 +20045,7 @@
 			"ID": 1820,
 			"Title": "Maximum Number of Accepted Invitations",
 			"TitleSlug": "maximum-number-of-accepted-invitations",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25622,7 +25622,7 @@
 			"ID": 2327,
 			"Title": "Number of People Aware of a Secret",
 			"TitleSlug": "number-of-people-aware-of-a-secret",
-			"PassRate": "44%",
+			"PassRate": "43%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25820,7 +25820,7 @@
 			"ID": 2345,
 			"Title": "Finding the Number of Visible Mountains",
 			"TitleSlug": "finding-the-number-of-visible-mountains",
-			"PassRate": "48%",
+			"PassRate": "47%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25996,7 +25996,7 @@
 			"ID": 2361,
 			"Title": "Minimum Costs Using the Train Line",
 			"TitleSlug": "minimum-costs-using-the-train-line",
-			"PassRate": "85%",
+			"PassRate": "86%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
