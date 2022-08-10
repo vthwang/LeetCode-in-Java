@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 311822,
-	"Updated": "2022-08-10T11:24:51.398538-04:00",
+	"Updated": "2022-08-10T13:59:44.141097-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 69,
+			"Solved": 70,
 			"Total": 451
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 414
 		},
 		"Total": {
-			"Solved": 161,
+			"Solved": 162,
 			"Total": 1818
 		}
 	},
@@ -1213,7 +1213,7 @@
 			"ID": 108,
 			"Title": "Convert Sorted Array to Binary Search Tree",
 			"TitleSlug": "convert-sorted-array-to-binary-search-tree",
-			"PassRate": "67%",
+			"PassRate": "68%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -2764,7 +2764,7 @@
 			"ID": 249,
 			"Title": "Group Shifted Strings",
 			"TitleSlug": "group-shifted-strings",
-			"PassRate": "63%",
+			"PassRate": "64%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -16272,7 +16272,7 @@
 			"ID": 1477,
 			"Title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
 			"TitleSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
-			"PassRate": "36%",
+			"PassRate": "37%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -16307,7 +16307,7 @@
 			"TitleSlug": "running-sum-of-1d-array",
 			"PassRate": "90%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21332,7 +21332,7 @@
 			"ID": 1937,
 			"Title": "Maximum Number of Points with Cost",
 			"TitleSlug": "maximum-number-of-points-with-cost",
-			"PassRate": "36%",
+			"PassRate": "35%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25622,7 +25622,7 @@
 			"ID": 2327,
 			"Title": "Number of People Aware of a Secret",
 			"TitleSlug": "number-of-people-aware-of-a-secret",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25765,7 +25765,7 @@
 			"ID": 2340,
 			"Title": "Minimum Adjacent Swaps to Make a Valid Array",
 			"TitleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
-			"PassRate": "76%",
+			"PassRate": "77%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
