@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-306,186-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-165-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-166-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 71 | 85 | 9 | 165 |
+| **Accepted** | 71 | 86 | 9 | 166 |
 | **Total** | 451 | 953 | 414 | 1818 |
-| **Coverage** | 15.74 % | 8.92 % | 2.17 % | 9.08 % |
+| **Coverage** | 15.74 % | 9.02 % | 2.17 % | 9.13 % |
 
 ## Solutions
 
@@ -1034,7 +1034,7 @@
 |[0996](https://leetcode.com/problems/number-of-squareful-arrays/)| * Number of Squareful Arrays|49%|Hard||
 |[0995](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)| * Minimum Number of K Consecutive Bit Flips|51%|Hard||
 |[0994](https://leetcode.com/problems/rotting-oranges/)| * Rotting Oranges|52%|Medium||
-|[0993](https://leetcode.com/problems/cousins-in-binary-tree/)| * Cousins in Binary Tree|53%|Easy||
+|[0993](https://leetcode.com/problems/cousins-in-binary-tree/)| * Cousins in Binary Tree|54%|Easy||
 |[0992](https://leetcode.com/problems/subarrays-with-k-different-integers/)| * Subarrays with K Different Integers|53%|Hard||
 |[0991](https://leetcode.com/problems/broken-calculator/)| * Broken Calculator|54%|Medium||
 |[0990](https://leetcode.com/problems/satisfiability-of-equality-equations/)| * Satisfiability of Equality Equations|50%|Medium||
@@ -1742,7 +1742,7 @@
 |[0098](https://leetcode.com/problems/validate-binary-search-tree/)|[Validate Binary Search Tree](./Algorithms/0098.validate-binary-search-tree)|31%|Medium||
 |[0097](https://leetcode.com/problems/interleaving-string/)|[Interleaving String](./Algorithms/0097.interleaving-string)|36%|Medium||
 |[0096](https://leetcode.com/problems/unique-binary-search-trees/)| * Unique Binary Search Trees|58%|Medium||
-|[0095](https://leetcode.com/problems/unique-binary-search-trees-ii/)| * Unique Binary Search Trees II|50%|Medium||
+|[0095](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Unique Binary Search Trees II](./Algorithms/0095.unique-binary-search-trees-ii)|50%|Medium|[⭐](https://leetcode.com/list/yxanka6/)|
 |[0094](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Binary Tree Inorder Traversal](./Algorithms/0094.binary-tree-inorder-traversal)|71%|Easy||
 |[0093](https://leetcode.com/problems/restore-ip-addresses/)| * Restore IP Addresses|42%|Medium||
 |[0092](https://leetcode.com/problems/reverse-linked-list-ii/)|[Reverse Linked List II](./Algorithms/0092.reverse-linked-list-ii)|45%|Medium||

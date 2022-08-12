@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 306186,
-	"Updated": "2022-08-12T09:40:04.737308-04:00",
+	"Updated": "2022-08-12T10:25:05.532991-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 71,
 			"Total": 451
 		},
 		"Medium": {
-			"Solved": 85,
+			"Solved": 86,
 			"Total": 953
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 414
 		},
 		"Total": {
-			"Solved": 165,
+			"Solved": 166,
 			"Total": 1818
 		}
 	},
@@ -1072,9 +1072,9 @@
 			"TitleSlug": "unique-binary-search-trees-ii",
 			"PassRate": "50%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
-			"IsFavor": false,
+			"IsFavor": true,
 			"IsNew": false
 		},
 		{
@@ -10948,7 +10948,7 @@
 			"ID": 993,
 			"Title": "Cousins in Binary Tree",
 			"TitleSlug": "cousins-in-binary-tree",
-			"PassRate": "53%",
+			"PassRate": "54%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

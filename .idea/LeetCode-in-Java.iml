@@ -169,6 +169,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0724.find-pivot-index" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1480.running-sum-of-1d-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0098.validate-binary-search-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0095.unique-binary-search-trees-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0241.different-ways-to-add-parentheses" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
