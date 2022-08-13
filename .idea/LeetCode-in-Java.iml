@@ -172,6 +172,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0095.unique-binary-search-trees-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0241.different-ways-to-add-parentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0030.substring-with-concatenation-of-all-words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0142.linked-list-cycle-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0876.middle-of-the-linked-list" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />

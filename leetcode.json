@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 302400,
-	"Updated": "2022-08-13T09:13:15.242821-04:00",
+	"Updated": "2022-08-13T09:30:51.05464-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 72,
 			"Total": 451
 		},
 		"Medium": {
-			"Solved": 86,
+			"Solved": 87,
 			"Total": 953
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 414
 		},
 		"Total": {
-			"Solved": 168,
+			"Solved": 169,
 			"Total": 1818
 		}
 	},
@@ -1589,7 +1589,7 @@
 			"TitleSlug": "linked-list-cycle-ii",
 			"PassRate": "45%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -14325,7 +14325,7 @@
 			"ID": 1300,
 			"Title": "Sum of Mutated Array Closest to Target",
 			"TitleSlug": "sum-of-mutated-array-closest-to-target",
-			"PassRate": "42%",
+			"PassRate": "43%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
