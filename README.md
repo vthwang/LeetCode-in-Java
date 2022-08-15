@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-295,062-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-173-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-174-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 75 | 87 | 11 | 173 |
+| **Accepted** | 76 | 87 | 11 | 174 |
 | **Total** | 452 | 955 | 415 | 1822 |
-| **Coverage** | 16.59 % | 9.11 % | 2.65 % | 9.50 % |
+| **Coverage** | 16.81 % | 9.11 % | 2.65 % | 9.55 % |
 
 ## Solutions
 
@@ -1404,7 +1404,7 @@
 |[0560](https://leetcode.com/problems/subarray-sum-equals-k/)| * Subarray Sum Equals K|44%|Medium||
 |[0559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| * Maximum Depth of N-ary Tree|71%|Easy||
 |[0558](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)| * Logical OR of Two Binary Grids Represented as Quad-Trees|47%|Medium||
-|[0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| * Reverse Words in a String III|79%|Easy||
+|[0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Reverse Words in a String III](./Algorithms/0557.reverse-words-in-a-string-iii)|79%|Easy||
 |[0556](https://leetcode.com/problems/next-greater-element-iii/)| * Next Greater Element III|34%|Medium||
 |[0554](https://leetcode.com/problems/brick-wall/)| * Brick Wall|52%|Medium||
 |[0553](https://leetcode.com/problems/optimal-division/)| * Optimal Division|59%|Medium||
@@ -1651,7 +1651,7 @@
 |[0217](https://leetcode.com/problems/contains-duplicate/)|[Contains Duplicate](./Algorithms/0217.contains-duplicate)|61%|Easy||
 |[0216](https://leetcode.com/problems/combination-sum-iii/)| * Combination Sum III|66%|Medium||
 |[0215](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Kth Largest Element in an Array](./Algorithms/0215.kth-largest-element-in-an-array)|65%|Medium||
-|[0214](https://leetcode.com/problems/shortest-palindrome/)| * Shortest Palindrome|32%|Hard||
+|[0214](https://leetcode.com/problems/shortest-palindrome/)| * Shortest Palindrome|31%|Hard||
 |[0213](https://leetcode.com/problems/house-robber-ii/)| * House Robber II|40%|Medium||
 |[0212](https://leetcode.com/problems/word-search-ii/)| * Word Search II|37%|Hard||
 |[0211](https://leetcode.com/problems/design-add-and-search-words-data-structure/)| * Design Add and Search Words Data Structure|43%|Medium||

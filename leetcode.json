@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 295062,
-	"Updated": "2022-08-15T08:37:50.49396-04:00",
+	"Updated": "2022-08-15T08:59:02.271193-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 75,
+			"Solved": 76,
 			"Total": 452
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 415
 		},
 		"Total": {
-			"Solved": 173,
+			"Solved": 174,
 			"Total": 1822
 		}
 	},
@@ -2379,7 +2379,7 @@
 			"ID": 214,
 			"Title": "Shortest Palindrome",
 			"TitleSlug": "shortest-palindrome",
-			"PassRate": "32%",
+			"PassRate": "31%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -6154,7 +6154,7 @@
 			"TitleSlug": "reverse-words-in-a-string-iii",
 			"PassRate": "79%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
