@@ -175,6 +175,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0142.linked-list-cycle-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0876.middle-of-the-linked-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0126.word-ladder-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0013.roman-to-integer" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

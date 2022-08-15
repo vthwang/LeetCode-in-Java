@@ -28,9 +28,10 @@ Explanation: The endWord "cog" is not in wordList, therefore there is no valid t
 
 ## Solutions
 1. [DFS & BFS](./WordLadderIi.java)
-    - Runtime: faster than 100%.
-- Memory usage: less than 20.58%.
-Note: Can't pass the the testcases
+   - Runtime: faster than 100%.
+   - Memory usage: less than 20.58%.
+
+Note: Can't pass the testcases
 ```
 "aaaaa"
 "uuuuu"
