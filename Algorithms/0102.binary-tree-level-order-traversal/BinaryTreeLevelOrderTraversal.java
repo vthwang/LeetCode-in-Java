@@ -18,6 +18,7 @@ import java.util.List;
  */
 class BinaryTreeLevelOrderTraversal {
     List<List<Integer>> ans = new ArrayList<>();
+
     private void levelOrder(TreeNode root, int level) {
         if (root == null) return;
         if (ans.size() <= level) ans.add(new ArrayList<>());
