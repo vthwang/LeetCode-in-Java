@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 295062,
-	"Updated": "2022-08-15T08:00:00.053269-04:00",
+	"Updated": "2022-08-15T08:28:44.281208-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 73,
+			"Solved": 74,
 			"Total": 452
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 415
 		},
 		"Total": {
-			"Solved": 171,
+			"Solved": 172,
 			"Total": 1822
 		}
 	},
@@ -6506,7 +6506,7 @@
 			"TitleSlug": "n-ary-tree-preorder-traversal",
 			"PassRate": "76%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
