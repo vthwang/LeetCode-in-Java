@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-295,062-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-170-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-171-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 72 | 87 | 11 | 170 |
+| **Accepted** | 73 | 87 | 11 | 171 |
 | **Total** | 452 | 955 | 415 | 1822 |
-| **Coverage** | 15.93 % | 9.11 % | 2.65 % | 9.33 % |
+| **Coverage** | 16.15 % | 9.11 % | 2.65 % | 9.39 % |
 
 ## Solutions
 
@@ -161,7 +161,7 @@
 |[2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/)| * Create Binary Tree From Descriptions|71%|Medium||
 |[2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| * Append K Integers With Minimal Sum|24%|Medium||
 |[2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)| * Cells in a Range on an Excel Sheet|85%|Easy||
-|[2193](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)| * Minimum Number of Moves to Make Palindrome|46%|Hard||
+|[2193](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)| * Minimum Number of Moves to Make Palindrome|47%|Hard||
 |[2192](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)| * All Ancestors of a Node in a Directed Acyclic Graph|49%|Medium||
 |[2191](https://leetcode.com/problems/sort-the-jumbled-numbers/)| * Sort the Jumbled Numbers|44%|Medium||
 |[2190](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)| * Most Frequent Number Following Key In an Array|60%|Easy||
@@ -289,7 +289,7 @@
 |[2034](https://leetcode.com/problems/stock-price-fluctuation/)| * Stock Price Fluctuation |49%|Medium||
 |[2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)| * Minimum Operations to Make a Uni-Value Grid|51%|Medium||
 |[2032](https://leetcode.com/problems/two-out-of-three/)| * Two Out of Three|72%|Easy||
-|[2030](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)| * Smallest K-Length Subsequence With Occurrences of a Letter|39%|Hard||
+|[2030](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)| * Smallest K-Length Subsequence With Occurrences of a Letter|38%|Hard||
 |[2029](https://leetcode.com/problems/stone-game-ix/)| * Stone Game IX|25%|Medium||
 |[2028](https://leetcode.com/problems/find-missing-observations/)| * Find Missing Observations|42%|Medium||
 |[2027](https://leetcode.com/problems/minimum-moves-to-convert-string/)| * Minimum Moves to Convert String|53%|Easy||
@@ -1828,7 +1828,7 @@
 |[0016](https://leetcode.com/problems/3sum-closest/)| * 3Sum Closest|46%|Medium||
 |[0015](https://leetcode.com/problems/3sum/)|[3Sum](./Algorithms/0015.3sum)|31%|Medium||
 |[0014](https://leetcode.com/problems/longest-common-prefix/)| * Longest Common Prefix|40%|Easy||
-|[0013](https://leetcode.com/problems/roman-to-integer/)| * Roman to Integer|58%|Easy||
+|[0013](https://leetcode.com/problems/roman-to-integer/)|[Roman to Integer](./Algorithms/0013.roman-to-integer)|58%|Easy||
 |[0012](https://leetcode.com/problems/integer-to-roman/)| * Integer to Roman|60%|Medium||
 |[0011](https://leetcode.com/problems/container-with-most-water/)| * Container With Most Water|54%|Medium||
 |[0010](https://leetcode.com/problems/regular-expression-matching/)| * Regular Expression Matching|28%|Hard||

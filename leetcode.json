@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 295062,
-	"Updated": "2022-08-15T06:58:59.380912-04:00",
+	"Updated": "2022-08-15T08:00:00.053269-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 72,
+			"Solved": 73,
 			"Total": 452
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 415
 		},
 		"Total": {
-			"Solved": 170,
+			"Solved": 171,
 			"Total": 1822
 		}
 	},
@@ -170,7 +170,7 @@
 			"TitleSlug": "roman-to-integer",
 			"PassRate": "58%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22355,7 +22355,7 @@
 			"ID": 2030,
 			"Title": "Smallest K-Length Subsequence With Occurrences of a Letter",
 			"TitleSlug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
-			"PassRate": "39%",
+			"PassRate": "38%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24148,7 +24148,7 @@
 			"ID": 2193,
 			"Title": "Minimum Number of Moves to Make Palindrome",
 			"TitleSlug": "minimum-number-of-moves-to-make-palindrome",
-			"PassRate": "46%",
+			"PassRate": "47%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
