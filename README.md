@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-295,062-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-172-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-173-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 74 | 87 | 11 | 172 |
+| **Accepted** | 75 | 87 | 11 | 173 |
 | **Total** | 452 | 955 | 415 | 1822 |
-| **Coverage** | 16.37 % | 9.11 % | 2.65 % | 9.44 % |
+| **Coverage** | 16.59 % | 9.11 % | 2.65 % | 9.50 % |
 
 ## Solutions
 
@@ -1569,7 +1569,7 @@
 |[0349](https://leetcode.com/problems/intersection-of-two-arrays/)| * Intersection of Two Arrays|69%|Easy||
 |[0347](https://leetcode.com/problems/top-k-frequent-elements/)|[Top K Frequent Elements](./Algorithms/0347.top-k-frequent-elements)|64%|Medium||
 |[0345](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Reverse Vowels of a String](./Algorithms/0345.reverse-vowels-of-a-string)|47%|Easy||
-|[0344](https://leetcode.com/problems/reverse-string/)| * Reverse String|75%|Easy||
+|[0344](https://leetcode.com/problems/reverse-string/)|[Reverse String](./Algorithms/0344.reverse-string)|75%|Easy||
 |[0343](https://leetcode.com/problems/integer-break/)| * Integer Break|54%|Medium||
 |[0342](https://leetcode.com/problems/power-of-four/)|[Power of Four](./Algorithms/0342.power-of-four)|44%|Easy||
 |[0341](https://leetcode.com/problems/flatten-nested-list-iterator/)| * Flatten Nested List Iterator|61%|Medium||

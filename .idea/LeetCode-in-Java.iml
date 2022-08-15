@@ -176,6 +176,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0876.middle-of-the-linked-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0126.word-ladder-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0013.roman-to-integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0344.reverse-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0589.n-ary-tree-preorder-traversal" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
