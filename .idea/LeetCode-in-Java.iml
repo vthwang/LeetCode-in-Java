@@ -182,6 +182,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0003.longest-substring-without-repeating-characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0567.permutation-in-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0387.first-unique-character-in-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0733.flood-fill" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

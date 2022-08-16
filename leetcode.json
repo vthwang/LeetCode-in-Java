@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 284055,
-	"Updated": "2022-08-16T07:05:43.708097-04:00",
+	"Updated": "2022-08-16T09:50:51.913318-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 77,
+			"Solved": 78,
 			"Total": 452
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 415
 		},
 		"Total": {
-			"Solved": 177,
+			"Solved": 178,
 			"Total": 1822
 		}
 	},
@@ -5162,7 +5162,7 @@
 			"ID": 467,
 			"Title": "Unique Substrings in Wraparound String",
 			"TitleSlug": "unique-substrings-in-wraparound-string",
-			"PassRate": "37%",
+			"PassRate": "38%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -6966,7 +6966,7 @@
 			"ID": 631,
 			"Title": "Design Excel Sum Formula",
 			"TitleSlug": "design-excel-sum-formula",
-			"PassRate": "42%",
+			"PassRate": "43%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -8090,7 +8090,7 @@
 			"TitleSlug": "flood-fill",
 			"PassRate": "59%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -10585,7 +10585,7 @@
 			"ID": 960,
 			"Title": "Delete Columns to Make Sorted III",
 			"TitleSlug": "delete-columns-to-make-sorted-iii",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -13819,7 +13819,7 @@
 			"ID": 1254,
 			"Title": "Number of Closed Islands",
 			"TitleSlug": "number-of-closed-islands",
-			"PassRate": "63%",
+			"PassRate": "64%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23620,7 +23620,7 @@
 			"ID": 2145,
 			"Title": "Count the Hidden Sequences",
 			"TitleSlug": "count-the-hidden-sequences",
-			"PassRate": "36%",
+			"PassRate": "35%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23752,7 +23752,7 @@
 			"ID": 2157,
 			"Title": "Groups of Strings",
 			"TitleSlug": "groups-of-strings",
-			"PassRate": "25%",
+			"PassRate": "24%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24973,7 +24973,7 @@
 			"ID": 2268,
 			"Title": "Minimum Number of Keypresses",
 			"TitleSlug": "minimum-number-of-keypresses",
-			"PassRate": "77%",
+			"PassRate": "76%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26150,7 +26150,7 @@
 			"ID": 2375,
 			"Title": "Construct Smallest Number From DI String",
 			"TitleSlug": "construct-smallest-number-from-di-string",
-			"PassRate": "71%",
+			"PassRate": "72%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
