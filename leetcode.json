@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 295062,
-	"Updated": "2022-08-15T17:38:08.38249-04:00",
+	"Updated": "2022-08-15T20:02:11.713662-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 76,
 			"Total": 452
 		},
 		"Medium": {
-			"Solved": 88,
+			"Solved": 89,
 			"Total": 955
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 415
 		},
 		"Total": {
-			"Solved": 175,
+			"Solved": 176,
 			"Total": 1822
 		}
 	},
@@ -6264,7 +6264,7 @@
 			"TitleSlug": "permutation-in-string",
 			"PassRate": "44%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -19055,7 +19055,7 @@
 			"ID": 1730,
 			"Title": "Shortest Path to Get Food",
 			"TitleSlug": "shortest-path-to-get-food",
-			"PassRate": "53%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -22278,7 +22278,7 @@
 			"ID": 2023,
 			"Title": "Number of Pairs of Strings With Concatenation Equal to Target",
 			"TitleSlug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
-			"PassRate": "72%",
+			"PassRate": "73%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23521,7 +23521,7 @@
 			"ID": 2136,
 			"Title": "Earliest Possible Day of Full Bloom",
 			"TitleSlug": "earliest-possible-day-of-full-bloom",
-			"PassRate": "67%",
+			"PassRate": "68%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24720,7 +24720,7 @@
 			"ID": 2245,
 			"Title": "Maximum Trailing Zeros in a Cornered Path",
 			"TitleSlug": "maximum-trailing-zeros-in-a-cornered-path",
-			"PassRate": "34%",
+			"PassRate": "35%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25930,7 +25930,7 @@
 			"ID": 2355,
 			"Title": "Maximum Number of Books You Can Take",
 			"TitleSlug": "maximum-number-of-books-you-can-take",
-			"PassRate": "53%",
+			"PassRate": "52%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,

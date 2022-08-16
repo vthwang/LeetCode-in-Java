@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-295,062-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-175-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-176-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 76 | 88 | 11 | 175 |
+| **Accepted** | 76 | 89 | 11 | 176 |
 | **Total** | 452 | 955 | 415 | 1822 |
-| **Coverage** | 16.81 % | 9.21 % | 2.65 % | 9.60 % |
+| **Coverage** | 16.81 % | 9.32 % | 2.65 % | 9.66 % |
 
 ## Solutions
 
@@ -120,7 +120,7 @@
 |[2249](https://leetcode.com/problems/count-lattice-points-inside-a-circle/)| * Count Lattice Points Inside a Circle|50%|Medium||
 |[2248](https://leetcode.com/problems/intersection-of-multiple-arrays/)| * Intersection of Multiple Arrays|69%|Easy||
 |[2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)| * Longest Path With Different Adjacent Characters|44%|Hard||
-|[2245](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)| * Maximum Trailing Zeros in a Cornered Path|34%|Medium||
+|[2245](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)| * Maximum Trailing Zeros in a Cornered Path|35%|Medium||
 |[2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)| * Minimum Rounds to Complete All Tasks|56%|Medium||
 |[2243](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)| * Calculate Digit Sum of a String|66%|Easy||
 |[2242](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)| * Maximum Score of a Node Sequence|36%|Hard||
@@ -205,7 +205,7 @@
 |[2140](https://leetcode.com/problems/solving-questions-with-brainpower/)| * Solving Questions With Brainpower|45%|Medium||
 |[2139](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)| * Minimum Moves to Reach Target Score|48%|Medium||
 |[2138](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)| * Divide a String Into Groups of Size k|65%|Easy||
-|[2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| * Earliest Possible Day of Full Bloom|67%|Hard||
+|[2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| * Earliest Possible Day of Full Bloom|68%|Hard||
 |[2135](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)| * Count Words Obtained After Adding a Letter|42%|Medium||
 |[2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)| * Minimum Swaps to Group All 1&#39;s Together II|49%|Medium||
 |[2133](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)| * Check if Every Row and Column Contains All Numbers|52%|Easy||
@@ -295,7 +295,7 @@
 |[2027](https://leetcode.com/problems/minimum-moves-to-convert-string/)| * Minimum Moves to Convert String|53%|Easy||
 |[2025](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/)| * Maximum Number of Ways to Partition an Array|31%|Hard||
 |[2024](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)| * Maximize the Confusion of an Exam|58%|Medium||
-|[2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)| * Number of Pairs of Strings With Concatenation Equal to Target|72%|Medium||
+|[2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)| * Number of Pairs of Strings With Concatenation Equal to Target|73%|Medium||
 |[2022](https://leetcode.com/problems/convert-1d-array-into-2d-array/)| * Convert 1D Array Into 2D Array|58%|Easy||
 |[2019](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)| * The Score of Students Solving Math Expression|33%|Hard||
 |[2018](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/)| * Check if Word Can Be Placed In Crossword|49%|Medium||
@@ -1395,7 +1395,7 @@
 |[0576](https://leetcode.com/problems/out-of-boundary-paths/)|[Out of Boundary Paths](./Algorithms/0576.out-of-boundary-paths)|44%|Medium||
 |[0575](https://leetcode.com/problems/distribute-candies/)| * Distribute Candies|65%|Easy||
 |[0572](https://leetcode.com/problems/subtree-of-another-tree/)|[Subtree of Another Tree](./Algorithms/0572.subtree-of-another-tree)|45%|Easy||
-|[0567](https://leetcode.com/problems/permutation-in-string/)| * Permutation in String|44%|Medium||
+|[0567](https://leetcode.com/problems/permutation-in-string/)|[Permutation in String](./Algorithms/0567.permutation-in-string)|44%|Medium||
 |[0566](https://leetcode.com/problems/reshape-the-matrix/)|[Reshape the Matrix](./Algorithms/0566.reshape-the-matrix)|62%|Easy||
 |[0565](https://leetcode.com/problems/array-nesting/)|[Array Nesting](./Algorithms/0565.array-nesting)|56%|Medium||
 |[0564](https://leetcode.com/problems/find-the-closest-palindrome/)| * Find the Closest Palindrome|21%|Hard||

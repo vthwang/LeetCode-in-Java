@@ -180,6 +180,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0557.reverse-words-in-a-string-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0589.n-ary-tree-preorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0003.longest-substring-without-repeating-characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0567.permutation-in-string" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
