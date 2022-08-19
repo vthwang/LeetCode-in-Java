@@ -185,6 +185,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0733.flood-fill" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0804.unique-morse-code-words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1338.reduce-array-size-to-the-half" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0659.split-array-into-consecutive-subsequences" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
