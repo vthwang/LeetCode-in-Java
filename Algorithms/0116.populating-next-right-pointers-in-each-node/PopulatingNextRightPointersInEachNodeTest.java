@@ -14,20 +14,20 @@ public class PopulatingNextRightPointersInEachNodeTest {
         root.right.left = new NextNode(6);
         root.right.right = new NextNode(7);
 
-        NextNode expectedResults = PopulatingNextRightPointersInEachNode.connect(root);
+        NextNode results = PopulatingNextRightPointersInEachNode.connect(root);
 
-        Assertions.assertNull(expectedResults.next);
-        Assertions.assertEquals(3, expectedResults.left.next.val);
-        Assertions.assertNull(expectedResults.right.next);
-        Assertions.assertEquals(5, expectedResults.left.left.next.val);
-        Assertions.assertEquals(6, expectedResults.left.right.next.val);
-        Assertions.assertEquals(7, expectedResults.right.left.next.val);
-        Assertions.assertNull(expectedResults.right.right.next);
+        Assertions.assertNull(results.next);
+        Assertions.assertEquals(3, results.left.next.val);
+        Assertions.assertNull(results.right.next);
+        Assertions.assertEquals(5, results.left.left.next.val);
+        Assertions.assertEquals(6, results.left.right.next.val);
+        Assertions.assertEquals(7, results.right.left.next.val);
+        Assertions.assertNull(results.right.right.next);
     }
 
     @Test
     void Example2() {
-        NextNode expectedResults = PopulatingNextRightPointersInEachNode.connect(null);
-        Assertions.assertNull(expectedResults);
+        NextNode results = PopulatingNextRightPointersInEachNode.connect(null);
+        Assertions.assertNull(results);
     }
 }
