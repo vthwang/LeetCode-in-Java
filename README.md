@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-276,144-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-183-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-184-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 79 | 92 | 12 | 183 |
+| **Accepted** | 80 | 92 | 12 | 184 |
 | **Total** | 452 | 958 | 416 | 1826 |
-| **Coverage** | 17.48 % | 9.60 % | 2.88 % | 10.02 % |
+| **Coverage** | 17.70 % | 9.60 % | 2.88 % | 10.08 % |
 
 ## Solutions
 
@@ -1775,7 +1775,7 @@
 |[0073](https://leetcode.com/problems/set-matrix-zeroes/)| * Set Matrix Zeroes|49%|Medium||
 |[0072](https://leetcode.com/problems/edit-distance/)| * Edit Distance|52%|Hard||
 |[0071](https://leetcode.com/problems/simplify-path/)| * Simplify Path|39%|Medium||
-|[0070](https://leetcode.com/problems/climbing-stairs/)| * Climbing Stairs|51%|Easy||
+|[0070](https://leetcode.com/problems/climbing-stairs/)|[Climbing Stairs](./Algorithms/0070.climbing-stairs)|51%|Easy||
 |[0069](https://leetcode.com/problems/sqrtx/)|[Sqrt(x)](./Algorithms/0069.sqrtx)|36%|Easy||
 |[0068](https://leetcode.com/problems/text-justification/)| * Text Justification|36%|Hard||
 |[0067](https://leetcode.com/problems/add-binary/)| * Add Binary|51%|Easy||

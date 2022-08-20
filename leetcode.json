@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 276144,
-	"Updated": "2022-08-20T14:00:59.050548-04:00",
+	"Updated": "2022-08-20T14:11:30.934477-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 79,
+			"Solved": 80,
 			"Total": 452
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 416
 		},
 		"Total": {
-			"Solved": 183,
+			"Solved": 184,
 			"Total": 1826
 		}
 	},
@@ -797,7 +797,7 @@
 			"TitleSlug": "climbing-stairs",
 			"PassRate": "51%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

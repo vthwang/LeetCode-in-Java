@@ -186,6 +186,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0804.unique-morse-code-words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1338.reduce-array-size-to-the-half" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0659.split-array-into-consecutive-subsequences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0070.climbing-stairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0200.number-of-islands" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0871.minimum-number-of-refueling-stops" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
