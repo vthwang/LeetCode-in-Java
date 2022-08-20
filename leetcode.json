@@ -1,23 +1,23 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 276144,
-	"Updated": "2022-08-20T09:59:32.935351-04:00",
+	"Updated": "2022-08-20T14:00:59.050548-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 79,
-			"Total": 451
+			"Total": 452
 		},
 		"Medium": {
-			"Solved": 91,
-			"Total": 956
+			"Solved": 92,
+			"Total": 958
 		},
 		"Hard": {
 			"Solved": 12,
-			"Total": 415
+			"Total": 416
 		},
 		"Total": {
-			"Solved": 182,
-			"Total": 1822
+			"Solved": 183,
+			"Total": 1826
 		}
 	},
 	"Problems": [
@@ -2227,7 +2227,7 @@
 			"TitleSlug": "number-of-islands",
 			"PassRate": "55%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -9606,7 +9606,7 @@
 			"ID": 871,
 			"Title": "Minimum Number of Refueling Stops",
 			"TitleSlug": "minimum-number-of-refueling-stops",
-			"PassRate": "38%",
+			"PassRate": "39%",
 			"Difficulty": "Hard",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -12510,7 +12510,7 @@
 			"ID": 1135,
 			"Title": "Connecting Cities With Minimum Cost",
 			"TitleSlug": "connecting-cities-with-minimum-cost",
-			"PassRate": "61%",
+			"PassRate": "60%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -17350,7 +17350,7 @@
 			"ID": 1575,
 			"Title": "Count All Possible Routes",
 			"TitleSlug": "count-all-possible-routes",
-			"PassRate": "57%",
+			"PassRate": "56%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18483,7 +18483,7 @@
 			"ID": 1678,
 			"Title": "Goal Parser Interpretation",
 			"TitleSlug": "goal-parser-interpretation",
-			"PassRate": "85%",
+			"PassRate": "86%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20540,7 +20540,7 @@
 			"ID": 1865,
 			"Title": "Finding Pairs With a Certain Sum",
 			"TitleSlug": "finding-pairs-with-a-certain-sum",
-			"PassRate": "49%",
+			"PassRate": "50%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26189,6 +26189,50 @@
 			"IsPaid": true,
 			"IsFavor": false,
 			"IsNew": true
+		},
+		{
+			"ID": 2379,
+			"Title": "Minimum Recolors to Get K Consecutive Black Blocks",
+			"TitleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+			"PassRate": "50%",
+			"Difficulty": "Easy",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2380,
+			"Title": "Time Needed to Rearrange a Binary String",
+			"TitleSlug": "time-needed-to-rearrange-a-binary-string",
+			"PassRate": "42%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2381,
+			"Title": "Shifting Letters II",
+			"TitleSlug": "shifting-letters-ii",
+			"PassRate": "23%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2382,
+			"Title": "Maximum Segment Sum After Removals",
+			"TitleSlug": "maximum-segment-sum-after-removals",
+			"PassRate": "32%",
+			"Difficulty": "Hard",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
 		}
 	]
 }
