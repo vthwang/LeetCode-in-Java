@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 276144,
-	"Updated": "2022-08-20T14:28:49.957603-04:00",
+	"Updated": "2022-08-20T15:58:01.95348-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 80,
 			"Total": 452
 		},
 		"Medium": {
-			"Solved": 93,
+			"Solved": 94,
 			"Total": 958
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 416
 		},
 		"Total": {
-			"Solved": 185,
+			"Solved": 186,
 			"Total": 1826
 		}
 	},
@@ -4381,7 +4381,7 @@
 			"ID": 396,
 			"Title": "Rotate Function",
 			"TitleSlug": "rotate-function",
-			"PassRate": "39%",
+			"PassRate": "40%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -5989,7 +5989,7 @@
 			"TitleSlug": "01-matrix",
 			"PassRate": "43%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -6097,7 +6097,7 @@
 			"ID": 552,
 			"Title": "Student Attendance Record II",
 			"TitleSlug": "student-attendance-record-ii",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -13621,7 +13621,7 @@
 			"ID": 1236,
 			"Title": "Web Crawler",
 			"TitleSlug": "web-crawler",
-			"PassRate": "66%",
+			"PassRate": "65%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -16272,7 +16272,7 @@
 			"ID": 1477,
 			"Title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
 			"TitleSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
-			"PassRate": "37%",
+			"PassRate": "36%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26194,7 +26194,7 @@
 			"ID": 2379,
 			"Title": "Minimum Recolors to Get K Consecutive Black Blocks",
 			"TitleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
-			"PassRate": "50%",
+			"PassRate": "51%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26205,7 +26205,7 @@
 			"ID": 2380,
 			"Title": "Time Needed to Rearrange a Binary String",
 			"TitleSlug": "time-needed-to-rearrange-a-binary-string",
-			"PassRate": "42%",
+			"PassRate": "43%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26216,7 +26216,7 @@
 			"ID": 2381,
 			"Title": "Shifting Letters II",
 			"TitleSlug": "shifting-letters-ii",
-			"PassRate": "23%",
+			"PassRate": "24%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26227,7 +26227,7 @@
 			"ID": 2382,
 			"Title": "Maximum Segment Sum After Removals",
 			"TitleSlug": "maximum-segment-sum-after-removals",
-			"PassRate": "33%",
+			"PassRate": "34%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
