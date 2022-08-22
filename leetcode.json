@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 266244,
-	"Updated": "2022-08-22T16:19:56.431135-04:00",
+	"Updated": "2022-08-22T16:39:04.183134-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 80,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 95,
+			"Solved": 96,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 188,
+			"Solved": 189,
 			"Total": 1830
 		}
 	},
@@ -4691,7 +4691,7 @@
 			"TitleSlug": "longest-repeating-character-replacement",
 			"PassRate": "51%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -19781,7 +19781,7 @@
 			"ID": 1796,
 			"Title": "Second Largest Digit in a String",
 			"TitleSlug": "second-largest-digit-in-a-string",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20353,7 +20353,7 @@
 			"ID": 1848,
 			"Title": "Minimum Distance to the Target Element",
 			"TitleSlug": "minimum-distance-to-the-target-element",
-			"PassRate": "59%",
+			"PassRate": "58%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

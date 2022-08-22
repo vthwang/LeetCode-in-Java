@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-266,244-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-188-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-189-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 80 | 95 | 13 | 188 |
+| **Accepted** | 80 | 96 | 13 | 189 |
 | **Total** | 453 | 960 | 417 | 1830 |
-| **Coverage** | 17.66 % | 9.90 % | 3.12 % | 10.27 % |
+| **Coverage** | 17.66 % | 10.00 % | 3.12 % | 10.33 % |
 
 ## Solutions
 
@@ -435,7 +435,7 @@
 |[1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/)| * Minimum Interval to Include Each Query|46%|Hard||
 |[1850](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/)| * Minimum Adjacent Swaps to Reach the Kth Smallest Number|71%|Medium||
 |[1849](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)| * Splitting a String Into Descending Consecutive Values|31%|Medium||
-|[1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/)| * Minimum Distance to the Target Element|59%|Easy||
+|[1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/)| * Minimum Distance to the Target Element|58%|Easy||
 |[1847](https://leetcode.com/problems/closest-room/)| * Closest Room|34%|Hard||
 |[1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)| * Maximum Element After Decreasing and Rearranging|58%|Medium||
 |[1845](https://leetcode.com/problems/seat-reservation-manager/)| * Seat Reservation Manager|63%|Medium||
@@ -475,7 +475,7 @@
 |[1799](https://leetcode.com/problems/maximize-score-after-n-operations/)| * Maximize Score After N Operations|45%|Hard||
 |[1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)| * Maximum Number of Consecutive Values You Can Make|53%|Medium||
 |[1797](https://leetcode.com/problems/design-authentication-manager/)| * Design Authentication Manager|55%|Medium||
-|[1796](https://leetcode.com/problems/second-largest-digit-in-a-string/)| * Second Largest Digit in a String|49%|Easy||
+|[1796](https://leetcode.com/problems/second-largest-digit-in-a-string/)| * Second Largest Digit in a String|48%|Easy||
 |[1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)| * Maximum Score of a Good Subarray|52%|Hard||
 |[1792](https://leetcode.com/problems/maximum-average-pass-ratio/)| * Maximum Average Pass Ratio|51%|Medium||
 |[1791](https://leetcode.com/problems/find-center-of-star-graph/)| * Find Center of Star Graph|83%|Easy||
@@ -1516,7 +1516,7 @@
 |[0430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| * Flatten a Multilevel Doubly Linked List|59%|Medium||
 |[0429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| * N-ary Tree Level Order Traversal|69%|Medium||
 |[0427](https://leetcode.com/problems/construct-quad-tree/)| * Construct Quad Tree|66%|Medium||
-|[0424](https://leetcode.com/problems/longest-repeating-character-replacement/)| * Longest Repeating Character Replacement|51%|Medium||
+|[0424](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Longest Repeating Character Replacement](./Algorithms/0424.longest-repeating-character-replacement)|51%|Medium||
 |[0423](https://leetcode.com/problems/reconstruct-original-digits-from-english/)| * Reconstruct Original Digits from English|51%|Medium||
 |[0421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| * Maximum XOR of Two Numbers in an Array|54%|Medium||
 |[0420](https://leetcode.com/problems/strong-password-checker/)| * Strong Password Checker|14%|Hard||
