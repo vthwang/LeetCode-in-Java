@@ -192,6 +192,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0542.01-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0871.minimum-number-of-refueling-stops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0936.stamping-the-sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0438.find-all-anagrams-in-a-string" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
