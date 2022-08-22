@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 266244,
-	"Updated": "2022-08-22T16:39:04.183134-04:00",
+	"Updated": "2022-08-22T17:05:17.669649-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 80,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 96,
+			"Solved": 97,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 189,
+			"Solved": 190,
 			"Total": 1830
 		}
 	},
@@ -3316,7 +3316,7 @@
 			"TitleSlug": "bulls-and-cows",
 			"PassRate": "48%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
