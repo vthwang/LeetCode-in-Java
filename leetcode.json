@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 261484,
-	"Updated": "2022-08-23T16:37:42.76228-04:00",
+	"Updated": "2022-08-23T17:04:26.41218-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 81,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 97,
+			"Solved": 98,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 191,
+			"Solved": 192,
 			"Total": 1830
 		}
 	},
@@ -4361,7 +4361,7 @@
 			"TitleSlug": "decode-string",
 			"PassRate": "57%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24852,7 +24852,7 @@
 			"ID": 2257,
 			"Title": "Count Unguarded Cells in the Grid",
 			"TitleSlug": "count-unguarded-cells-in-the-grid",
-			"PassRate": "51%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25765,7 +25765,7 @@
 			"ID": 2340,
 			"Title": "Minimum Adjacent Swaps to Make a Valid Array",
 			"TitleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
-			"PassRate": "76%",
+			"PassRate": "75%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26183,7 +26183,7 @@
 			"ID": 2378,
 			"Title": "Choose Edges to Maximize Score in a Tree",
 			"TitleSlug": "choose-edges-to-maximize-score-in-a-tree",
-			"PassRate": "67%",
+			"PassRate": "66%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
