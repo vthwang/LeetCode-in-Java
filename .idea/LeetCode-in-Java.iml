@@ -195,6 +195,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0299.bulls-and-cows" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0424.longest-repeating-character-replacement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0438.find-all-anagrams-in-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0844.backspace-string-compare" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
