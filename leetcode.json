@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 261484,
-	"Updated": "2022-08-23T17:28:58.044066-04:00",
+	"Updated": "2022-08-23T18:04:42.236281-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 81,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 99,
+			"Solved": 100,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 193,
+			"Solved": 194,
 			"Total": 1830
 		}
 	},
@@ -2205,7 +2205,7 @@
 			"TitleSlug": "house-robber",
 			"PassRate": "48%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -18637,7 +18637,7 @@
 			"ID": 1692,
 			"Title": "Count Ways to Distribute Candies",
 			"TitleSlug": "count-ways-to-distribute-candies",
-			"PassRate": "62%",
+			"PassRate": "61%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
