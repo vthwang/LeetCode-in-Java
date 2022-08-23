@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 261484,
-	"Updated": "2022-08-23T17:04:26.41218-04:00",
+	"Updated": "2022-08-23T17:28:58.044066-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 81,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 98,
+			"Solved": 99,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 192,
+			"Solved": 193,
 			"Total": 1830
 		}
 	},
@@ -10961,7 +10961,7 @@
 			"TitleSlug": "rotting-oranges",
 			"PassRate": "52%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

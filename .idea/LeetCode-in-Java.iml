@@ -197,6 +197,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0438.find-all-anagrams-in-a-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0394.decode-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0844.backspace-string-compare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0994.rotting-oranges" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
