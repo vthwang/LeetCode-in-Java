@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-261,484-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-194-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-195-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 81 | 100 | 13 | 194 |
+| **Accepted** | 81 | 101 | 13 | 195 |
 | **Total** | 453 | 960 | 417 | 1830 |
-| **Coverage** | 17.88 % | 10.42 % | 3.12 % | 10.60 % |
+| **Coverage** | 17.88 % | 10.52 % | 3.12 % | 10.66 % |
 
 ## Solutions
 
@@ -22,8 +22,8 @@
 |[2386](https://leetcode.com/problems/find-the-k-sum-of-an-array/)| * Find the K-Sum of an Array|29%|Hard||
 |[2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)| * Amount of Time for Binary Tree to Be Infected|55%|Medium||
 |[2384](https://leetcode.com/problems/largest-palindromic-number/)| * Largest Palindromic Number|28%|Medium||
-|[2383](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)| * Minimum Hours of Training to Win a Competition|38%|Easy||
-|[2382](https://leetcode.com/problems/maximum-segment-sum-after-removals/)| * Maximum Segment Sum After Removals|43%|Hard||
+|[2383](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)| * Minimum Hours of Training to Win a Competition|40%|Easy||
+|[2382](https://leetcode.com/problems/maximum-segment-sum-after-removals/)| * Maximum Segment Sum After Removals|44%|Hard||
 |[2381](https://leetcode.com/problems/shifting-letters-ii/)| * Shifting Letters II|30%|Medium||
 |[2380](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/)| * Time Needed to Rearrange a Binary String|46%|Medium||
 |[2379](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)| * Minimum Recolors to Get K Consecutive Black Blocks|54%|Easy||
@@ -475,7 +475,7 @@
 |[1799](https://leetcode.com/problems/maximize-score-after-n-operations/)| * Maximize Score After N Operations|45%|Hard||
 |[1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)| * Maximum Number of Consecutive Values You Can Make|53%|Medium||
 |[1797](https://leetcode.com/problems/design-authentication-manager/)| * Design Authentication Manager|55%|Medium||
-|[1796](https://leetcode.com/problems/second-largest-digit-in-a-string/)| * Second Largest Digit in a String|48%|Easy||
+|[1796](https://leetcode.com/problems/second-largest-digit-in-a-string/)| * Second Largest Digit in a String|49%|Easy||
 |[1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)| * Maximum Score of a Good Subarray|52%|Hard||
 |[1792](https://leetcode.com/problems/maximum-average-pass-ratio/)| * Maximum Average Pass Ratio|51%|Medium||
 |[1791](https://leetcode.com/problems/find-center-of-star-graph/)| * Find Center of Star Graph|83%|Easy||
@@ -1592,7 +1592,7 @@
 |[0329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| * Longest Increasing Path in a Matrix|51%|Hard||
 |[0328](https://leetcode.com/problems/odd-even-linked-list/)|[Odd Even Linked List](./Algorithms/0328.odd-even-linked-list)|59%|Medium||
 |[0327](https://leetcode.com/problems/count-of-range-sum/)| * Count of Range Sum|36%|Hard||
-|[0326](https://leetcode.com/problems/power-of-three/)| * Power of Three|43%|Easy||
+|[0326](https://leetcode.com/problems/power-of-three/)| * Power of Three|44%|Easy||
 |[0324](https://leetcode.com/problems/wiggle-sort-ii/)| * Wiggle Sort II|32%|Medium||
 |[0322](https://leetcode.com/problems/coin-change/)| * Coin Change|41%|Medium||
 |[0321](https://leetcode.com/problems/create-maximum-number/)| * Create Maximum Number|28%|Hard||
@@ -1729,7 +1729,7 @@
 |[0123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| * Best Time to Buy and Sell Stock III|44%|Hard||
 |[0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Best Time to Buy and Sell Stock II](./Algorithms/0122.best-time-to-buy-and-sell-stock-ii)|62%|Medium||
 |[0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](./Algorithms/0121.best-time-to-buy-and-sell-stock)|54%|Easy||
-|[0120](https://leetcode.com/problems/triangle/)| * Triangle|53%|Medium||
+|[0120](https://leetcode.com/problems/triangle/)|[Triangle](./Algorithms/0120.triangle)|53%|Medium||
 |[0119](https://leetcode.com/problems/pascals-triangle-ii/)| * Pascal&#39;s Triangle II|58%|Easy||
 |[0118](https://leetcode.com/problems/pascals-triangle/)|[Pascal&#39;s Triangle](./Algorithms/0118.pascals-triangle)|68%|Easy||
 |[0117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| * Populating Next Right Pointers in Each Node II|49%|Medium||

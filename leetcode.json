@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 261484,
-	"Updated": "2022-08-23T18:04:42.236281-04:00",
+	"Updated": "2022-08-23T20:51:43.381317-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 81,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 100,
+			"Solved": 101,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 194,
+			"Solved": 195,
 			"Total": 1830
 		}
 	},
@@ -1347,7 +1347,7 @@
 			"TitleSlug": "triangle",
 			"PassRate": "53%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -3611,7 +3611,7 @@
 			"ID": 326,
 			"Title": "Power of Three",
 			"TitleSlug": "power-of-three",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -4029,7 +4029,7 @@
 			"ID": 364,
 			"Title": "Nested List Weight Sum II",
 			"TitleSlug": "nested-list-weight-sum-ii",
-			"PassRate": "68%",
+			"PassRate": "67%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -19781,7 +19781,7 @@
 			"ID": 1796,
 			"Title": "Second Largest Digit in a String",
 			"TitleSlug": "second-largest-digit-in-a-string",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26183,7 +26183,7 @@
 			"ID": 2378,
 			"Title": "Choose Edges to Maximize Score in a Tree",
 			"TitleSlug": "choose-edges-to-maximize-score-in-a-tree",
-			"PassRate": "66%",
+			"PassRate": "65%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26227,7 +26227,7 @@
 			"ID": 2382,
 			"Title": "Maximum Segment Sum After Removals",
 			"TitleSlug": "maximum-segment-sum-after-removals",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26238,7 +26238,7 @@
 			"ID": 2383,
 			"Title": "Minimum Hours of Training to Win a Competition",
 			"TitleSlug": "minimum-hours-of-training-to-win-a-competition",
-			"PassRate": "38%",
+			"PassRate": "40%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

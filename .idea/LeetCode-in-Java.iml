@@ -199,6 +199,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0394.decode-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0844.backspace-string-compare" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0994.rotting-oranges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0077.combinations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0120.triangle" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
