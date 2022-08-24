@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 253878,
-	"Updated": "2022-08-24T12:41:14.084626-04:00",
+	"Updated": "2022-08-24T13:33:22.398578-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 83,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 101,
+			"Solved": 102,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 197,
+			"Solved": 198,
 			"Total": 1830
 		}
 	},
@@ -7639,7 +7639,7 @@
 			"TitleSlug": "top-k-frequent-words",
 			"PassRate": "54%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -26282,7 +26282,7 @@
 			"ID": 2387,
 			"Title": "Median of a Row Wise Sorted Matrix",
 			"TitleSlug": "median-of-a-row-wise-sorted-matrix",
-			"PassRate": "73%",
+			"PassRate": "76%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

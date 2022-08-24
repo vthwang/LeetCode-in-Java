@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-253,878-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-197-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-198-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 83 | 101 | 13 | 197 |
+| **Accepted** | 83 | 102 | 13 | 198 |
 | **Total** | 453 | 960 | 417 | 1830 |
-| **Coverage** | 18.32 % | 10.52 % | 3.12 % | 10.77 % |
+| **Coverage** | 18.32 % | 10.63 % | 3.12 % | 10.82 % |
 
 ## Solutions
 
@@ -1327,7 +1327,7 @@
 |[0696](https://leetcode.com/problems/count-binary-substrings/)|[Count Binary Substrings](./Algorithms/0696.count-binary-substrings)|65%|Easy|[⭐](https://leetcode.com/list/yxanka6/)|
 |[0695](https://leetcode.com/problems/max-area-of-island/)|[Max Area of Island](./Algorithms/0695.max-area-of-island)|71%|Medium||
 |[0693](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Binary Number with Alternating Bits](./Algorithms/0693.binary-number-with-alternating-bits)|61%|Easy||
-|[0692](https://leetcode.com/problems/top-k-frequent-words/)| * Top K Frequent Words|54%|Medium||
+|[0692](https://leetcode.com/problems/top-k-frequent-words/)|[Top K Frequent Words](./Algorithms/0692.top-k-frequent-words)|54%|Medium||
 |[0691](https://leetcode.com/problems/stickers-to-spell-word/)| * Stickers to Spell Word|46%|Hard||
 |[0690](https://leetcode.com/problems/employee-importance/)| * Employee Importance|64%|Medium||
 |[0689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)| * Maximum Sum of 3 Non-Overlapping Subarrays|48%|Hard||

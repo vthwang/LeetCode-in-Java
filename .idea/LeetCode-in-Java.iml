@@ -202,6 +202,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0077.combinations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0120.triangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0326.power-of-three" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0692.top-k-frequent-words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1046.last-stone-weight" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
