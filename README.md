@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-253,878-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-196-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-197-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 82 | 101 | 13 | 196 |
+| **Accepted** | 83 | 101 | 13 | 197 |
 | **Total** | 453 | 960 | 417 | 1830 |
-| **Coverage** | 18.10 % | 10.52 % | 3.12 % | 10.71 % |
+| **Coverage** | 18.32 % | 10.52 % | 3.12 % | 10.77 % |
 
 ## Solutions
 
@@ -994,7 +994,7 @@
 |[1049](https://leetcode.com/problems/last-stone-weight-ii/)| * Last Stone Weight II|52%|Medium||
 |[1048](https://leetcode.com/problems/longest-string-chain/)| * Longest String Chain|59%|Medium||
 |[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| * Remove All Adjacent Duplicates In String|70%|Easy||
-|[1046](https://leetcode.com/problems/last-stone-weight/)| * Last Stone Weight|64%|Easy||
+|[1046](https://leetcode.com/problems/last-stone-weight/)|[Last Stone Weight](./Algorithms/1046.last-stone-weight)|64%|Easy||
 |[1044](https://leetcode.com/problems/longest-duplicate-substring/)| * Longest Duplicate Substring|30%|Hard||
 |[1043](https://leetcode.com/problems/partition-array-for-maximum-sum/)| * Partition Array for Maximum Sum|70%|Medium||
 |[1042](https://leetcode.com/problems/flower-planting-with-no-adjacent/)| * Flower Planting With No Adjacent|50%|Medium||

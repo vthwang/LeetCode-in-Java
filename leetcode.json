@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 253878,
-	"Updated": "2022-08-24T12:21:38.553636-04:00",
+	"Updated": "2022-08-24T12:41:14.084626-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 82,
+			"Solved": 83,
 			"Total": 453
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 196,
+			"Solved": 197,
 			"Total": 1830
 		}
 	},
@@ -11533,7 +11533,7 @@
 			"TitleSlug": "last-stone-weight",
 			"PassRate": "64%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -26282,7 +26282,7 @@
 			"ID": 2387,
 			"Title": "Median of a Row Wise Sorted Matrix",
 			"TitleSlug": "median-of-a-row-wise-sorted-matrix",
-			"PassRate": "71%",
+			"PassRate": "73%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
