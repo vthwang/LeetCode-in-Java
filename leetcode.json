@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 249679,
-	"Updated": "2022-08-25T10:51:06.42471-04:00",
+	"Updated": "2022-08-25T11:12:04.379184-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 84,
+			"Solved": 85,
 			"Total": 453
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 199,
+			"Solved": 200,
 			"Total": 1830
 		}
 	},
@@ -2249,7 +2249,7 @@
 			"TitleSlug": "happy-number",
 			"PassRate": "54%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
