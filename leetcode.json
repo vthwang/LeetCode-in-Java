@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 249679,
-	"Updated": "2022-08-25T11:12:04.379184-04:00",
+	"Updated": "2022-08-25T11:55:08.406268-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 85,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 102,
+			"Solved": 103,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 200,
+			"Solved": 201,
 			"Total": 1830
 		}
 	},
@@ -621,7 +621,7 @@
 			"TitleSlug": "spiral-matrix",
 			"PassRate": "42%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -8693,7 +8693,7 @@
 			"ID": 788,
 			"Title": "Rotated Digits",
 			"TitleSlug": "rotated-digits",
-			"PassRate": "57%",
+			"PassRate": "56%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26227,7 +26227,7 @@
 			"ID": 2382,
 			"Title": "Maximum Segment Sum After Removals",
 			"TitleSlug": "maximum-segment-sum-after-removals",
-			"PassRate": "44%",
+			"PassRate": "45%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,

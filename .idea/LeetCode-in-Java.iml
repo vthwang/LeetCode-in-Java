@@ -204,6 +204,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0326.power-of-three" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0692.top-k-frequent-words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1046.last-stone-weight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0054.spiral-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0202.happy-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0383.ransom-note" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
