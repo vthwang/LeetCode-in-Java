@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-249,679-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-201-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-202-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 85 | 103 | 13 | 201 |
+| **Accepted** | 85 | 104 | 13 | 202 |
 | **Total** | 453 | 960 | 417 | 1830 |
-| **Coverage** | 18.76 % | 10.73 % | 3.12 % | 10.98 % |
+| **Coverage** | 18.76 % | 10.83 % | 3.12 % | 11.04 % |
 
 ## Solutions
 
@@ -58,7 +58,7 @@
 |[2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/)| * Count the Number of Ideal Arrays|24%|Hard||
 |[2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)| * Move Pieces to Obtain a String|48%|Medium||
 |[2336](https://leetcode.com/problems/smallest-number-in-infinite-set/)| * Smallest Number in Infinite Set|71%|Medium||
-|[2335](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)| * Minimum Amount of Time to Fill Cups|55%|Easy||
+|[2335](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)| * Minimum Amount of Time to Fill Cups|54%|Easy||
 |[2334](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| * Subarray With Elements Greater Than Varying Threshold|38%|Hard||
 |[2333](https://leetcode.com/problems/minimum-sum-of-squared-difference/)| * Minimum Sum of Squared Difference|24%|Medium||
 |[2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/)| * The Latest Time to Catch a Bus|22%|Medium||
@@ -387,7 +387,7 @@
 |[1914](https://leetcode.com/problems/cyclically-rotating-a-grid/)| * Cyclically Rotating a Grid|47%|Medium||
 |[1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| * Maximum Product Difference Between Two Pairs|81%|Easy||
 |[1912](https://leetcode.com/problems/design-movie-rental-system/)| * Design Movie Rental System|41%|Hard||
-|[1911](https://leetcode.com/problems/maximum-alternating-subsequence-sum/)| * Maximum Alternating Subsequence Sum|59%|Medium||
+|[1911](https://leetcode.com/problems/maximum-alternating-subsequence-sum/)| * Maximum Alternating Subsequence Sum|58%|Medium||
 |[1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)| * Remove All Occurrences of a Substring|73%|Medium||
 |[1909](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)| * Remove One Element to Make the Array Strictly Increasing|26%|Easy||
 |[1906](https://leetcode.com/problems/minimum-absolute-difference-queries/)| * Minimum Absolute Difference Queries|43%|Medium||
@@ -541,7 +541,7 @@
 |[1711](https://leetcode.com/problems/count-good-meals/)| * Count Good Meals|28%|Medium||
 |[1710](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Maximum Units on a Truck](./Algorithms/1710.maximum-units-on-a-truck)|74%|Easy||
 |[1707](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)| * Maximum XOR With an Element From Array|44%|Hard||
-|[1706](https://leetcode.com/problems/where-will-the-ball-fall/)| * Where Will the Ball Fall|65%|Medium||
+|[1706](https://leetcode.com/problems/where-will-the-ball-fall/)|[Where Will the Ball Fall](./Algorithms/1706.where-will-the-ball-fall)|65%|Medium||
 |[1705](https://leetcode.com/problems/maximum-number-of-eaten-apples/)| * Maximum Number of Eaten Apples|37%|Medium||
 |[1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/)| * Determine if String Halves Are Alike|77%|Easy||
 |[1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/)| * Minimum Adjacent Swaps for K Consecutive Ones|41%|Hard||

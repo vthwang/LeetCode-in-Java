@@ -207,6 +207,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0054.spiral-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0202.happy-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0383.ransom-note" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1706.where-will-the-ball-fall" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
