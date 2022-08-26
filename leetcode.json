@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 243659,
-	"Updated": "2022-08-26T13:54:22.550653-04:00",
+	"Updated": "2022-08-26T14:06:21.9087-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 85,
+			"Solved": 86,
 			"Total": 453
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 203,
+			"Solved": 204,
 			"Total": 1830
 		}
 	},
@@ -181,7 +181,7 @@
 			"TitleSlug": "longest-common-prefix",
 			"PassRate": "40%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -18483,7 +18483,7 @@
 			"ID": 1678,
 			"Title": "Goal Parser Interpretation",
 			"TitleSlug": "goal-parser-interpretation",
-			"PassRate": "85%",
+			"PassRate": "86%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23455,7 +23455,7 @@
 			"ID": 2130,
 			"Title": "Maximum Twin Sum of a Linked List",
 			"TitleSlug": "maximum-twin-sum-of-a-linked-list",
-			"PassRate": "82%",
+			"PassRate": "81%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

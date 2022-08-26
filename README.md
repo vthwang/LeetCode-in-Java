@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-243,659-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-203-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-204-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 85 | 105 | 13 | 203 |
+| **Accepted** | 86 | 105 | 13 | 204 |
 | **Total** | 453 | 960 | 417 | 1830 |
-| **Coverage** | 18.76 % | 10.94 % | 3.12 % | 11.09 % |
+| **Coverage** | 18.98 % | 10.94 % | 3.12 % | 11.15 % |
 
 ## Solutions
 
@@ -219,7 +219,7 @@
 |[2133](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)| * Check if Every Row and Column Contains All Numbers|52%|Easy||
 |[2132](https://leetcode.com/problems/stamping-the-grid/)| * Stamping the Grid|30%|Hard||
 |[2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)| * Longest Palindrome by Concatenating Two Letter Words|40%|Medium||
-|[2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)| * Maximum Twin Sum of a Linked List|82%|Medium||
+|[2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)| * Maximum Twin Sum of a Linked List|81%|Medium||
 |[2129](https://leetcode.com/problems/capitalize-the-title/)| * Capitalize the Title|60%|Easy||
 |[2127](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)| * Maximum Employees to Be Invited to a Meeting|32%|Hard||
 |[2126](https://leetcode.com/problems/destroying-asteroids/)| * Destroying Asteroids|49%|Medium||
@@ -563,7 +563,7 @@
 |[1681](https://leetcode.com/problems/minimum-incompatibility/)| * Minimum Incompatibility|37%|Hard||
 |[1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)| * Concatenation of Consecutive Binary Numbers|52%|Medium||
 |[1679](https://leetcode.com/problems/max-number-of-k-sum-pairs/)| * Max Number of K-Sum Pairs|57%|Medium||
-|[1678](https://leetcode.com/problems/goal-parser-interpretation/)| * Goal Parser Interpretation|85%|Easy||
+|[1678](https://leetcode.com/problems/goal-parser-interpretation/)| * Goal Parser Interpretation|86%|Easy||
 |[1675](https://leetcode.com/problems/minimize-deviation-in-array/)| * Minimize Deviation in Array|52%|Hard||
 |[1674](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)| * Minimum Moves to Make Array Complementary|38%|Medium||
 |[1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/)| * Find the Most Competitive Subsequence|49%|Medium||
@@ -1835,7 +1835,7 @@
 |[0017](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| * Letter Combinations of a Phone Number|55%|Medium||
 |[0016](https://leetcode.com/problems/3sum-closest/)| * 3Sum Closest|46%|Medium||
 |[0015](https://leetcode.com/problems/3sum/)|[3Sum](./Algorithms/0015.3sum)|31%|Medium||
-|[0014](https://leetcode.com/problems/longest-common-prefix/)| * Longest Common Prefix|40%|Easy||
+|[0014](https://leetcode.com/problems/longest-common-prefix/)|[Longest Common Prefix](./Algorithms/0014.longest-common-prefix)|40%|Easy||
 |[0013](https://leetcode.com/problems/roman-to-integer/)|[Roman to Integer](./Algorithms/0013.roman-to-integer)|58%|Easy||
 |[0012](https://leetcode.com/problems/integer-to-roman/)| * Integer to Roman|60%|Medium||
 |[0011](https://leetcode.com/problems/container-with-most-water/)| * Container With Most Water|54%|Medium||
