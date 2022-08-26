@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 243659,
-	"Updated": "2022-08-26T14:06:21.9087-04:00",
+	"Updated": "2022-08-26T14:25:06.657159-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 105,
+			"Solved": 106,
 			"Total": 960
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 417
 		},
 		"Total": {
-			"Solved": 204,
+			"Solved": 205,
 			"Total": 1830
 		}
 	},
@@ -500,7 +500,7 @@
 			"TitleSlug": "multiply-strings",
 			"PassRate": "38%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -6537,7 +6537,7 @@
 			"ID": 592,
 			"Title": "Fraction Addition and Subtraction",
 			"TitleSlug": "fraction-addition-and-subtraction",
-			"PassRate": "52%",
+			"PassRate": "51%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -14908,7 +14908,7 @@
 			"ID": 1353,
 			"Title": "Maximum Number of Events That Can Be Attended",
 			"TitleSlug": "maximum-number-of-events-that-can-be-attended",
-			"PassRate": "33%",
+			"PassRate": "32%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23455,7 +23455,7 @@
 			"ID": 2130,
 			"Title": "Maximum Twin Sum of a Linked List",
 			"TitleSlug": "maximum-twin-sum-of-a-linked-list",
-			"PassRate": "81%",
+			"PassRate": "82%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

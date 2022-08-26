@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-243,659-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-204-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-205-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 86 | 105 | 13 | 204 |
+| **Accepted** | 86 | 106 | 13 | 205 |
 | **Total** | 453 | 960 | 417 | 1830 |
-| **Coverage** | 18.98 % | 10.94 % | 3.12 % | 11.15 % |
+| **Coverage** | 18.98 % | 11.04 % | 3.12 % | 11.20 % |
 
 ## Solutions
 
@@ -219,7 +219,7 @@
 |[2133](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)| * Check if Every Row and Column Contains All Numbers|52%|Easy||
 |[2132](https://leetcode.com/problems/stamping-the-grid/)| * Stamping the Grid|30%|Hard||
 |[2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)| * Longest Palindrome by Concatenating Two Letter Words|40%|Medium||
-|[2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)| * Maximum Twin Sum of a Linked List|81%|Medium||
+|[2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)| * Maximum Twin Sum of a Linked List|82%|Medium||
 |[2129](https://leetcode.com/problems/capitalize-the-title/)| * Capitalize the Title|60%|Easy||
 |[2127](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)| * Maximum Employees to Be Invited to a Meeting|32%|Hard||
 |[2126](https://leetcode.com/problems/destroying-asteroids/)| * Destroying Asteroids|49%|Medium||
@@ -814,7 +814,7 @@
 |[1357](https://leetcode.com/problems/apply-discount-every-n-orders/)| * Apply Discount Every n Orders|69%|Medium||
 |[1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)| * Sort Integers by The Number of 1 Bits|71%|Easy||
 |[1354](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[Construct Target Array With Multiple Sums](./Algorithms/1354.construct-target-array-with-multiple-sums)|36%|Hard||
-|[1353](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)| * Maximum Number of Events That Can Be Attended|33%|Medium||
+|[1353](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)| * Maximum Number of Events That Can Be Attended|32%|Medium||
 |[1352](https://leetcode.com/problems/product-of-the-last-k-numbers/)| * Product of the Last K Numbers|48%|Medium||
 |[1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| * Count Negative Numbers in a Sorted Matrix|75%|Easy||
 |[1349](https://leetcode.com/problems/maximum-students-taking-exam/)| * Maximum Students Taking Exam|47%|Hard||
@@ -1393,7 +1393,7 @@
 |[0598](https://leetcode.com/problems/range-addition-ii/)| * Range Addition II|54%|Easy||
 |[0594](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Longest Harmonious Subsequence](./Algorithms/0594.longest-harmonious-subsequence)|53%|Easy||
 |[0593](https://leetcode.com/problems/valid-square/)| * Valid Square|44%|Medium||
-|[0592](https://leetcode.com/problems/fraction-addition-and-subtraction/)| * Fraction Addition and Subtraction|52%|Medium||
+|[0592](https://leetcode.com/problems/fraction-addition-and-subtraction/)| * Fraction Addition and Subtraction|51%|Medium||
 |[0591](https://leetcode.com/problems/tag-validator/)| * Tag Validator|36%|Hard||
 |[0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| * N-ary Tree Postorder Traversal|76%|Easy||
 |[0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[N-ary Tree Preorder Traversal](./Algorithms/0589.n-ary-tree-preorder-traversal)|76%|Easy||
@@ -1806,7 +1806,7 @@
 |[0046](https://leetcode.com/problems/permutations/)| * Permutations|74%|Medium||
 |[0045](https://leetcode.com/problems/jump-game-ii/)| * Jump Game II|38%|Medium||
 |[0044](https://leetcode.com/problems/wildcard-matching/)| * Wildcard Matching|26%|Hard||
-|[0043](https://leetcode.com/problems/multiply-strings/)| * Multiply Strings|38%|Medium||
+|[0043](https://leetcode.com/problems/multiply-strings/)|[Multiply Strings](./Algorithms/0043.multiply-strings)|38%|Medium||
 |[0042](https://leetcode.com/problems/trapping-rain-water/)| * Trapping Rain Water|57%|Hard||
 |[0041](https://leetcode.com/problems/first-missing-positive/)| * First Missing Positive|36%|Hard||
 |[0040](https://leetcode.com/problems/combination-sum-ii/)| * Combination Sum II|53%|Medium||
