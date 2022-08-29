@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 236787,
-	"Updated": "2022-08-29T12:18:30.419598-04:00",
+	"Updated": "2022-08-29T12:59:55.610528-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 109,
+			"Solved": 110,
 			"Total": 963
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 418
 		},
 		"Total": {
-			"Solved": 209,
+			"Solved": 210,
 			"Total": 1834
 		}
 	},
@@ -6858,7 +6858,7 @@
 			"TitleSlug": "task-scheduler",
 			"PassRate": "55%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -9309,7 +9309,7 @@
 			"ID": 844,
 			"Title": "Backspace String Compare",
 			"TitleSlug": "backspace-string-compare",
-			"PassRate": "47%",
+			"PassRate": "48%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
