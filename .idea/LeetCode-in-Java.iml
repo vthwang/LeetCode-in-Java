@@ -213,6 +213,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0869.reordered-power-of-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0363.max-sum-of-rectangle-no-larger-than-k" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1329.sort-the-matrix-diagonally" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0148.sort-list" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
