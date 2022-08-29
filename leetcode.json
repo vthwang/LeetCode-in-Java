@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 236787,
-	"Updated": "2022-08-29T11:31:19.787564-04:00",
+	"Updated": "2022-08-29T12:18:30.419598-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 108,
+			"Solved": 109,
 			"Total": 963
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 418
 		},
 		"Total": {
-			"Solved": 208,
+			"Solved": 209,
 			"Total": 1834
 		}
 	},
@@ -4392,7 +4392,7 @@
 			"ID": 397,
 			"Title": "Integer Replacement",
 			"TitleSlug": "integer-replacement",
-			"PassRate": "35%",
+			"PassRate": "34%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -5580,7 +5580,7 @@
 			"ID": 505,
 			"Title": "The Maze II",
 			"TitleSlug": "the-maze-ii",
-			"PassRate": "51%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -23468,7 +23468,7 @@
 			"TitleSlug": "longest-palindrome-by-concatenating-two-letter-words",
 			"PassRate": "40%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
