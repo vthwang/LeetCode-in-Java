@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 231456,
-	"Updated": "2022-08-31T19:18:46.954215-04:00",
+	"Updated": "2022-08-31T19:27:38.740341-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
@@ -26282,7 +26282,7 @@
 			"ID": 2387,
 			"Title": "Median of a Row Wise Sorted Matrix",
 			"TitleSlug": "median-of-a-row-wise-sorted-matrix",
-			"PassRate": "66%",
+			"PassRate": "67%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

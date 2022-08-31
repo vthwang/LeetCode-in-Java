@@ -61,4 +61,26 @@ public class PathSumIiiTest {
 
         Assertions.assertEquals(expectedResult, results);
     }
+
+    @Test
+    void Example3() {
+        TreeNode firstNode = new TreeNode(1000000000);
+        TreeNode secondNode = new TreeNode(1000000000);
+        TreeNode thirdNode = new TreeNode(294967296);
+        TreeNode forthNode = new TreeNode(1000000000);
+        TreeNode fifthNode = new TreeNode(1000000000);
+        TreeNode sixthNode = new TreeNode(1000000000);
+
+        firstNode.left = secondNode;
+        secondNode.left = thirdNode;
+        thirdNode.left = forthNode;
+        forthNode.left = fifthNode;
+        fifthNode.left = sixthNode;
+
+        int targetSum = 0;
+        int results = PathSumIii.pathSum(firstNode, targetSum);
+        int expectedResult = 0;
+
+        Assertions.assertEquals(expectedResult, results);
+    }
 }
