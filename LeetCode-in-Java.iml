@@ -217,6 +217,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0621.task-scheduler" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2131.longest-palindrome-by-concatenating-two-letter-words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0048.rotate-image" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0417.pacific-atlantic-water-flow" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

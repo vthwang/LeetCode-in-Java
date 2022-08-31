@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 231456,
-	"Updated": "2022-08-31T14:44:30.13702-04:00",
+	"Updated": "2022-08-31T19:18:46.954215-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
@@ -3633,7 +3633,7 @@
 			"ID": 328,
 			"Title": "Odd Even Linked List",
 			"TitleSlug": "odd-even-linked-list",
-			"PassRate": "59%",
+			"PassRate": "60%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -6724,7 +6724,7 @@
 			"ID": 609,
 			"Title": "Find Duplicate File in System",
 			"TitleSlug": "find-duplicate-file-in-system",
-			"PassRate": "63%",
+			"PassRate": "64%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -16404,7 +16404,7 @@
 			"ID": 1489,
 			"Title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
 			"TitleSlug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
-			"PassRate": "52%",
+			"PassRate": "53%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -19781,7 +19781,7 @@
 			"ID": 1796,
 			"Title": "Second Largest Digit in a String",
 			"TitleSlug": "second-largest-digit-in-a-string",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -22828,7 +22828,7 @@
 			"ID": 2073,
 			"Title": "Time Needed to Buy Tickets",
 			"TitleSlug": "time-needed-to-buy-tickets",
-			"PassRate": "61%",
+			"PassRate": "62%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24093,7 +24093,7 @@
 			"ID": 2188,
 			"Title": "Minimum Time to Finish the Race",
 			"TitleSlug": "minimum-time-to-finish-the-race",
-			"PassRate": "41%",
+			"PassRate": "42%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25072,7 +25072,7 @@
 			"ID": 2277,
 			"Title": "Closest Node to Path in Tree",
 			"TitleSlug": "closest-node-to-path-in-tree",
-			"PassRate": "65%",
+			"PassRate": "64%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25732,7 +25732,7 @@
 			"ID": 2337,
 			"Title": "Move Pieces to Obtain a String",
 			"TitleSlug": "move-pieces-to-obtain-a-string",
-			"PassRate": "47%",
+			"PassRate": "48%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26282,12 +26282,12 @@
 			"ID": 2387,
 			"Title": "Median of a Row Wise Sorted Matrix",
 			"TitleSlug": "median-of-a-row-wise-sorted-matrix",
-			"PassRate": "67%",
+			"PassRate": "66%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
 			"IsFavor": false,
-			"IsNew": true
+			"IsNew": false
 		},
 		{
 			"ID": 0,
@@ -26343,6 +26343,17 @@
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
+		},
+		{
+			"ID": 2393,
+			"Title": "Count Strictly Increasing Subarrays",
+			"TitleSlug": "count-strictly-increasing-subarrays",
+			"PassRate": "70%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": true,
+			"IsFavor": false,
+			"IsNew": true
 		}
 	]
 }

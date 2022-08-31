@@ -60,7 +60,7 @@
 |[2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)| * Max Sum of a Pair With Equal Sum of Digits|52%|Medium||
 |[2341](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)| * Maximum Number of Pairs in Array|77%|Easy||
 |[2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/)| * Count the Number of Ideal Arrays|24%|Hard||
-|[2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)| * Move Pieces to Obtain a String|47%|Medium||
+|[2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)| * Move Pieces to Obtain a String|48%|Medium||
 |[2336](https://leetcode.com/problems/smallest-number-in-infinite-set/)| * Smallest Number in Infinite Set|71%|Medium||
 |[2335](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)| * Minimum Amount of Time to Fill Cups|55%|Easy||
 |[2334](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| * Subarray With Elements Greater Than Varying Threshold|39%|Hard||
@@ -177,7 +177,7 @@
 |[2192](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)| * All Ancestors of a Node in a Directed Acyclic Graph|50%|Medium||
 |[2191](https://leetcode.com/problems/sort-the-jumbled-numbers/)| * Sort the Jumbled Numbers|44%|Medium||
 |[2190](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)| * Most Frequent Number Following Key In an Array|60%|Easy||
-|[2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/)| * Minimum Time to Finish the Race|41%|Hard||
+|[2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/)| * Minimum Time to Finish the Race|42%|Hard||
 |[2187](https://leetcode.com/problems/minimum-time-to-complete-trips/)| * Minimum Time to Complete Trips|31%|Medium||
 |[2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)| * Minimum Number of Steps to Make Two Strings Anagram II|71%|Medium||
 |[2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/)| * Counting Words With a Given Prefix|77%|Easy||
@@ -268,7 +268,7 @@
 |[2076](https://leetcode.com/problems/process-restricted-friend-requests/)| * Process Restricted Friend Requests|53%|Hard||
 |[2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/)| * Decode the Slanted Ciphertext|49%|Medium||
 |[2074](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)| * Reverse Nodes in Even Length Groups|50%|Medium||
-|[2073](https://leetcode.com/problems/time-needed-to-buy-tickets/)| * Time Needed to Buy Tickets|61%|Easy||
+|[2073](https://leetcode.com/problems/time-needed-to-buy-tickets/)| * Time Needed to Buy Tickets|62%|Easy||
 |[2071](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)| * Maximum Number of Tasks You Can Assign|35%|Hard||
 |[2070](https://leetcode.com/problems/most-beautiful-item-for-each-query/)| * Most Beautiful Item for Each Query|49%|Medium||
 |[2069](https://leetcode.com/problems/walking-robot-simulation-ii/)| * Walking Robot Simulation II|22%|Medium||
@@ -479,7 +479,7 @@
 |[1799](https://leetcode.com/problems/maximize-score-after-n-operations/)| * Maximize Score After N Operations|45%|Hard||
 |[1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)| * Maximum Number of Consecutive Values You Can Make|53%|Medium||
 |[1797](https://leetcode.com/problems/design-authentication-manager/)| * Design Authentication Manager|55%|Medium||
-|[1796](https://leetcode.com/problems/second-largest-digit-in-a-string/)| * Second Largest Digit in a String|49%|Easy||
+|[1796](https://leetcode.com/problems/second-largest-digit-in-a-string/)| * Second Largest Digit in a String|48%|Easy||
 |[1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)| * Maximum Score of a Good Subarray|52%|Hard||
 |[1792](https://leetcode.com/problems/maximum-average-pass-ratio/)| * Maximum Average Pass Ratio|51%|Medium||
 |[1791](https://leetcode.com/problems/find-center-of-star-graph/)| * Find Center of Star Graph|83%|Easy||
@@ -708,7 +708,7 @@
 |[1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)| * Longest Subarray of 1&#39;s After Deleting One Element|60%|Medium||
 |[1492](https://leetcode.com/problems/the-kth-factor-of-n/)| * The kth Factor of n|62%|Medium||
 |[1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)| * Average Salary Excluding the Minimum and Maximum Salary|63%|Easy||
-|[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)| * Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|52%|Hard||
+|[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)| * Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|53%|Hard||
 |[1488](https://leetcode.com/problems/avoid-flood-in-the-city/)| * Avoid Flood in The City|25%|Medium||
 |[1487](https://leetcode.com/problems/making-file-names-unique/)| * Making File Names Unique|35%|Medium||
 |[1486](https://leetcode.com/problems/xor-operation-in-an-array/)| * XOR Operation in an Array|84%|Easy||
@@ -1389,7 +1389,7 @@
 |[0621](https://leetcode.com/problems/task-scheduler/)|[Task Scheduler](./Algorithms/0621.task-scheduler)|55%|Medium||
 |[0617](https://leetcode.com/problems/merge-two-binary-trees/)|[Merge Two Binary Trees](./Algorithms/0617.merge-two-binary-trees)|78%|Easy||
 |[0611](https://leetcode.com/problems/valid-triangle-number/)| * Valid Triangle Number|50%|Medium||
-|[0609](https://leetcode.com/problems/find-duplicate-file-in-system/)| * Find Duplicate File in System|63%|Medium||
+|[0609](https://leetcode.com/problems/find-duplicate-file-in-system/)| * Find Duplicate File in System|64%|Medium||
 |[0606](https://leetcode.com/problems/construct-string-from-binary-tree/)| * Construct String from Binary Tree|58%|Easy||
 |[0605](https://leetcode.com/problems/can-place-flowers/)|[Can Place Flowers](./Algorithms/0605.can-place-flowers)|33%|Easy||
 |[0600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)| * Non-negative Integers without Consecutive Ones|38%|Hard||
@@ -1594,7 +1594,7 @@
 |[0331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)| * Verify Preorder Serialization of a Binary Tree|44%|Medium||
 |[0330](https://leetcode.com/problems/patching-array/)| * Patching Array|39%|Hard||
 |[0329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| * Longest Increasing Path in a Matrix|51%|Hard||
-|[0328](https://leetcode.com/problems/odd-even-linked-list/)|[Odd Even Linked List](./Algorithms/0328.odd-even-linked-list)|59%|Medium||
+|[0328](https://leetcode.com/problems/odd-even-linked-list/)|[Odd Even Linked List](./Algorithms/0328.odd-even-linked-list)|60%|Medium||
 |[0327](https://leetcode.com/problems/count-of-range-sum/)| * Count of Range Sum|36%|Hard||
 |[0326](https://leetcode.com/problems/power-of-three/)|[Power of Three](./Algorithms/0326.power-of-three)|45%|Easy||
 |[0324](https://leetcode.com/problems/wiggle-sort-ii/)| * Wiggle Sort II|32%|Medium||
