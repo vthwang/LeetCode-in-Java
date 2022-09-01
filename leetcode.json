@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 230311,
-	"Updated": "2022-09-01T12:02:51.866508-04:00",
+	"Updated": "2022-09-01T12:28:03.512406-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 114,
+			"Solved": 115,
 			"Total": 963
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 418
 		},
 		"Total": {
-			"Solved": 214,
+			"Solved": 215,
 			"Total": 1834
 		}
 	},
@@ -390,7 +390,7 @@
 			"TitleSlug": "search-in-rotated-sorted-array",
 			"PassRate": "38%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -16943,7 +16943,7 @@
 			"ID": 1538,
 			"Title": "Guess the Majority in a Hidden Array",
 			"TitleSlug": "guess-the-majority-in-a-hidden-array",
-			"PassRate": "63%",
+			"PassRate": "62%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -24148,7 +24148,7 @@
 			"ID": 2193,
 			"Title": "Minimum Number of Moves to Make Palindrome",
 			"TitleSlug": "minimum-number-of-moves-to-make-palindrome",
-			"PassRate": "47%",
+			"PassRate": "48%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25710,7 +25710,7 @@
 			"ID": 2335,
 			"Title": "Minimum Amount of Time to Fill Cups",
 			"TitleSlug": "minimum-amount-of-time-to-fill-cups",
-			"PassRate": "55%",
+			"PassRate": "54%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
