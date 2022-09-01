@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-230,311-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-213-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-214-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 86 | 113 | 14 | 213 |
+| **Accepted** | 86 | 114 | 14 | 214 |
 | **Total** | 453 | 963 | 418 | 1834 |
-| **Coverage** | 18.98 % | 11.73 % | 3.35 % | 11.61 % |
+| **Coverage** | 18.98 % | 11.84 % | 3.35 % | 11.67 % |
 
 ## Solutions
 
@@ -1779,7 +1779,7 @@
 |[0077](https://leetcode.com/problems/combinations/)| * Combinations|65%|Medium||
 |[0076](https://leetcode.com/problems/minimum-window-substring/)| * Minimum Window Substring|39%|Hard||
 |[0075](https://leetcode.com/problems/sort-colors/)|[Sort Colors](./Algorithms/0075.sort-colors)|56%|Medium||
-|[0074](https://leetcode.com/problems/search-a-2d-matrix/)| * Search a 2D Matrix|46%|Medium||
+|[0074](https://leetcode.com/problems/search-a-2d-matrix/)|[Search a 2D Matrix](./Algorithms/0074.search-a-2d-matrix)|46%|Medium||
 |[0073](https://leetcode.com/problems/set-matrix-zeroes/)| * Set Matrix Zeroes|49%|Medium||
 |[0072](https://leetcode.com/problems/edit-distance/)| * Edit Distance|52%|Hard||
 |[0071](https://leetcode.com/problems/simplify-path/)| * Simplify Path|39%|Medium||

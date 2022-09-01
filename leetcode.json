@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 230311,
-	"Updated": "2022-09-01T11:35:12.376934-04:00",
+	"Updated": "2022-09-01T12:02:51.866508-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 113,
+			"Solved": 114,
 			"Total": 963
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 418
 		},
 		"Total": {
-			"Solved": 213,
+			"Solved": 214,
 			"Total": 1834
 		}
 	},
@@ -841,7 +841,7 @@
 			"TitleSlug": "search-a-2d-matrix",
 			"PassRate": "46%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -26348,7 +26348,7 @@
 			"ID": 2393,
 			"Title": "Count Strictly Increasing Subarrays",
 			"TitleSlug": "count-strictly-increasing-subarrays",
-			"PassRate": "81%",
+			"PassRate": "82%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
