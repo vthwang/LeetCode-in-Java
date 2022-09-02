@@ -221,6 +221,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0033.search-in-rotated-sorted-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0074.search-a-2d-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1448.count-good-nodes-in-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0173.binary-search-tree-iterator" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
