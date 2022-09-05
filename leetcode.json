@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 222973,
-	"Updated": "2022-09-05T15:04:03.004022-04:00",
+	"Updated": "2022-09-05T15:17:50.93771-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 86,
+			"Solved": 87,
 			"Total": 454
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 420
 		},
 		"Total": {
-			"Solved": 222,
+			"Solved": 223,
 			"Total": 1842
 		}
 	},
@@ -2128,7 +2128,7 @@
 			"TitleSlug": "number-of-1-bits",
 			"PassRate": "63%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25930,7 +25930,7 @@
 			"ID": 2355,
 			"Title": "Maximum Number of Books You Can Take",
 			"TitleSlug": "maximum-number-of-books-you-can-take",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
