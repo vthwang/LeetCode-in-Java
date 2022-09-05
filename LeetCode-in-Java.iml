@@ -226,6 +226,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0987.vertical-order-traversal-of-a-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0046.permutations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0429.n-ary-tree-level-order-traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0784.letter-case-permutation" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 222973,
-	"Updated": "2022-09-05T14:54:27.13073-04:00",
+	"Updated": "2022-09-05T15:04:03.004022-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 120,
+			"Solved": 121,
 			"Total": 968
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 420
 		},
 		"Total": {
-			"Solved": 221,
+			"Solved": 222,
 			"Total": 1842
 		}
 	},
@@ -8651,7 +8651,7 @@
 			"TitleSlug": "letter-case-permutation",
 			"PassRate": "73%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25930,7 +25930,7 @@
 			"ID": 2355,
 			"Title": "Maximum Number of Books You Can Take",
 			"TitleSlug": "maximum-number-of-books-you-can-take",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
