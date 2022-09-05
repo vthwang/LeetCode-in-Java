@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-222,973-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-219-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-220-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 86 | 118 | 15 | 219 |
+| **Accepted** | 86 | 119 | 15 | 220 |
 | **Total** | 454 | 968 | 420 | 1842 |
-| **Coverage** | 18.94 % | 12.19 % | 3.57 % | 11.89 % |
+| **Coverage** | 18.94 % | 12.29 % | 3.57 % | 11.94 % |
 
 ## Solutions
 
@@ -23,7 +23,7 @@
 |[2401](https://leetcode.com/problems/longest-nice-subarray/)| * Longest Nice Subarray|43%|Medium||
 |[2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)| * Number of Ways to Reach a Position After Exactly k Steps|29%|Medium||
 |[2399](https://leetcode.com/problems/check-distances-between-same-letters/)| * Check Distances Between Same Letters|70%|Easy||
-|[2398](https://leetcode.com/problems/maximum-number-of-robots-within-budget/)| * Maximum Number of Robots Within Budget|28%|Hard||
+|[2398](https://leetcode.com/problems/maximum-number-of-robots-within-budget/)| * Maximum Number of Robots Within Budget|27%|Hard||
 |[2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/)| * Maximum Rows Covered by Columns|49%|Medium||
 |[2396](https://leetcode.com/problems/strictly-palindromic-number/)| * Strictly Palindromic Number|85%|Medium||
 |[2395](https://leetcode.com/problems/find-subarrays-with-equal-sum/)| * Find Subarrays With Equal Sum|61%|Easy||
@@ -1784,7 +1784,7 @@
 |[0080](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| * Remove Duplicates from Sorted Array II|51%|Medium||
 |[0079](https://leetcode.com/problems/word-search/)| * Word Search|40%|Medium||
 |[0078](https://leetcode.com/problems/subsets/)| * Subsets|73%|Medium||
-|[0077](https://leetcode.com/problems/combinations/)| * Combinations|65%|Medium||
+|[0077](https://leetcode.com/problems/combinations/)|[Combinations](./Algorithms/0077.combinations)|65%|Medium||
 |[0076](https://leetcode.com/problems/minimum-window-substring/)| * Minimum Window Substring|39%|Hard||
 |[0075](https://leetcode.com/problems/sort-colors/)|[Sort Colors](./Algorithms/0075.sort-colors)|56%|Medium||
 |[0074](https://leetcode.com/problems/search-a-2d-matrix/)|[Search a 2D Matrix](./Algorithms/0074.search-a-2d-matrix)|46%|Medium||

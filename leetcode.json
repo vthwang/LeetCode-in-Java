@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 222973,
-	"Updated": "2022-09-05T14:15:52.323388-04:00",
+	"Updated": "2022-09-05T14:31:23.397653-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 118,
+			"Solved": 119,
 			"Total": 968
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 420
 		},
 		"Total": {
-			"Solved": 219,
+			"Solved": 220,
 			"Total": 1842
 		}
 	},
@@ -874,7 +874,7 @@
 			"TitleSlug": "combinations",
 			"PassRate": "65%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -26403,7 +26403,7 @@
 			"ID": 2398,
 			"Title": "Maximum Number of Robots Within Budget",
 			"TitleSlug": "maximum-number-of-robots-within-budget",
-			"PassRate": "28%",
+			"PassRate": "27%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
