@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 222973,
-	"Updated": "2022-09-05T14:31:23.397653-04:00",
+	"Updated": "2022-09-05T14:54:27.13073-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 86,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 119,
+			"Solved": 120,
 			"Total": 968
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 420
 		},
 		"Total": {
-			"Solved": 220,
+			"Solved": 221,
 			"Total": 1842
 		}
 	},
@@ -533,7 +533,7 @@
 			"TitleSlug": "permutations",
 			"PassRate": "74%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -18692,7 +18692,7 @@
 			"ID": 1697,
 			"Title": "Checking Existence of Edge Length Limited Paths",
 			"TitleSlug": "checking-existence-of-edge-length-limited-paths",
-			"PassRate": "49%",
+			"PassRate": "50%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26403,7 +26403,7 @@
 			"ID": 2398,
 			"Title": "Maximum Number of Robots Within Budget",
 			"TitleSlug": "maximum-number-of-robots-within-budget",
-			"PassRate": "27%",
+			"PassRate": "28%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
