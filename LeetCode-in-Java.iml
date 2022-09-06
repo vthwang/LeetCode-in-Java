@@ -228,6 +228,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0191.number-of-1-bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0429.n-ary-tree-level-order-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0784.letter-case-permutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0814.binary-tree-pruning" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
