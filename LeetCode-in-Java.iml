@@ -230,6 +230,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0784.letter-case-permutation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0814.binary-tree-pruning" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0606.construct-string-from-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0322.coin-change" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

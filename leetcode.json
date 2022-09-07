@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 215441,
-	"Updated": "2022-09-07T10:44:16.532383-04:00",
+	"Updated": "2022-09-07T15:41:46.590043-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 122,
+			"Solved": 123,
 			"Total": 968
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 420
 		},
 		"Total": {
-			"Solved": 225,
+			"Solved": 226,
 			"Total": 1842
 		}
 	},
@@ -3424,7 +3424,7 @@
 			"ID": 309,
 			"Title": "Best Time to Buy and Sell Stock with Cooldown",
 			"TitleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
-			"PassRate": "53%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -3569,7 +3569,7 @@
 			"TitleSlug": "coin-change",
 			"PassRate": "41%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -6691,7 +6691,7 @@
 			"ID": 606,
 			"Title": "Construct String from Binary Tree",
 			"TitleSlug": "construct-string-from-binary-tree",
-			"PassRate": "62%",
+			"PassRate": "63%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -8484,7 +8484,7 @@
 			"ID": 769,
 			"Title": "Max Chunks To Make Sorted",
 			"TitleSlug": "max-chunks-to-make-sorted",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -17548,7 +17548,7 @@
 			"ID": 1593,
 			"Title": "Split a String Into the Max Number of Unique Substrings",
 			"TitleSlug": "split-a-string-into-the-max-number-of-unique-substrings",
-			"PassRate": "54%",
+			"PassRate": "55%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23312,7 +23312,7 @@
 			"ID": 2117,
 			"Title": "Abbreviating the Product of a Range",
 			"TitleSlug": "abbreviating-the-product-of-a-range",
-			"PassRate": "27%",
+			"PassRate": "28%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23939,7 +23939,7 @@
 			"ID": 2174,
 			"Title": "Remove All Ones With Row and Column Flips II",
 			"TitleSlug": "remove-all-ones-with-row-and-column-flips-ii",
-			"PassRate": "68%",
+			"PassRate": "69%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -24093,7 +24093,7 @@
 			"ID": 2188,
 			"Title": "Minimum Time to Finish the Race",
 			"TitleSlug": "minimum-time-to-finish-the-race",
-			"PassRate": "42%",
+			"PassRate": "41%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25930,7 +25930,7 @@
 			"ID": 2355,
 			"Title": "Maximum Number of Books You Can Take",
 			"TitleSlug": "maximum-number-of-books-you-can-take",
-			"PassRate": "48%",
+			"PassRate": "47%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26348,7 +26348,7 @@
 			"ID": 2393,
 			"Title": "Count Strictly Increasing Subarrays",
 			"TitleSlug": "count-strictly-increasing-subarrays",
-			"PassRate": "80%",
+			"PassRate": "81%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26381,7 +26381,7 @@
 			"ID": 2396,
 			"Title": "Strictly Palindromic Number",
 			"TitleSlug": "strictly-palindromic-number",
-			"PassRate": "86%",
+			"PassRate": "87%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26436,7 +26436,7 @@
 			"ID": 2401,
 			"Title": "Longest Nice Subarray",
 			"TitleSlug": "longest-nice-subarray",
-			"PassRate": "44%",
+			"PassRate": "45%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
