@@ -232,6 +232,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0606.construct-string-from-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0322.coin-change" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0815.bus-routes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1996.the-number-of-weak-characters-in-the-game" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
