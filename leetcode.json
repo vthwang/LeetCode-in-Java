@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 210869,
-	"Updated": "2022-09-10T11:46:27.376977-04:00",
+	"Updated": "2022-09-10T12:02:49.624279-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 87,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 126,
+			"Solved": 127,
 			"Total": 968
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 421
 		},
 		"Total": {
-			"Solved": 230,
+			"Solved": 231,
 			"Total": 1842
 		}
 	},
@@ -1699,7 +1699,7 @@
 			"TitleSlug": "maximum-product-subarray",
 			"PassRate": "34%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -26227,7 +26227,7 @@
 			"ID": 2382,
 			"Title": "Maximum Segment Sum After Removals",
 			"TitleSlug": "maximum-segment-sum-after-removals",
-			"PassRate": "46%",
+			"PassRate": "47%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
