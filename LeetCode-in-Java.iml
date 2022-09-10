@@ -234,6 +234,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0815.bus-routes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1996.the-number-of-weak-characters-in-the-game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0188.best-time-to-buy-and-sell-stock-iv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0416.partition-equal-subset-sum" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

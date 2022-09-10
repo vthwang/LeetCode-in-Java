@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 210869,
-	"Updated": "2022-09-10T11:10:10.83317-04:00",
+	"Updated": "2022-09-10T11:46:27.376977-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 87,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 125,
+			"Solved": 126,
 			"Total": 968
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 421
 		},
 		"Total": {
-			"Solved": 229,
+			"Solved": 230,
 			"Total": 1842
 		}
 	},
@@ -4469,7 +4469,7 @@
 			"ID": 404,
 			"Title": "Sum of Left Leaves",
 			"TitleSlug": "sum-of-left-leaves",
-			"PassRate": "55%",
+			"PassRate": "56%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -4603,7 +4603,7 @@
 			"TitleSlug": "partition-equal-subset-sum",
 			"PassRate": "46%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21871,7 +21871,7 @@
 			"ID": 1986,
 			"Title": "Minimum Number of Work Sessions to Finish the Tasks",
 			"TitleSlug": "minimum-number-of-work-sessions-to-finish-the-tasks",
-			"PassRate": "33%",
+			"PassRate": "32%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26227,7 +26227,7 @@
 			"ID": 2382,
 			"Title": "Maximum Segment Sum After Removals",
 			"TitleSlug": "maximum-segment-sum-after-removals",
-			"PassRate": "47%",
+			"PassRate": "46%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
