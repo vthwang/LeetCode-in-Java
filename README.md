@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-210,869-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-231-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-232-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 87 | 127 | 17 | 231 |
+| **Accepted** | 87 | 128 | 17 | 232 |
 | **Total** | 453 | 968 | 421 | 1842 |
-| **Coverage** | 19.21 % | 13.12 % | 4.04 % | 12.54 % |
+| **Coverage** | 19.21 % | 13.22 % | 4.04 % | 12.60 % |
 
 ## Solutions
 
@@ -811,7 +811,7 @@
 |[1374](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)| * Generate a String With Characters That Have Odd Counts|77%|Easy||
 |[1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)| * Maximum Sum BST in Binary Tree|39%|Hard||
 |[1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)| * Longest ZigZag Path in a Binary Tree|59%|Medium||
-|[1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)| * Find the Longest Substring Containing Vowels in Even Counts|62%|Medium||
+|[1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)| * Find the Longest Substring Containing Vowels in Even Counts|63%|Medium||
 |[1370](https://leetcode.com/problems/increasing-decreasing-string/)| * Increasing Decreasing String|77%|Easy||
 |[1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)| * Minimum Cost to Make at Least One Valid Path in a Grid|61%|Hard||
 |[1367](https://leetcode.com/problems/linked-list-in-binary-tree/)| * Linked List in Binary Tree|43%|Medium||
@@ -1845,7 +1845,7 @@
 |[0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Remove Nth Node From End of List](./Algorithms/0019.remove-nth-node-from-end-of-list)|39%|Medium||
 |[0018](https://leetcode.com/problems/4sum/)|[4Sum](./Algorithms/0018.4sum)|36%|Medium||
 |[0017](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| * Letter Combinations of a Phone Number|55%|Medium||
-|[0016](https://leetcode.com/problems/3sum-closest/)| * 3Sum Closest|46%|Medium||
+|[0016](https://leetcode.com/problems/3sum-closest/)|[3Sum Closest](./Algorithms/0016.3sum-closest)|46%|Medium||
 |[0015](https://leetcode.com/problems/3sum/)|[3Sum](./Algorithms/0015.3sum)|32%|Medium||
 |[0014](https://leetcode.com/problems/longest-common-prefix/)|[Longest Common Prefix](./Algorithms/0014.longest-common-prefix)|40%|Easy||
 |[0013](https://leetcode.com/problems/roman-to-integer/)|[Roman to Integer](./Algorithms/0013.roman-to-integer)|58%|Easy||

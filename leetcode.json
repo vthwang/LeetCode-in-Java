@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 210869,
-	"Updated": "2022-09-10T12:02:49.624279-04:00",
+	"Updated": "2022-09-10T12:33:41.411917-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 87,
 			"Total": 453
 		},
 		"Medium": {
-			"Solved": 127,
+			"Solved": 128,
 			"Total": 968
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 421
 		},
 		"Total": {
-			"Solved": 231,
+			"Solved": 232,
 			"Total": 1842
 		}
 	},
@@ -203,7 +203,7 @@
 			"TitleSlug": "3sum-closest",
 			"PassRate": "46%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -15106,7 +15106,7 @@
 			"ID": 1371,
 			"Title": "Find the Longest Substring Containing Vowels in Even Counts",
 			"TitleSlug": "find-the-longest-substring-containing-vowels-in-even-counts",
-			"PassRate": "62%",
+			"PassRate": "63%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
