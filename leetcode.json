@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 210869,
-	"Updated": "2022-09-10T12:33:41.411917-04:00",
+	"Updated": "2022-09-10T12:52:09.898164-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 87,
@@ -12,11 +12,11 @@
 			"Total": 968
 		},
 		"Hard": {
-			"Solved": 17,
+			"Solved": 18,
 			"Total": 421
 		},
 		"Total": {
-			"Solved": 232,
+			"Solved": 233,
 			"Total": 1842
 		}
 	},
@@ -863,7 +863,7 @@
 			"TitleSlug": "minimum-window-substring",
 			"PassRate": "39%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -894,7 +894,7 @@
 			"ID": 79,
 			"Title": "Word Search",
 			"TitleSlug": "word-search",
-			"PassRate": "40%",
+			"PassRate": "39%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

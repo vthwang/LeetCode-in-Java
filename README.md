@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-210,869-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-232-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-233-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 87 | 128 | 17 | 232 |
+| **Accepted** | 87 | 128 | 18 | 233 |
 | **Total** | 453 | 968 | 421 | 1842 |
-| **Coverage** | 19.21 % | 13.22 % | 4.04 % | 12.60 % |
+| **Coverage** | 19.21 % | 13.22 % | 4.28 % | 12.65 % |
 
 ## Solutions
 
@@ -1782,10 +1782,10 @@
 |[0082](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| * Remove Duplicates from Sorted List II|45%|Medium||
 |[0081](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| * Search in Rotated Sorted Array II|35%|Medium||
 |[0080](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| * Remove Duplicates from Sorted Array II|51%|Medium||
-|[0079](https://leetcode.com/problems/word-search/)| * Word Search|40%|Medium||
+|[0079](https://leetcode.com/problems/word-search/)| * Word Search|39%|Medium||
 |[0078](https://leetcode.com/problems/subsets/)| * Subsets|73%|Medium||
 |[0077](https://leetcode.com/problems/combinations/)|[Combinations](./Algorithms/0077.combinations)|65%|Medium||
-|[0076](https://leetcode.com/problems/minimum-window-substring/)| * Minimum Window Substring|39%|Hard||
+|[0076](https://leetcode.com/problems/minimum-window-substring/)|[Minimum Window Substring](./Algorithms/0076.minimum-window-substring)|39%|Hard||
 |[0075](https://leetcode.com/problems/sort-colors/)|[Sort Colors](./Algorithms/0075.sort-colors)|56%|Medium||
 |[0074](https://leetcode.com/problems/search-a-2d-matrix/)|[Search a 2D Matrix](./Algorithms/0074.search-a-2d-matrix)|46%|Medium||
 |[0073](https://leetcode.com/problems/set-matrix-zeroes/)| * Set Matrix Zeroes|49%|Medium||
