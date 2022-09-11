@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 204841,
-	"Updated": "2022-09-11T13:34:44.864577-04:00",
+	"Updated": "2022-09-11T14:10:01.661008-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 129,
+			"Solved": 130,
 			"Total": 970
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 236,
+			"Solved": 237,
 			"Total": 1846
 		}
 	},
@@ -643,7 +643,7 @@
 			"TitleSlug": "merge-intervals",
 			"PassRate": "45%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22982,7 +22982,7 @@
 			"ID": 2087,
 			"Title": "Minimum Cost Homecoming of a Robot in a Grid",
 			"TitleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
-			"PassRate": "51%",
+			"PassRate": "50%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
