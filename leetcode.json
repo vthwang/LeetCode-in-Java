@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 204841,
-	"Updated": "2022-09-11T12:18:39.592587-04:00",
+	"Updated": "2022-09-11T12:30:10.117643-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 87,
+			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 234,
+			"Solved": 235,
 			"Total": 1846
 		}
 	},
@@ -1127,7 +1127,7 @@
 			"TitleSlug": "same-tree",
 			"PassRate": "56%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -15238,7 +15238,7 @@
 			"ID": 1383,
 			"Title": "Maximum Performance of a Team",
 			"TitleSlug": "maximum-performance-of-a-team",
-			"PassRate": "46%",
+			"PassRate": "47%",
 			"Difficulty": "Hard",
 			"IsAccepted": true,
 			"IsPaid": false,
