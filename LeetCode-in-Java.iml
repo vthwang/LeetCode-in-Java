@@ -238,6 +238,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0152.maximum-product-subarray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0188.best-time-to-buy-and-sell-stock-iv" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0416.partition-equal-subset-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0057.insert-interval" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0100.same-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1383.maximum-performance-of-a-team" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />

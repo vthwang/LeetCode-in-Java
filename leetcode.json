@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 204841,
-	"Updated": "2022-09-11T12:30:10.117643-04:00",
+	"Updated": "2022-09-11T13:34:44.864577-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 128,
+			"Solved": 129,
 			"Total": 970
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 235,
+			"Solved": 236,
 			"Total": 1846
 		}
 	},
@@ -654,7 +654,7 @@
 			"TitleSlug": "insert-interval",
 			"PassRate": "37%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -8231,7 +8231,7 @@
 			"ID": 746,
 			"Title": "Min Cost Climbing Stairs",
 			"TitleSlug": "min-cost-climbing-stairs",
-			"PassRate": "61%",
+			"PassRate": "62%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -8330,7 +8330,7 @@
 			"ID": 755,
 			"Title": "Pour Water",
 			"TitleSlug": "pour-water",
-			"PassRate": "45%",
+			"PassRate": "46%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -21871,7 +21871,7 @@
 			"ID": 1986,
 			"Title": "Minimum Number of Work Sessions to Finish the Tasks",
 			"TitleSlug": "minimum-number-of-work-sessions-to-finish-the-tasks",
-			"PassRate": "33%",
+			"PassRate": "32%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26491,7 +26491,7 @@
 			"ID": 2406,
 			"Title": "Divide Intervals Into Minimum Number of Groups",
 			"TitleSlug": "divide-intervals-into-minimum-number-of-groups",
-			"PassRate": "39%",
+			"PassRate": "40%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
