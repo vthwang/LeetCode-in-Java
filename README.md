@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-199,183-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-243-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-244-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 88 | 136 | 19 | 243 |
+| **Accepted** | 88 | 137 | 19 | 244 |
 | **Total** | 454 | 970 | 422 | 1846 |
-| **Coverage** | 19.38 % | 14.02 % | 4.50 % | 13.16 % |
+| **Coverage** | 19.38 % | 14.12 % | 4.50 % | 13.22 % |
 
 ## Solutions
 
@@ -931,7 +931,7 @@
 |[1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)| * Longest Arithmetic Subsequence of Given Difference|51%|Medium||
 |[1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)| * Minimum Cost to Move Chips to The Same Position|72%|Easy||
 |[1210](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/)| * Minimum Moves to Reach Target with Rotations|48%|Hard||
-|[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)| * Remove All Adjacent Duplicates in String II|55%|Medium||
+|[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)| * Remove All Adjacent Duplicates in String II|56%|Medium||
 |[1208](https://leetcode.com/problems/get-equal-substrings-within-budget/)| * Get Equal Substrings Within Budget|47%|Medium||
 |[1207](https://leetcode.com/problems/unique-number-of-occurrences/)| * Unique Number of Occurrences|71%|Easy||
 |[1206](https://leetcode.com/problems/design-skiplist/)| * Design Skiplist|60%|Hard||
@@ -1826,7 +1826,7 @@
 |[0042](https://leetcode.com/problems/trapping-rain-water/)| * Trapping Rain Water|57%|Hard||
 |[0041](https://leetcode.com/problems/first-missing-positive/)| * First Missing Positive|36%|Hard||
 |[0040](https://leetcode.com/problems/combination-sum-ii/)| * Combination Sum II|53%|Medium||
-|[0039](https://leetcode.com/problems/combination-sum/)| * Combination Sum|67%|Medium||
+|[0039](https://leetcode.com/problems/combination-sum/)|[Combination Sum](./Algorithms/0039.combination-sum)|67%|Medium||
 |[0038](https://leetcode.com/problems/count-and-say/)| * Count and Say|49%|Medium||
 |[0037](https://leetcode.com/problems/sudoku-solver/)| * Sudoku Solver|56%|Hard||
 |[0036](https://leetcode.com/problems/valid-sudoku/)| * Valid Sudoku|56%|Medium||

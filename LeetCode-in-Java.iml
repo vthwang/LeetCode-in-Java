@@ -243,6 +243,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0100.same-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1383.maximum-performance-of-a-team" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0948.bag-of-tokens" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0039.combination-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0227.basic-calculator-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0393.utf-8-validation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0547.number-of-provinces" isTestSource="false" />

@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 199183,
-	"Updated": "2022-09-13T17:30:51.552125-04:00",
+	"Updated": "2022-09-13T17:42:29.297085-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 136,
+			"Solved": 137,
 			"Total": 970
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 243,
+			"Solved": 244,
 			"Total": 1846
 		}
 	},
@@ -456,7 +456,7 @@
 			"TitleSlug": "combination-sum",
 			"PassRate": "67%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -13324,7 +13324,7 @@
 			"ID": 1209,
 			"Title": "Remove All Adjacent Duplicates in String II",
 			"TitleSlug": "remove-all-adjacent-duplicates-in-string-ii",
-			"PassRate": "55%",
+			"PassRate": "56%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
