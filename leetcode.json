@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 199183,
-	"Updated": "2022-09-13T17:12:30.095466-04:00",
+	"Updated": "2022-09-13T17:30:51.552125-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 135,
+			"Solved": 136,
 			"Total": 970
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 242,
+			"Solved": 243,
 			"Total": 1846
 		}
 	},
@@ -10444,7 +10444,7 @@
 			"TitleSlug": "most-stones-removed-with-same-row-or-column",
 			"PassRate": "56%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
