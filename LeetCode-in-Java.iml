@@ -242,6 +242,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0057.insert-interval" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0100.same-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1383.maximum-performance-of-a-team" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0948.bag-of-tokens" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
