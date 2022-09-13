@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 199183,
-	"Updated": "2022-09-13T17:01:17.054361-04:00",
+	"Updated": "2022-09-13T17:12:30.095466-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 134,
+			"Solved": 135,
 			"Total": 970
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 241,
+			"Solved": 242,
 			"Total": 1846
 		}
 	},
@@ -6044,7 +6044,7 @@
 			"TitleSlug": "number-of-provinces",
 			"PassRate": "63%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25017,7 +25017,7 @@
 			"ID": 2272,
 			"Title": "Substring With Largest Variance",
 			"TitleSlug": "substring-with-largest-variance",
-			"PassRate": "37%",
+			"PassRate": "36%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
