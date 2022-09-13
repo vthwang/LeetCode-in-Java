@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 199183,
-	"Updated": "2022-09-13T16:19:59.294891-04:00",
+	"Updated": "2022-09-13T16:36:49.331963-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 132,
+			"Solved": 133,
 			"Total": 970
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 239,
+			"Solved": 240,
 			"Total": 1846
 		}
 	},
@@ -8112,7 +8112,7 @@
 			"TitleSlug": "asteroid-collision",
 			"PassRate": "44%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -23048,7 +23048,7 @@
 			"ID": 2093,
 			"Title": "Minimum Cost to Reach City With Discounts",
 			"TitleSlug": "minimum-cost-to-reach-city-with-discounts",
-			"PassRate": "56%",
+			"PassRate": "55%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25292,7 +25292,7 @@
 			"ID": 2297,
 			"Title": "Jump Game VIII",
 			"TitleSlug": "jump-game-viii",
-			"PassRate": "57%",
+			"PassRate": "56%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25996,7 +25996,7 @@
 			"ID": 2361,
 			"Title": "Minimum Costs Using the Train Line",
 			"TitleSlug": "minimum-costs-using-the-train-line",
-			"PassRate": "80%",
+			"PassRate": "81%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,

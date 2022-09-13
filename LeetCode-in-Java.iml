@@ -244,6 +244,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1383.maximum-performance-of-a-team" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0948.bag-of-tokens" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0393.utf-8-validation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0735.asteroid-collision" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
