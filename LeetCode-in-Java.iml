@@ -250,6 +250,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0735.asteroid-collision" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0947.most-stones-removed-with-same-row-or-column" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1457.pseudo-palindromic-paths-in-a-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2007.find-original-array-from-doubled-array" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
