@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-190,647-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-248-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-249-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 88 | 141 | 19 | 248 |
+| **Accepted** | 88 | 142 | 19 | 249 |
 | **Total** | 454 | 970 | 422 | 1846 |
-| **Coverage** | 19.38 % | 14.54 % | 4.50 % | 13.43 % |
+| **Coverage** | 19.38 % | 14.64 % | 4.50 % | 13.49 % |
 
 ## Solutions
 
@@ -75,7 +75,7 @@
 |[2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)| * Move Pieces to Obtain a String|47%|Medium||
 |[2336](https://leetcode.com/problems/smallest-number-in-infinite-set/)| * Smallest Number in Infinite Set|71%|Medium||
 |[2335](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)| * Minimum Amount of Time to Fill Cups|55%|Easy||
-|[2334](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| * Subarray With Elements Greater Than Varying Threshold|38%|Hard||
+|[2334](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| * Subarray With Elements Greater Than Varying Threshold|39%|Hard||
 |[2333](https://leetcode.com/problems/minimum-sum-of-squared-difference/)| * Minimum Sum of Squared Difference|24%|Medium||
 |[2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/)| * The Latest Time to Catch a Bus|22%|Medium||
 |[2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/)| * Evaluate Boolean Binary Tree|79%|Easy||
@@ -1332,7 +1332,7 @@
 |[0709](https://leetcode.com/problems/to-lower-case/)| * To Lower Case|81%|Easy||
 |[0707](https://leetcode.com/problems/design-linked-list/)| * Design Linked List|27%|Medium||
 |[0706](https://leetcode.com/problems/design-hashmap/)| * Design HashMap|65%|Easy||
-|[0705](https://leetcode.com/problems/design-hashset/)| * Design HashSet|65%|Easy||
+|[0705](https://leetcode.com/problems/design-hashset/)| * Design HashSet|66%|Easy||
 |[0704](https://leetcode.com/problems/binary-search/)|[Binary Search](./Algorithms/0704.binary-search)|55%|Easy||
 |[0703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| * Kth Largest Element in a Stream|55%|Easy||
 |[0701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| * Insert into a Binary Search Tree|74%|Medium||
@@ -1783,7 +1783,7 @@
 |[0085](https://leetcode.com/problems/maximal-rectangle/)| * Maximal Rectangle|43%|Hard||
 |[0084](https://leetcode.com/problems/largest-rectangle-in-histogram/)| * Largest Rectangle in Histogram|41%|Hard||
 |[0083](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Remove Duplicates from Sorted List](./Algorithms/0083.remove-duplicates-from-sorted-list)|49%|Easy||
-|[0082](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| * Remove Duplicates from Sorted List II|45%|Medium||
+|[0082](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Remove Duplicates from Sorted List II](./Algorithms/0082.remove-duplicates-from-sorted-list-ii)|45%|Medium||
 |[0081](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| * Search in Rotated Sorted Array II|35%|Medium||
 |[0080](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| * Remove Duplicates from Sorted Array II|51%|Medium||
 |[0079](https://leetcode.com/problems/word-search/)| * Word Search|39%|Medium||
