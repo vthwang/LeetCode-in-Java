@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 190647,
-	"Updated": "2022-09-16T15:31:46.089421-04:00",
+	"Updated": "2022-09-16T16:02:20.492458-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 454
 		},
 		"Medium": {
-			"Solved": 140,
+			"Solved": 141,
 			"Total": 970
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 422
 		},
 		"Total": {
-			"Solved": 247,
+			"Solved": 248,
 			"Total": 1846
 		}
 	},
@@ -19497,7 +19497,7 @@
 			"TitleSlug": "maximum-score-from-performing-multiplication-operations",
 			"PassRate": "35%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
