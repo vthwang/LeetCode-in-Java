@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 187463,
-	"Updated": "2022-09-17T14:34:12.775717-04:00",
+	"Updated": "2022-09-17T14:45:14.243498-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 455
 		},
 		"Medium": {
-			"Solved": 143,
+			"Solved": 144,
 			"Total": 972
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 423
 		},
 		"Total": {
-			"Solved": 251,
+			"Solved": 252,
 			"Total": 1850
 		}
 	},
@@ -148,7 +148,7 @@
 			"TitleSlug": "container-with-most-water",
 			"PassRate": "54%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
