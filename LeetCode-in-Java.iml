@@ -255,6 +255,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1770.maximum-score-from-performing-multiplication-operations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2007.find-original-array-from-doubled-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0336.palindrome-pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0986.interval-list-intersections" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 187463,
-	"Updated": "2022-09-17T13:34:17.802413-04:00",
+	"Updated": "2022-09-17T14:34:12.775717-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 455
 		},
 		"Medium": {
-			"Solved": 142,
+			"Solved": 143,
 			"Total": 972
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 423
 		},
 		"Total": {
-			"Solved": 250,
+			"Solved": 251,
 			"Total": 1850
 		}
 	},
@@ -10873,7 +10873,7 @@
 			"TitleSlug": "interval-list-intersections",
 			"PassRate": "71%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21695,7 +21695,7 @@
 			"ID": 1970,
 			"Title": "Last Day Where You Can Still Cross",
 			"TitleSlug": "last-day-where-you-can-still-cross",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26524,7 +26524,7 @@
 			"ID": 2409,
 			"Title": "Count Days Spent Together",
 			"TitleSlug": "count-days-spent-together",
-			"PassRate": "35%",
+			"PassRate": "36%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26546,7 +26546,7 @@
 			"ID": 2411,
 			"Title": "Smallest Subarrays With Maximum Bitwise OR",
 			"TitleSlug": "smallest-subarrays-with-maximum-bitwise-or",
-			"PassRate": "27%",
+			"PassRate": "28%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26557,7 +26557,7 @@
 			"ID": 2412,
 			"Title": "Minimum Money Required Before Transactions",
 			"TitleSlug": "minimum-money-required-before-transactions",
-			"PassRate": "29%",
+			"PassRate": "30%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
