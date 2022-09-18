@@ -258,6 +258,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0336.palindrome-pairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0986.interval-list-intersections" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0042.trapping-rain-water" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0713.subarray-product-less-than-k" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
