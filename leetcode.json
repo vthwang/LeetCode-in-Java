@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 184452,
-	"Updated": "2022-09-18T13:55:14.289097-04:00",
+	"Updated": "2022-09-18T14:11:03.109677-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 456
 		},
 		"Medium": {
-			"Solved": 145,
+			"Solved": 146,
 			"Total": 974
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 424
 		},
 		"Total": {
-			"Solved": 254,
+			"Solved": 255,
 			"Total": 1854
 		}
 	},
@@ -2326,7 +2326,7 @@
 			"TitleSlug": "minimum-size-subarray-sum",
 			"PassRate": "44%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -25017,7 +25017,7 @@
 			"ID": 2272,
 			"Title": "Substring With Largest Variance",
 			"TitleSlug": "substring-with-largest-variance",
-			"PassRate": "36%",
+			"PassRate": "37%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
