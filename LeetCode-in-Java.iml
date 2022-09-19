@@ -260,6 +260,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0042.trapping-rain-water" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0209.minimum-size-subarray-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0713.subarray-product-less-than-k" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0609.find-duplicate-file-in-system" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
