@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 180503,
-	"Updated": "2022-09-20T10:23:46.243735-04:00",
+	"Updated": "2022-09-20T11:42:24.887668-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 456
 		},
 		"Medium": {
-			"Solved": 148,
+			"Solved": 149,
 			"Total": 974
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 424
 		},
 		"Total": {
-			"Solved": 257,
+			"Solved": 258,
 			"Total": 1854
 		}
 	},
@@ -1314,7 +1314,7 @@
 			"TitleSlug": "populating-next-right-pointers-in-each-node-ii",
 			"PassRate": "49%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -3270,7 +3270,7 @@
 			"ID": 295,
 			"Title": "Find Median from Data Stream",
 			"TitleSlug": "find-median-from-data-stream",
-			"PassRate": "50%",
+			"PassRate": "51%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -17658,7 +17658,7 @@
 			"ID": 1603,
 			"Title": "Design Parking System",
 			"TitleSlug": "design-parking-system",
-			"PassRate": "88%",
+			"PassRate": "87%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23202,7 +23202,7 @@
 			"ID": 2107,
 			"Title": "Number of Unique Flavors After Sharing K Candies",
 			"TitleSlug": "number-of-unique-flavors-after-sharing-k-candies",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -23697,7 +23697,7 @@
 			"ID": 2152,
 			"Title": "Minimum Number of Lines to Cover Points",
 			"TitleSlug": "minimum-number-of-lines-to-cover-points",
-			"PassRate": "47%",
+			"PassRate": "46%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
