@@ -263,6 +263,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0609.find-duplicate-file-in-system" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0117.populating-next-right-pointers-in-each-node-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0718.maximum-length-of-repeated-subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0985.sum-of-even-numbers-after-queries" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
