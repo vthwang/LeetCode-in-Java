@@ -265,6 +265,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0718.maximum-length-of-repeated-subarray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0985.sum-of-even-numbers-after-queries" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1091.shortest-path-in-binary-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0113.path-sum-ii" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
