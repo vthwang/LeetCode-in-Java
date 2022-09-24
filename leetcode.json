@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 176199,
-	"Updated": "2022-09-24T12:24:52.449845-04:00",
+	"Updated": "2022-09-24T12:34:13.663795-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
@@ -6163,7 +6163,7 @@
 			"ID": 558,
 			"Title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
 			"TitleSlug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
-			"PassRate": "48%",
+			"PassRate": "47%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26612,7 +26612,7 @@
 			"ID": 2417,
 			"Title": "Closest Fair Integer",
 			"TitleSlug": "closest-fair-integer",
-			"PassRate": "50%",
+			"PassRate": "49%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
