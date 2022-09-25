@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 175395,
-	"Updated": "2022-09-25T13:04:26.818664-04:00",
+	"Updated": "2022-09-25T13:27:03.317266-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 457
 		},
 		"Medium": {
-			"Solved": 153,
+			"Solved": 154,
 			"Total": 975
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 426
 		},
 		"Total": {
-			"Solved": 263,
+			"Solved": 264,
 			"Total": 1858
 		}
 	},
@@ -1457,7 +1457,7 @@
 			"TitleSlug": "surrounded-regions",
 			"PassRate": "35%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22300,7 +22300,7 @@
 			"ID": 2025,
 			"Title": "Maximum Number of Ways to Partition an Array",
 			"TitleSlug": "maximum-number-of-ways-to-partition-an-array",
-			"PassRate": "32%",
+			"PassRate": "31%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26128,7 +26128,7 @@
 			"ID": 2373,
 			"Title": "Largest Local Values in a Matrix",
 			"TitleSlug": "largest-local-values-in-a-matrix",
-			"PassRate": "84%",
+			"PassRate": "83%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26579,7 +26579,7 @@
 			"ID": 2414,
 			"Title": "Length of the Longest Alphabetical Continuous Substring",
 			"TitleSlug": "length-of-the-longest-alphabetical-continuous-substring",
-			"PassRate": "55%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26656,7 +26656,7 @@
 			"ID": 2421,
 			"Title": "Number of Good Paths",
 			"TitleSlug": "number-of-good-paths",
-			"PassRate": "24%",
+			"PassRate": "25%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,

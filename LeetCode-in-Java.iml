@@ -267,6 +267,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1091.shortest-path-in-binary-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0113.path-sum-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1680.concatenation-of-consecutive-binary-numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0130.surrounded-regions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0622.design-circular-queue" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
