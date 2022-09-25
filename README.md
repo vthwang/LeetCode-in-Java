@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-175,395-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-264-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-265-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,21 +11,21 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 88 | 154 | 22 | 264 |
+| **Accepted** | 88 | 155 | 22 | 265 |
 | **Total** | 457 | 975 | 426 | 1858 |
-| **Coverage** | 19.26 % | 15.79 % | 5.16 % | 14.21 % |
+| **Coverage** | 19.26 % | 15.90 % | 5.16 % | 14.26 % |
 
 ## Solutions
 
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
 |[2421](https://leetcode.com/problems/number-of-good-paths/)| * Number of Good Paths|25%|Hard||
-|[2420](https://leetcode.com/problems/find-all-good-indices/)| * Find All Good Indices|32%|Medium||
+|[2420](https://leetcode.com/problems/find-all-good-indices/)| * Find All Good Indices|33%|Medium||
 |[2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)| * Longest Subarray With Maximum Bitwise AND|44%|Medium||
 |[2418](https://leetcode.com/problems/sort-the-people/)| * Sort the People|82%|Easy||
 |[2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)| * Sum of Prefix Scores of Strings|41%|Hard||
 |[2415](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)| * Reverse Odd Levels of Binary Tree|75%|Medium||
-|[2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)| * Length of the Longest Alphabetical Continuous Substring|54%|Medium||
+|[2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)| * Length of the Longest Alphabetical Continuous Substring|55%|Medium||
 |[2413](https://leetcode.com/problems/smallest-even-multiple/)| * Smallest Even Multiple|88%|Easy||
 |[2412](https://leetcode.com/problems/minimum-money-required-before-transactions/)| * Minimum Money Required Before Transactions|38%|Hard||
 |[2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/)| * Smallest Subarrays With Maximum Bitwise OR|38%|Medium||
@@ -146,7 +146,7 @@
 |[2262](https://leetcode.com/problems/total-appeal-of-a-string/)| * Total Appeal of A String|57%|Hard||
 |[2261](https://leetcode.com/problems/k-divisible-elements-subarrays/)| * K Divisible Elements Subarrays|47%|Medium||
 |[2260](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)| * Minimum Consecutive Cards to Pick Up|51%|Medium||
-|[2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)| * Remove Digit From Number to Maximize Result|46%|Easy||
+|[2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)| * Remove Digit From Number to Maximize Result|47%|Easy||
 |[2258](https://leetcode.com/problems/escape-the-spreading-fire/)| * Escape the Spreading Fire|34%|Hard||
 |[2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)| * Count Unguarded Cells in the Grid|52%|Medium||
 |[2256](https://leetcode.com/problems/minimum-average-difference/)| * Minimum Average Difference|35%|Medium||
@@ -1269,7 +1269,7 @@
 |[0801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)| * Minimum Swaps To Make Sequences Increasing|39%|Hard||
 |[0799](https://leetcode.com/problems/champagne-tower/)| * Champagne Tower|51%|Medium||
 |[0798](https://leetcode.com/problems/smallest-rotation-with-highest-score/)| * Smallest Rotation with Highest Score|49%|Hard||
-|[0797](https://leetcode.com/problems/all-paths-from-source-to-target/)| * All Paths From Source to Target|81%|Medium||
+|[0797](https://leetcode.com/problems/all-paths-from-source-to-target/)|[All Paths From Source to Target](./Algorithms/0797.all-paths-from-source-to-target)|81%|Medium||
 |[0796](https://leetcode.com/problems/rotate-string/)| * Rotate String|53%|Easy||
 |[0795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)| * Number of Subarrays with Bounded Maximum|52%|Medium||
 |[0794](https://leetcode.com/problems/valid-tic-tac-toe-state/)| * Valid Tic-Tac-Toe State|35%|Medium||

@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 175395,
-	"Updated": "2022-09-25T13:27:03.317266-04:00",
+	"Updated": "2022-09-25T13:57:31.716314-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 457
 		},
 		"Medium": {
-			"Solved": 154,
+			"Solved": 155,
 			"Total": 975
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 426
 		},
 		"Total": {
-			"Solved": 264,
+			"Solved": 265,
 			"Total": 1858
 		}
 	},
@@ -8794,7 +8794,7 @@
 			"TitleSlug": "all-paths-from-source-to-target",
 			"PassRate": "81%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24874,7 +24874,7 @@
 			"ID": 2259,
 			"Title": "Remove Digit From Number to Maximize Result",
 			"TitleSlug": "remove-digit-from-number-to-maximize-result",
-			"PassRate": "46%",
+			"PassRate": "47%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26579,7 +26579,7 @@
 			"ID": 2414,
 			"Title": "Length of the Longest Alphabetical Continuous Substring",
 			"TitleSlug": "length-of-the-longest-alphabetical-continuous-substring",
-			"PassRate": "54%",
+			"PassRate": "55%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26645,7 +26645,7 @@
 			"ID": 2420,
 			"Title": "Find All Good Indices",
 			"TitleSlug": "find-all-good-indices",
-			"PassRate": "32%",
+			"PassRate": "33%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

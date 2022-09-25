@@ -269,6 +269,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1680.concatenation-of-consecutive-binary-numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0130.surrounded-regions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0622.design-circular-queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0797.all-paths-from-source-to-target" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
