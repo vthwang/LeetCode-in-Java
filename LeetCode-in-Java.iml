@@ -271,6 +271,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0622.design-circular-queue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0797.all-paths-from-source-to-target" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0990.satisfiability-of-equality-equations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0838.push-dominoes" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
