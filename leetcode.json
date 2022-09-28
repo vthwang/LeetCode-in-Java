@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 170910,
-	"Updated": "2022-09-28T11:27:30.029936-04:00",
+	"Updated": "2022-09-28T11:47:03.682678-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 457
 		},
 		"Medium": {
-			"Solved": 158,
+			"Solved": 159,
 			"Total": 975
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 426
 		},
 		"Total": {
-			"Solved": 268,
+			"Solved": 269,
 			"Total": 1858
 		}
 	},
@@ -1017,7 +1017,7 @@
 			"TitleSlug": "subsets-ii",
 			"PassRate": "55%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -2797,7 +2797,7 @@
 			"ID": 252,
 			"Title": "Meeting Rooms",
 			"TitleSlug": "meeting-rooms",
-			"PassRate": "57%",
+			"PassRate": "56%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25578,7 +25578,7 @@
 			"ID": 2323,
 			"Title": "Find Minimum Time to Finish All Jobs II",
 			"TitleSlug": "find-minimum-time-to-finish-all-jobs-ii",
-			"PassRate": "75%",
+			"PassRate": "76%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

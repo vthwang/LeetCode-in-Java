@@ -273,6 +273,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0990.satisfiability-of-equality-equations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0838.push-dominoes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0078.subsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0090.subsets-ii" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
