@@ -277,6 +277,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0493.reverse-pairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0658.find-k-closest-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0218.the-skyline-problem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0091.decode-ways" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
