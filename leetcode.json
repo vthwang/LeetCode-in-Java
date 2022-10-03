@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 165958,
-	"Updated": "2022-10-03T12:55:11.198038-04:00",
+	"Updated": "2022-10-03T13:49:23.807825-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 459
 		},
 		"Medium": {
-			"Solved": 163,
+			"Solved": 164,
 			"Total": 979
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 428
 		},
 		"Total": {
-			"Solved": 274,
+			"Solved": 275,
 			"Total": 1866
 		}
 	},
@@ -544,7 +544,7 @@
 			"TitleSlug": "permutations-ii",
 			"PassRate": "56%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22718,7 +22718,7 @@
 			"ID": 2063,
 			"Title": "Vowels of All Substrings",
 			"TitleSlug": "vowels-of-all-substrings",
-			"PassRate": "55%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26700,7 +26700,7 @@
 			"ID": 2425,
 			"Title": "Bitwise XOR of All Pairings",
 			"TitleSlug": "bitwise-xor-of-all-pairings",
-			"PassRate": "55%",
+			"PassRate": "56%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
