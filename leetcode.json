@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 165958,
-	"Updated": "2022-10-03T20:36:38.833775-04:00",
+	"Updated": "2022-10-03T20:58:18.969258-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
 			"Total": 459
 		},
 		"Medium": {
-			"Solved": 165,
+			"Solved": 166,
 			"Total": 979
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 428
 		},
 		"Total": {
-			"Solved": 276,
+			"Solved": 277,
 			"Total": 1866
 		}
 	},
@@ -214,7 +214,7 @@
 			"TitleSlug": "letter-combinations-of-a-phone-number",
 			"PassRate": "55%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -22410,7 +22410,7 @@
 			"ID": 2035,
 			"Title": "Partition Array Into Two Arrays to Minimize Sum Difference",
 			"TitleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
-			"PassRate": "17%",
+			"PassRate": "18%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24060,7 +24060,7 @@
 			"ID": 2185,
 			"Title": "Counting Words With a Given Prefix",
 			"TitleSlug": "counting-words-with-a-given-prefix",
-			"PassRate": "76%",
+			"PassRate": "77%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
