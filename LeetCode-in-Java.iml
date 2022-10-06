@@ -285,6 +285,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0047.permutations-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1578.minimum-time-to-make-rope-colorful" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0623.add-one-row-to-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0981.time-based-key-value-store" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
