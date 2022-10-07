@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 159960,
-	"Updated": "2022-10-07T11:02:43.70785-04:00",
+	"Updated": "2022-10-07T11:32:20.355176-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 88,
@@ -12,11 +12,11 @@
 			"Total": 979
 		},
 		"Hard": {
-			"Solved": 24,
+			"Solved": 25,
 			"Total": 428
 		},
 		"Total": {
-			"Solved": 281,
+			"Solved": 282,
 			"Total": 1866
 		}
 	},
@@ -1851,7 +1851,7 @@
 			"ID": 166,
 			"Title": "Fraction to Recurring Decimal",
 			"TitleSlug": "fraction-to-recurring-decimal",
-			"PassRate": "23%",
+			"PassRate": "24%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -15911,7 +15911,7 @@
 			"TitleSlug": "number-of-ways-of-cutting-a-pizza",
 			"PassRate": "58%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -19781,7 +19781,7 @@
 			"ID": 1796,
 			"Title": "Second Largest Digit in a String",
 			"TitleSlug": "second-largest-digit-in-a-string",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26766,7 +26766,7 @@
 			"ID": 2431,
 			"Title": "Maximize Total Tastiness of Purchased Fruits",
 			"TitleSlug": "maximize-total-tastiness-of-purchased-fruits",
-			"PassRate": "73%",
+			"PassRate": "74%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
