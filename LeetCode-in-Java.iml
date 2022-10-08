@@ -288,6 +288,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0981.time-based-key-value-store" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0732.my-calendar-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1444.number-of-ways-of-cutting-a-pizza" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0002.add-two-numbers" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
