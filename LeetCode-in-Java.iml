@@ -291,6 +291,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0002.add-two-numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0005.longest-palindromic-substring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1328.break-a-palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0334.increasing-triplet-subsequence" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
