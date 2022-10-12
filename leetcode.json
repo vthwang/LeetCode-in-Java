@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 156366,
-	"Updated": "2022-10-11T22:27:50.435051-04:00",
+	"Updated": "2022-10-11T23:51:56.54028-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 88,
+			"Solved": 89,
 			"Total": 460
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 429
 		},
 		"Total": {
-			"Solved": 286,
+			"Solved": 287,
 			"Total": 1870
 		}
 	},
@@ -10761,9 +10761,9 @@
 			"ID": 976,
 			"Title": "Largest Perimeter Triangle",
 			"TitleSlug": "largest-perimeter-triangle",
-			"PassRate": "52%",
+			"PassRate": "53%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -11740,7 +11740,7 @@
 			"ID": 1065,
 			"Title": "Index Pairs of a String",
 			"TitleSlug": "index-pairs-of-a-string",
-			"PassRate": "62%",
+			"PassRate": "63%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -18703,7 +18703,7 @@
 			"ID": 1698,
 			"Title": "Number of Distinct Substrings in a String",
 			"TitleSlug": "number-of-distinct-substrings-in-a-string",
-			"PassRate": "62%",
+			"PassRate": "63%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25699,7 +25699,7 @@
 			"ID": 2334,
 			"Title": "Subarray With Elements Greater Than Varying Threshold",
 			"TitleSlug": "subarray-with-elements-greater-than-varying-threshold",
-			"PassRate": "39%",
+			"PassRate": "40%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26821,7 +26821,7 @@
 			"ID": 2436,
 			"Title": "Minimum Split Into Subarrays With GCD Greater Than One",
 			"TitleSlug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
-			"PassRate": "77%",
+			"PassRate": "82%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

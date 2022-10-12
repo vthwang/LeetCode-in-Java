@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-156,366-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-286-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-287-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 88 | 173 | 25 | 286 |
+| **Accepted** | 89 | 173 | 25 | 287 |
 | **Total** | 460 | 981 | 429 | 1870 |
-| **Coverage** | 19.13 % | 17.64 % | 5.83 % | 15.29 % |
+| **Coverage** | 19.35 % | 17.64 % | 5.83 % | 15.35 % |
 
 ## Solutions
 
@@ -99,7 +99,7 @@
 |[2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)| * Move Pieces to Obtain a String|47%|Medium||
 |[2336](https://leetcode.com/problems/smallest-number-in-infinite-set/)| * Smallest Number in Infinite Set|71%|Medium||
 |[2335](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)| * Minimum Amount of Time to Fill Cups|55%|Easy||
-|[2334](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| * Subarray With Elements Greater Than Varying Threshold|39%|Hard||
+|[2334](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| * Subarray With Elements Greater Than Varying Threshold|40%|Hard||
 |[2333](https://leetcode.com/problems/minimum-sum-of-squared-difference/)| * Minimum Sum of Squared Difference|24%|Medium||
 |[2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/)| * The Latest Time to Catch a Bus|22%|Medium||
 |[2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/)| * Evaluate Boolean Binary Tree|79%|Easy||
@@ -1103,7 +1103,7 @@
 |[0979](https://leetcode.com/problems/distribute-coins-in-binary-tree/)| * Distribute Coins in Binary Tree|72%|Medium||
 |[0978](https://leetcode.com/problems/longest-turbulent-subarray/)| * Longest Turbulent Subarray|47%|Medium||
 |[0977](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares of a Sorted Array](./Algorithms/0977.squares-of-a-sorted-array)|71%|Easy||
-|[0976](https://leetcode.com/problems/largest-perimeter-triangle/)| * Largest Perimeter Triangle|52%|Easy||
+|[0976](https://leetcode.com/problems/largest-perimeter-triangle/)|[Largest Perimeter Triangle](./Algorithms/0976.largest-perimeter-triangle)|53%|Easy||
 |[0975](https://leetcode.com/problems/odd-even-jump/)| * Odd Even Jump|38%|Hard||
 |[0974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)| * Subarray Sums Divisible by K|53%|Medium||
 |[0973](https://leetcode.com/problems/k-closest-points-to-origin/)| * K Closest Points to Origin|65%|Medium||
