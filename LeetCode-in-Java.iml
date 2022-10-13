@@ -293,6 +293,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1328.break-a-palindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0334.increasing-triplet-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0976.largest-perimeter-triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0237.delete-node-in-a-linked-list" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
