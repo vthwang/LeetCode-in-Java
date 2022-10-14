@@ -294,6 +294,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0334.increasing-triplet-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0976.largest-perimeter-triangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0237.delete-node-in-a-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2095.delete-the-middle-node-of-a-linked-list" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
