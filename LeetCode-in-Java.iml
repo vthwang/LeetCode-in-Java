@@ -298,6 +298,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1531.string-compression-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1335.minimum-difficulty-of-a-job-schedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1832.check-if-the-sentence-is-pangram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0038.count-and-say" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
