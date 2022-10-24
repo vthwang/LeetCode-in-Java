@@ -301,6 +301,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0038.count-and-say" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0012.integer-to-roman" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0219.contains-duplicate-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1239.maximum-length-of-a-concatenated-string-with-unique-characters" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
