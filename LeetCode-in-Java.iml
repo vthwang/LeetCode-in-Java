@@ -303,6 +303,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0219.contains-duplicate-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1239.maximum-length-of-a-concatenated-string-with-unique-characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0523.continuous-subarray-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1662.check-if-two-string-arrays-are-equivalent" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
