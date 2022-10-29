@@ -306,6 +306,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1662.check-if-two-string-arrays-are-equivalent" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0835.image-overlap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0049.group-anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2136.earliest-possible-day-of-full-bloom" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
