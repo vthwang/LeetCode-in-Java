@@ -310,6 +310,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1293.shortest-path-in-a-grid-with-obstacles-elimination" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0433.minimum-genetic-mutation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1323.maximum-69-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1544.make-the-string-great" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
