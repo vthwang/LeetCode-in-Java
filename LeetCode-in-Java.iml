@@ -312,6 +312,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1323.maximum-69-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1544.make-the-string-great" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0901.online-stock-span" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1047.remove-all-adjacent-duplicates-in-string" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
