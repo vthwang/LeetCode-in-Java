@@ -315,6 +315,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1047.remove-all-adjacent-duplicates-in-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0026.remove-duplicates-from-sorted-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0295.find-median-from-data-stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0151.reverse-words-in-a-string" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
