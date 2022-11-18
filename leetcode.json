@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 138419,
-	"Updated": "2022-11-17T22:33:13.764759-05:00",
+	"Updated": "2022-11-17T22:42:46.548224-05:00",
 	"Record": {
 		"Easy": {
-			"Solved": 97,
+			"Solved": 98,
 			"Total": 468
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 438
 		},
 		"Total": {
-			"Solved": 315,
+			"Solved": 316,
 			"Total": 1902
 		}
 	},
@@ -2920,7 +2920,7 @@
 			"TitleSlug": "ugly-number",
 			"PassRate": "41%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false

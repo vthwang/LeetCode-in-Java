@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-138,419-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-315-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-316-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 97 | 186 | 32 | 315 |
+| **Accepted** | 98 | 186 | 32 | 316 |
 | **Total** | 468 | 996 | 438 | 1902 |
-| **Coverage** | 20.73 % | 18.67 % | 7.31 % | 16.56 % |
+| **Coverage** | 20.94 % | 18.67 % | 7.31 % | 16.61 % |
 
 ## Solutions
 
@@ -1699,7 +1699,7 @@
 |[0273](https://leetcode.com/problems/integer-to-english-words/)| * Integer to English Words|29%|Hard||
 |[0268](https://leetcode.com/problems/missing-number/)|[Missing Number](./Algorithms/0268.missing-number)|61%|Easy||
 |[0264](https://leetcode.com/problems/ugly-number-ii/)| * Ugly Number II|46%|Medium||
-|[0263](https://leetcode.com/problems/ugly-number/)| * Ugly Number|41%|Easy||
+|[0263](https://leetcode.com/problems/ugly-number/)|[Ugly Number](./Algorithms/0263.ugly-number)|41%|Easy||
 |[0260](https://leetcode.com/problems/single-number-iii/)|[Single Number III](./Algorithms/0260.single-number-iii)|67%|Medium||
 |[0258](https://leetcode.com/problems/add-digits/)| * Add Digits|63%|Easy||
 |[0257](https://leetcode.com/problems/binary-tree-paths/)| * Binary Tree Paths|60%|Easy||
