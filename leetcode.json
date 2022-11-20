@@ -1,23 +1,23 @@
 {
 	"Username": "TingSyuanWang",
-	"Ranking": 137182,
-	"Updated": "2022-11-19T11:06:09.837089-05:00",
+	"Ranking": 136558,
+	"Updated": "2022-11-20T11:34:25.613238-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 98,
-			"Total": 468
+			"Total": 469
 		},
 		"Medium": {
 			"Solved": 186,
-			"Total": 996
+			"Total": 998
 		},
 		"Hard": {
-			"Solved": 33,
-			"Total": 438
+			"Solved": 34,
+			"Total": 439
 		},
 		"Total": {
-			"Solved": 317,
-			"Total": 1902
+			"Solved": 318,
+			"Total": 1906
 		}
 	},
 	"Problems": [
@@ -2491,7 +2491,7 @@
 			"TitleSlug": "basic-calculator",
 			"PassRate": "41%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -4337,7 +4337,7 @@
 			"ID": 392,
 			"Title": "Is Subsequence",
 			"TitleSlug": "is-subsequence",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -6482,7 +6482,7 @@
 			"ID": 587,
 			"Title": "Erect the Fence",
 			"TitleSlug": "erect-the-fence",
-			"PassRate": "49%",
+			"PassRate": "52%",
 			"Difficulty": "Hard",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -11080,7 +11080,7 @@
 			"ID": 1005,
 			"Title": "Maximize Sum Of Array After K Negations",
 			"TitleSlug": "maximize-sum-of-array-after-k-negations",
-			"PassRate": "51%",
+			"PassRate": "50%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -16734,7 +16734,7 @@
 			"ID": 1519,
 			"Title": "Number of Nodes in the Sub-Tree With the Same Label",
 			"TitleSlug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -17955,7 +17955,7 @@
 			"ID": 1630,
 			"Title": "Arithmetic Subarrays",
 			"TitleSlug": "arithmetic-subarrays",
-			"PassRate": "80%",
+			"PassRate": "79%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18505,7 +18505,7 @@
 			"ID": 1680,
 			"Title": "Concatenation of Consecutive Binary Numbers",
 			"TitleSlug": "concatenation-of-consecutive-binary-numbers",
-			"PassRate": "57%",
+			"PassRate": "56%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -22828,7 +22828,7 @@
 			"ID": 2073,
 			"Title": "Time Needed to Buy Tickets",
 			"TitleSlug": "time-needed-to-buy-tickets",
-			"PassRate": "62%",
+			"PassRate": "61%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23092,7 +23092,7 @@
 			"ID": 2097,
 			"Title": "Valid Arrangement of Pairs",
 			"TitleSlug": "valid-arrangement-of-pairs",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -23598,7 +23598,7 @@
 			"ID": 2143,
 			"Title": "Choose Numbers From Two Arrays in Range",
 			"TitleSlug": "choose-numbers-from-two-arrays-in-range",
-			"PassRate": "52%",
+			"PassRate": "51%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -24203,7 +24203,7 @@
 			"ID": 2198,
 			"Title": "Number of Single Divisor Triplets",
 			"TitleSlug": "number-of-single-divisor-triplets",
-			"PassRate": "56%",
+			"PassRate": "55%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26612,7 +26612,7 @@
 			"ID": 2417,
 			"Title": "Closest Fair Integer",
 			"TitleSlug": "closest-fair-integer",
-			"PassRate": "45%",
+			"PassRate": "44%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26810,7 +26810,7 @@
 			"ID": 2435,
 			"Title": "Paths in Matrix Whose Sum Is Divisible by K",
 			"TitleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27085,7 +27085,7 @@
 			"ID": 2460,
 			"Title": "Apply Operations to an Array",
 			"TitleSlug": "apply-operations-to-an-array",
-			"PassRate": "66%",
+			"PassRate": "67%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27184,7 +27184,7 @@
 			"ID": 2469,
 			"Title": "Convert the Temperature",
 			"TitleSlug": "convert-the-temperature",
-			"PassRate": "91%",
+			"PassRate": "90%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27228,12 +27228,67 @@
 			"ID": 2473,
 			"Title": "Minimum Cost to Buy Apples",
 			"TitleSlug": "minimum-cost-to-buy-apples",
-			"PassRate": "73%",
+			"PassRate": "70%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
 			"IsFavor": false,
 			"IsNew": true
+		},
+		{
+			"ID": 0,
+			"Title": "",
+			"TitleSlug": "",
+			"PassRate": "",
+			"Difficulty": "",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2475,
+			"Title": "Number of Unequal Triplets in Array",
+			"TitleSlug": "number-of-unequal-triplets-in-array",
+			"PassRate": "68%",
+			"Difficulty": "Easy",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2476,
+			"Title": "Closest Nodes Queries in a Binary Search Tree",
+			"TitleSlug": "closest-nodes-queries-in-a-binary-search-tree",
+			"PassRate": "37%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2477,
+			"Title": "Minimum Fuel Cost to Report to the Capital",
+			"TitleSlug": "minimum-fuel-cost-to-report-to-the-capital",
+			"PassRate": "49%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2478,
+			"Title": "Number of Beautiful Partitions",
+			"TitleSlug": "number-of-beautiful-partitions",
+			"PassRate": "22%",
+			"Difficulty": "Hard",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
 		}
 	]
 }

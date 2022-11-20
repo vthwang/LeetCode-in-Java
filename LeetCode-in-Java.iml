@@ -321,6 +321,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0223.rectangle-area" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0263.ugly-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0587.erect-the-fence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0224.basic-calculator" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
