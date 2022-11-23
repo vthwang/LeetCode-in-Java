@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
-	"Ranking": 135281,
-	"Updated": "2022-11-22T17:05:56.899024-05:00",
+	"Ranking": 134640,
+	"Updated": "2022-11-23T10:50:24.81814-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 98,
 			"Total": 469
 		},
 		"Medium": {
-			"Solved": 188,
+			"Solved": 189,
 			"Total": 998
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 439
 		},
 		"Total": {
-			"Solved": 320,
+			"Solved": 321,
 			"Total": 1906
 		}
 	},
@@ -421,9 +421,9 @@
 			"ID": 36,
 			"Title": "Valid Sudoku",
 			"TitleSlug": "valid-sudoku",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -7406,7 +7406,7 @@
 			"ID": 671,
 			"Title": "Second Minimum Node In a Binary Tree",
 			"TitleSlug": "second-minimum-node-in-a-binary-tree",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -11080,7 +11080,7 @@
 			"ID": 1005,
 			"Title": "Maximize Sum Of Array After K Negations",
 			"TitleSlug": "maximize-sum-of-array-after-k-negations",
-			"PassRate": "51%",
+			"PassRate": "50%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -14941,7 +14941,7 @@
 			"ID": 1356,
 			"Title": "Sort Integers by The Number of 1 Bits",
 			"TitleSlug": "sort-integers-by-the-number-of-1-bits",
-			"PassRate": "72%",
+			"PassRate": "71%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -17097,7 +17097,7 @@
 			"ID": 1552,
 			"Title": "Magnetic Force Between Two Balls",
 			"TitleSlug": "magnetic-force-between-two-balls",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -21222,7 +21222,7 @@
 			"ID": 1927,
 			"Title": "Sum Game",
 			"TitleSlug": "sum-game",
-			"PassRate": "47%",
+			"PassRate": "46%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -22212,7 +22212,7 @@
 			"ID": 2017,
 			"Title": "Grid Game",
 			"TitleSlug": "grid-game",
-			"PassRate": "42%",
+			"PassRate": "43%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25820,7 +25820,7 @@
 			"ID": 2345,
 			"Title": "Finding the Number of Visible Mountains",
 			"TitleSlug": "finding-the-number-of-visible-mountains",
-			"PassRate": "44%",
+			"PassRate": "43%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26238,7 +26238,7 @@
 			"ID": 2383,
 			"Title": "Minimum Hours of Training to Win a Competition",
 			"TitleSlug": "minimum-hours-of-training-to-win-a-competition",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27228,7 +27228,7 @@
 			"ID": 2473,
 			"Title": "Minimum Cost to Buy Apples",
 			"TitleSlug": "minimum-cost-to-buy-apples",
-			"PassRate": "71%",
+			"PassRate": "69%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -27283,7 +27283,7 @@
 			"ID": 2478,
 			"Title": "Number of Beautiful Partitions",
 			"TitleSlug": "number-of-beautiful-partitions",
-			"PassRate": "27%",
+			"PassRate": "29%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
