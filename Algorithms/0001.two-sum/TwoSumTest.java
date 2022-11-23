@@ -3,6 +3,7 @@ import org.junit.jupiter.api.Test;
 
 public class TwoSumTest {
     TwoSum twoSum = new TwoSum();
+    TwoSum2 twoSum2 = new TwoSum2();
 
     @Test
     void Example1() {
@@ -15,7 +16,7 @@ public class TwoSumTest {
         results = twoSum.twoSum(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
 
-        results = twoSum.twoSum2(nums, target);
+        results = twoSum2.twoSum(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
     }
 
@@ -30,7 +31,7 @@ public class TwoSumTest {
         results = twoSum.twoSum(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
 
-        results = twoSum.twoSum2(nums, target);
+        results = twoSum2.twoSum(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
     }
 
@@ -45,7 +46,7 @@ public class TwoSumTest {
         results = twoSum.twoSum(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
 
-        results = twoSum.twoSum2(nums, target);
+        results = twoSum2.twoSum(nums, target);
         Assertions.assertArrayEquals(expectedResults, results);
     }
 }

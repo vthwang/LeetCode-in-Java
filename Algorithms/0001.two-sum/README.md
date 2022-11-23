@@ -38,12 +38,46 @@ Output: [0,1]
 **Follow-up:** Can you come up with an algorithm that is less than `O(n^2)` time complexity?
 
 ## Solutions
-1. [Brute Force](./TwoSum.java)
-    - Check `twoSum` function.
-    - Runtime: faster than 8%.
-    - Memory usage: less than 61%.
-2. [HashMap](./TwoSum.java)
-    - Check `twoSum2` function.
-    - Start a new empty map. Try to find the complement of the target number. If we can find it, return the map directly. If not, put the number into the Map. After the iteration, if we still can't find the array, return the empty array.
-    - Runtime: faster than 69%.
-    - Memory usage: less than 43%.
+### [Brute Force](./TwoSum.java)
+
+Idea: Select `x` in array and try to find `target - x` in the array.
+
+```java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        for (int i = 0; i < nums.length; i++)
+            for (int j = i + 1; j < nums.length; j++)
+                if (nums[i] + nums[j] == target)
+                    return new int[]{i, j};
+        return new int[]{};
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(N^2)$. $N$ is the number of the elements. The worse case is every element needs to be match once.
+- Space Complexity: $O(1)$.
+
+### [Hash Table](./TwoSum2.java)
+
+Idea: Optimize the time complexity of finding `target - x`. Create a hash table using `target - x` as the key and `index` as the value to enhance the speed of finding `target - x`.
+
+```java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> hashtable = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (hashtable.containsKey(target - nums[i]))
+                return new int[]{hashtable.get(target - nums[i]), i};
+            hashtable.put(nums[i], i);
+        }
+        return new int[]{};
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(N)$. We use $O(1)$ to find `target - x`.
+- Space Complexity: $O(N)$. The main space is used by hash table.
