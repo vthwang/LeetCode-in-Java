@@ -56,7 +56,7 @@ class Solution {
 
 Complexity Analysis:
 
-- Time Complexity: $O(N^2)$. $N$ is the number of the elements. The worse case is every element needs to be match once.
+- Time Complexity: $O(n^2)$. $n$ is the number of the elements. The worse case is every element needs to be match once.
 - Space Complexity: $O(1)$.
 
 ### [Hash Table](./TwoSum2.java)
@@ -79,5 +79,5 @@ class Solution {
 
 Complexity Analysis:
 
-- Time Complexity: $O(N)$. We use $O(1)$ to find `target - x`.
-- Space Complexity: $O(N)$. The main space is used by hash table.
+- Time Complexity: $O(n)$. We use $O(1)$ to find `target - x`.
+- Space Complexity: $O(n)$. The main space is used by hash table.
