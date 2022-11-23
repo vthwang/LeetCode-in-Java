@@ -1,22 +1,24 @@
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Stack;
 
 class ValidParentheses {
     public boolean isValid(String s) {
+        if (s.length() % 2 == 1) return false;
+
+        Map<Character, Character> pairs = new HashMap<>(){{
+            put(')', '(');
+            put(']', '[');
+            put('}', '{');
+        }};
         Stack<Character> stack = new Stack<>();
         for (char c : s.toCharArray()) {
-            if (c == '(' || c == '{' || c == '[') {
-                stack.push(c);
+            if (pairs.containsKey(c)) {
+                if (stack.isEmpty() || stack.peek() != pairs.get(c))
+                    return false;
+                stack.pop();
             } else {
-                if (stack.empty()) {
-                    return false;
-                }
-                char cStack = stack.pop();
-                boolean b1 = c == ')' && cStack != '(';
-                boolean b2 = c == '}' && cStack != '{';
-                boolean b3 = c == ']' && cStack != '[';
-                if (b1 || b2 || b3) {
-                    return false;
-                }
+                stack.push(c);
             }
         }
         return stack.isEmpty();
