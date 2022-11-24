@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
-	"Ranking": 134640,
-	"Updated": "2022-11-23T10:50:24.81814-05:00",
+	"Ranking": 134055,
+	"Updated": "2022-11-24T11:48:40.800599-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 98,
 			"Total": 469
 		},
 		"Medium": {
-			"Solved": 189,
+			"Solved": 190,
 			"Total": 998
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 439
 		},
 		"Total": {
-			"Solved": 321,
+			"Solved": 322,
 			"Total": 1906
 		}
 	},
@@ -839,7 +839,7 @@
 			"ID": 74,
 			"Title": "Search a 2D Matrix",
 			"TitleSlug": "search-a-2d-matrix",
-			"PassRate": "46%",
+			"PassRate": "47%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -894,9 +894,9 @@
 			"ID": 79,
 			"Title": "Word Search",
 			"TitleSlug": "word-search",
-			"PassRate": "39%",
+			"PassRate": "40%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -14149,7 +14149,7 @@
 			"ID": 1284,
 			"Title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
 			"TitleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
-			"PassRate": "71%",
+			"PassRate": "72%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -14941,7 +14941,7 @@
 			"ID": 1356,
 			"Title": "Sort Integers by The Number of 1 Bits",
 			"TitleSlug": "sort-integers-by-the-number-of-1-bits",
-			"PassRate": "71%",
+			"PassRate": "72%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -15106,7 +15106,7 @@
 			"ID": 1371,
 			"Title": "Find the Longest Substring Containing Vowels in Even Counts",
 			"TitleSlug": "find-the-longest-substring-containing-vowels-in-even-counts",
-			"PassRate": "63%",
+			"PassRate": "62%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -19693,7 +19693,7 @@
 			"ID": 1788,
 			"Title": "Maximize the Beauty of the Garden",
 			"TitleSlug": "maximize-the-beauty-of-the-garden",
-			"PassRate": "65%",
+			"PassRate": "66%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -20199,7 +20199,7 @@
 			"ID": 1834,
 			"Title": "Single-Threaded CPU",
 			"TitleSlug": "single-threaded-cpu",
-			"PassRate": "41%",
+			"PassRate": "42%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20518,7 +20518,7 @@
 			"ID": 1863,
 			"Title": "Sum of All Subset XOR Totals",
 			"TitleSlug": "sum-of-all-subset-xor-totals",
-			"PassRate": "78%",
+			"PassRate": "79%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -21519,7 +21519,7 @@
 			"ID": 1954,
 			"Title": "Minimum Garden Perimeter to Collect Enough Apples",
 			"TitleSlug": "minimum-garden-perimeter-to-collect-enough-apples",
-			"PassRate": "52%",
+			"PassRate": "53%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24368,7 +24368,7 @@
 			"ID": 2213,
 			"Title": "Longest Substring of One Repeating Character",
 			"TitleSlug": "longest-substring-of-one-repeating-character",
-			"PassRate": "30%",
+			"PassRate": "31%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24929,7 +24929,7 @@
 			"ID": 2264,
 			"Title": "Largest 3-Same-Digit Number in String",
 			"TitleSlug": "largest-3-same-digit-number-in-string",
-			"PassRate": "58%",
+			"PassRate": "59%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25402,7 +25402,7 @@
 			"ID": 2307,
 			"Title": "Check for Contradictions in Equations",
 			"TitleSlug": "check-for-contradictions-in-equations",
-			"PassRate": "41%",
+			"PassRate": "42%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25820,7 +25820,7 @@
 			"ID": 2345,
 			"Title": "Finding the Number of Visible Mountains",
 			"TitleSlug": "finding-the-number-of-visible-mountains",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -26975,7 +26975,7 @@
 			"ID": 2450,
 			"Title": "Number of Distinct Binary Strings After Applying Operations",
 			"TitleSlug": "number-of-distinct-binary-strings-after-applying-operations",
-			"PassRate": "73%",
+			"PassRate": "74%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -27129,7 +27129,7 @@
 			"ID": 2464,
 			"Title": "Minimum Subarrays in a Valid Split",
 			"TitleSlug": "minimum-subarrays-in-a-valid-split",
-			"PassRate": "60%",
+			"PassRate": "59%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -27233,7 +27233,7 @@
 			"IsAccepted": false,
 			"IsPaid": true,
 			"IsFavor": false,
-			"IsNew": true
+			"IsNew": false
 		},
 		{
 			"ID": 0,
@@ -27289,6 +27289,17 @@
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
+		},
+		{
+			"ID": 2479,
+			"Title": "Maximum XOR of Two Non-Overlapping Subtrees",
+			"TitleSlug": "maximum-xor-of-two-non-overlapping-subtrees",
+			"PassRate": "56%",
+			"Difficulty": "Hard",
+			"IsAccepted": false,
+			"IsPaid": true,
+			"IsFavor": false,
+			"IsNew": true
 		}
 	]
 }
