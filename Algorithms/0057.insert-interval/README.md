@@ -22,6 +22,46 @@ Explanation: Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
 ```
 
 ## Solutions
-1. [Interval](./InsertInterval.java)
-    - Runtime: faster than 10.44%.
-    - Memory usage: less than 47.99%.
+### [Simulation](./InsertInterval.java)
+
+Idea: We just need to deal with the insert interval, the intervals outside the range of insert interval, we just put it in the list. For those intervals within the range of insert interval, we need to merge them together.
+
+```java
+class Solution {
+   public int[][] insert(int[][] intervals, int[] newInterval) {
+      List<int[]> ansList = new ArrayList<>();
+      int i = 0;
+
+      // add all the intervals before newInterval starts
+      while (i < intervals.length && intervals[i][1] < newInterval[0]) {
+         ansList.add(intervals[i]);
+         i++;
+      }
+
+      // merge intervals with the insert interval
+      while (i < intervals.length && intervals[i][0] <= newInterval[1]) {
+         newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
+         newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
+         i++;
+      }
+      ansList.add(newInterval);
+
+      // add the rest of intervals
+      while (i < intervals.length) {
+         ansList.add(intervals[i]);
+         i++;
+      }
+
+      int[][] ans = new int[ansList.size()][2];
+      for (int j = 0; j < ansList.size(); j++)
+         ans[j] = ansList.get(j);
+
+      return ans;
+   }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of intervals.
+- Space Complexity: $O(1)$. We only use extra space for variables.
