@@ -24,6 +24,26 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 ```
 
 ## Solutions
-1. [Greedy](./BestTimeToBuyAndSellStock.java)
-    - Runtime: faster than 54.71%.
-    - Memory usage: less than 10.20%
+### [Loop the Array once](./BestTimeToBuyAndSellStock.java)
+
+Idea: We just record the lowest price when we meet one, then sell it while we found the profit is largest in the array. After we consider all days in the array, we get the maximum profit.
+
+```java
+class Solution {
+   public int maxProfit(int[] prices) {
+      int minPrice = Integer.MAX_VALUE, maxProfit = 0;
+      for (int i = 0; i < prices.length; i++) {
+         if (prices[i] < minPrice)
+            minPrice = prices[i];
+         else if (prices[i] - minPrice > maxProfit)
+            maxProfit = prices[i] - minPrice;
+      }
+      return maxProfit;
+   }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of prices.
+- Space Complexity: $O(1)$. We only use extra space for variables.
