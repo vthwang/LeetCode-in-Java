@@ -1,23 +1,23 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 132777,
-	"Updated": "2022-11-26T10:09:16.0613-05:00",
+	"Updated": "2022-11-26T11:25:54.363969-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 98,
-			"Total": 469
+			"Total": 470
 		},
 		"Medium": {
 			"Solved": 192,
-			"Total": 998
+			"Total": 1000
 		},
 		"Hard": {
-			"Solved": 34,
-			"Total": 439
+			"Solved": 35,
+			"Total": 440
 		},
 		"Total": {
-			"Solved": 324,
-			"Total": 1906
+			"Solved": 325,
+			"Total": 1910
 		}
 	},
 	"Problems": [
@@ -13612,7 +13612,7 @@
 			"TitleSlug": "maximum-profit-in-job-scheduling",
 			"PassRate": "52%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21211,7 +21211,7 @@
 			"ID": 1926,
 			"Title": "Nearest Exit from Entrance in Maze",
 			"TitleSlug": "nearest-exit-from-entrance-in-maze",
-			"PassRate": "48%",
+			"PassRate": "49%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -27300,6 +27300,61 @@
 			"IsPaid": true,
 			"IsFavor": false,
 			"IsNew": true
+		},
+		{
+			"ID": 0,
+			"Title": "",
+			"TitleSlug": "",
+			"PassRate": "",
+			"Difficulty": "",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2481,
+			"Title": "Minimum Cuts to Divide a Circle",
+			"TitleSlug": "minimum-cuts-to-divide-a-circle",
+			"PassRate": "48%",
+			"Difficulty": "Easy",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2482,
+			"Title": "Difference Between Ones and Zeros in Row and Column",
+			"TitleSlug": "difference-between-ones-and-zeros-in-row-and-column",
+			"PassRate": "76%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2483,
+			"Title": "Minimum Penalty for a Shop",
+			"TitleSlug": "minimum-penalty-for-a-shop",
+			"PassRate": "48%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2484,
+			"Title": "Count Palindromic Subsequences",
+			"TitleSlug": "count-palindromic-subsequences",
+			"PassRate": "13%",
+			"Difficulty": "Hard",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
 		}
 	]
 }

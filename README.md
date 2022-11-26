@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-132,777-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-324-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-325-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,14 +11,18 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 98 | 192 | 34 | 324 |
-| **Total** | 469 | 998 | 439 | 1906 |
-| **Coverage** | 20.90 % | 19.24 % | 7.74 % | 17.00 % |
+| **Accepted** | 98 | 192 | 35 | 325 |
+| **Total** | 470 | 1000 | 440 | 1910 |
+| **Coverage** | 20.85 % | 19.20 % | 7.95 % | 17.02 % |
 
 ## Solutions
 
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
+|[2484](https://leetcode.com/problems/count-palindromic-subsequences/)| * Count Palindromic Subsequences|13%|Hard||
+|[2483](https://leetcode.com/problems/minimum-penalty-for-a-shop/)| * Minimum Penalty for a Shop|48%|Medium||
+|[2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)| * Difference Between Ones and Zeros in Row and Column|76%|Medium||
+|[2481](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)| * Minimum Cuts to Divide a Circle|48%|Easy||
 |[2478](https://leetcode.com/problems/number-of-beautiful-partitions/)| * Number of Beautiful Partitions|29%|Hard||
 |[2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)| * Minimum Fuel Cost to Report to the Capital|53%|Medium||
 |[2476](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/)| * Closest Nodes Queries in a Binary Search Tree|40%|Medium||
@@ -452,7 +456,7 @@
 |[1929](https://leetcode.com/problems/concatenation-of-array/)| * Concatenation of Array|91%|Easy||
 |[1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)| * Minimum Cost to Reach Destination in Time|37%|Hard||
 |[1927](https://leetcode.com/problems/sum-game/)| * Sum Game|46%|Medium||
-|[1926](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|[Nearest Exit from Entrance in Maze](./Algorithms/1926.nearest-exit-from-entrance-in-maze)|48%|Medium||
+|[1926](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|[Nearest Exit from Entrance in Maze](./Algorithms/1926.nearest-exit-from-entrance-in-maze)|49%|Medium||
 |[1925](https://leetcode.com/problems/count-square-sum-triples/)| * Count Square Sum Triples|67%|Easy||
 |[1923](https://leetcode.com/problems/longest-common-subpath/)| * Longest Common Subpath|27%|Hard||
 |[1922](https://leetcode.com/problems/count-good-numbers/)| * Count Good Numbers|38%|Medium||
@@ -977,7 +981,7 @@
 |[1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Maximum Length of a Concatenated String with Unique Characters](./Algorithms/1239.maximum-length-of-a-concatenated-string-with-unique-characters)|52%|Medium||
 |[1238](https://leetcode.com/problems/circular-permutation-in-binary-representation/)| * Circular Permutation in Binary Representation|68%|Medium||
 |[1237](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)| * Find Positive Integer Solution for a Given Equation|69%|Medium||
-|[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)| * Maximum Profit in Job Scheduling|52%|Hard||
+|[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Maximum Profit in Job Scheduling](./Algorithms/1235.maximum-profit-in-job-scheduling)|52%|Hard||
 |[1234](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)| * Replace the Substring for Balanced String|36%|Medium||
 |[1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)| * Remove Sub-Folders from the Filesystem|65%|Medium||
 |[1232](https://leetcode.com/problems/check-if-it-is-a-straight-line/)| * Check If It Is a Straight Line|41%|Easy||

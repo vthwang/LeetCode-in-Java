@@ -328,6 +328,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0079.word-search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0238.product-of-array-except-self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0907.sum-of-subarray-minimums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1235.maximum-profit-in-job-scheduling" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
