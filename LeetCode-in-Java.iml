@@ -326,6 +326,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0279.perfect-squares" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0036.valid-sudoku" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0079.word-search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0238.product-of-array-except-self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0907.sum-of-subarray-minimums" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
