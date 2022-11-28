@@ -330,6 +330,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0907.sum-of-subarray-minimums" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1235.maximum-profit-in-job-scheduling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0446.arithmetic-slices-ii-subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2225.find-players-with-zero-or-one-losses" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
