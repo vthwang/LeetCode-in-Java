@@ -17,6 +17,9 @@ public class CombinationSumTest {
         expectedResults.add(Arrays.asList(2, 2, 3));
         expectedResults.add(List.of(7));
 
+        results.sort(new ListComparator<>());
+        expectedResults.sort(new ListComparator<>());
+
         Assertions.assertEquals(expectedResults, results);
     }
 
@@ -30,6 +33,9 @@ public class CombinationSumTest {
         expectedResults.add(Arrays.asList(2, 3, 3));
         expectedResults.add(Arrays.asList(3, 5));
 
+        results.sort(new ListComparator<>());
+        expectedResults.sort(new ListComparator<>());
+
         Assertions.assertEquals(expectedResults, results);
     }
 
@@ -39,6 +45,8 @@ public class CombinationSumTest {
         int target = 1;
         List<List<Integer>> results = CombinationSum.combinationSum(candidates, target);
         List<List<Integer>> expectedResults = new ArrayList<>();
+
+        results.sort(new ListComparator<>());
 
         Assertions.assertEquals(expectedResults, results);
     }

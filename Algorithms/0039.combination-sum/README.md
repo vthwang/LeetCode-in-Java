@@ -32,6 +32,38 @@ Output: []
 ```
 
 ## Solutions
-1. [Backtrack](./CombinationSum.java)
-    - Runtime: faster than 44.33%.
-    - Memory usage: less than 63.80%.
+### [Backtracking](./CombinationSum.java)
+
+Idea: we can define a recursion function called `dfs(target, combine, idx)` to represent how many target do we have, the number are selected in list `combine` and the current position `idx` in candidates. The basic case is target ≤ 0 or candidates are running out.
+
+```java
+class Solution {
+    private void dfs(int[] candidates, int target, List<List<Integer>> ans, List<Integer> combine, int idx) {
+        if (candidates.length == idx)
+            return;
+        if (target == 0) {
+            ans.add(new ArrayList<>(combine));
+            return;
+        }
+        dfs(candidates, target, ans, combine, idx + 1);
+        // choose current number
+        if (target - candidates[idx] >= 0) {
+            combine.add(candidates[idx]);
+            dfs(candidates, target - candidates[idx], ans, combine, idx);
+            combine.remove(combine.size() - 1);
+        }
+    }
+    
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> combine = new ArrayList<>();
+        dfs(candidates, target, ans, combine, 0);
+        return ans;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(S)$. $S$ is the sum of all possible solution. The recursion decides to select the number or not, the upper bound is $O(n \times 2^n)$. The solution is much more faster than this complexity, because it has many conditions and it’s not possible to run all of possibilities. Thus, the time complexity is $O(S)$.
+- Space Complexity: $O(target)$. The space complexity depends on recursion’s depth, so the worst scenario needs to recurse for target levels.

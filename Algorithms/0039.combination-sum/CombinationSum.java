@@ -1,24 +1,27 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 class CombinationSum {
-    private void backtrack(List<List<Integer>> list, List<Integer> tempList, int[] candidates, int remain, int start) {
-        if (remain < 0) return;
-        else if (remain == 0) list.add(new ArrayList<>(tempList));
-        else {
-            for (int i = start; i < candidates.length; i++) {
-                tempList.add(candidates[i]);
-                backtrack(list, tempList, candidates, remain - candidates[i], i);
-                tempList.remove(tempList.size() - 1);
-            }
+    private void dfs(int[] candidates, int target, List<List<Integer>> ans, List<Integer> combine, int idx) {
+        if (candidates.length == idx)
+            return;
+        if (target == 0) {
+            ans.add(new ArrayList<>(combine));
+            return;
+        }
+        dfs(candidates, target, ans, combine, idx + 1);
+        // choose current number
+        if (target - candidates[idx] >= 0) {
+            combine.add(candidates[idx]);
+            dfs(candidates, target - candidates[idx], ans, combine, idx);
+            combine.remove(combine.size() - 1);
         }
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> list = new ArrayList<>();
-        Arrays.sort(candidates);
-        backtrack(list, new ArrayList<>(), candidates, target, 0);
-        return list;
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> combine = new ArrayList<>();
+        dfs(candidates, target, ans, combine, 0);
+        return ans;
     }
 }
