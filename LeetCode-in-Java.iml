@@ -332,6 +332,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0446.arithmetic-slices-ii-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2225.find-players-with-zero-or-one-losses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0380.insert-delete-getrandom-o1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1207.unique-number-of-occurrences" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

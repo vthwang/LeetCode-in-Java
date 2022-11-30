@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 130306,
-	"Updated": "2022-11-29T21:57:46.537727-05:00",
+	"Updated": "2022-11-29T22:53:43.607227-05:00",
 	"Record": {
 		"Easy": {
-			"Solved": 98,
+			"Solved": 99,
 			"Total": 471
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 441
 		},
 		"Total": {
-			"Solved": 328,
+			"Solved": 329,
 			"Total": 1914
 		}
 	},
@@ -13304,7 +13304,7 @@
 			"TitleSlug": "unique-number-of-occurrences",
 			"PassRate": "71%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -27228,7 +27228,7 @@
 			"ID": 2473,
 			"Title": "Minimum Cost to Buy Apples",
 			"TitleSlug": "minimum-cost-to-buy-apples",
-			"PassRate": "67%",
+			"PassRate": "68%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -27404,7 +27404,7 @@
 			"ID": 2489,
 			"Title": "Number of Substrings With Fixed Ratio",
 			"TitleSlug": "number-of-substrings-with-fixed-ratio",
-			"PassRate": "51%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
