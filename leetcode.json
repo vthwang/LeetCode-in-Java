@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 127875,
-	"Updated": "2022-12-03T14:35:23.839625-05:00",
+	"Updated": "2022-12-03T15:27:57.025067-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 100,
@@ -26920,7 +26920,7 @@
 			"ID": 2445,
 			"Title": "Number of Nodes With Value One",
 			"TitleSlug": "number-of-nodes-with-value-one",
-			"PassRate": "75%",
+			"PassRate": "74%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,

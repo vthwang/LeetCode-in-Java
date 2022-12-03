@@ -5,29 +5,17 @@ import java.util.Map;
 
 class SortCharactersByFrequency {
     public String frequencySort(String s) {
-        Map<Character, Integer> frequencyForNum = new HashMap<>();
-        for (char c : s.toCharArray()) {
-            frequencyForNum.put(c, frequencyForNum.getOrDefault(c, 0) + 1);
+        Map<Character, Integer> freq = new HashMap<>();
+        for (char c : s.toCharArray())
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
+
+        List<Character> list = new ArrayList<>(freq.keySet());
+        list.sort((a, b) -> freq.get(b) - freq.get(a));
+        StringBuilder sb = new StringBuilder();
+        for (char c : list) {
+            int frequency = freq.get(c);
+            sb.append(String.valueOf(c).repeat(frequency));
         }
-        List<Character>[] frequencyBucket = new ArrayList[s.length() + 1];
-        for (char c : frequencyForNum.keySet()) {
-            int f = frequencyForNum.get(c);
-            if (frequencyBucket[f] == null) {
-                frequencyBucket[f] = new ArrayList<>();
-            }
-            frequencyBucket[f].add(c);
-        }
-        StringBuilder str = new StringBuilder();
-        for (int i = frequencyBucket.length - 1; i >= 0; i--) {
-            if (frequencyBucket[i] == null) {
-                continue;
-            }
-            for (char c : frequencyBucket[i]) {
-                for (int j = 0; j < i; j++) {
-                    str.append(c);
-                }
-            }
-        }
-        return str.toString();
+        return sb.toString();
     }
 }
