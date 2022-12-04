@@ -1,23 +1,23 @@
 {
 	"Username": "TingSyuanWang",
-	"Ranking": 127875,
-	"Updated": "2022-12-03T15:27:57.025067-05:00",
+	"Ranking": 127347,
+	"Updated": "2022-12-04T09:27:59.346999-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 100,
-			"Total": 471
+			"Total": 472
 		},
 		"Medium": {
-			"Solved": 195,
-			"Total": 1002
+			"Solved": 196,
+			"Total": 1004
 		},
 		"Hard": {
 			"Solved": 36,
-			"Total": 441
+			"Total": 442
 		},
 		"Total": {
-			"Solved": 331,
-			"Total": 1914
+			"Solved": 332,
+			"Total": 1918
 		}
 	},
 	"Problems": [
@@ -8341,7 +8341,7 @@
 			"ID": 756,
 			"Title": "Pyramid Transition Matrix",
 			"TitleSlug": "pyramid-transition-matrix",
-			"PassRate": "53%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -13577,7 +13577,7 @@
 			"ID": 1232,
 			"Title": "Check If It Is a Straight Line",
 			"TitleSlug": "check-if-it-is-a-straight-line",
-			"PassRate": "41%",
+			"PassRate": "40%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -15337,7 +15337,7 @@
 			"ID": 1392,
 			"Title": "Longest Happy Prefix",
 			"TitleSlug": "longest-happy-prefix",
-			"PassRate": "44%",
+			"PassRate": "45%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -16052,7 +16052,7 @@
 			"ID": 1457,
 			"Title": "Pseudo-Palindromic Paths in a Binary Tree",
 			"TitleSlug": "pseudo-palindromic-paths-in-a-binary-tree",
-			"PassRate": "68%",
+			"PassRate": "67%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -19979,7 +19979,7 @@
 			"ID": 1814,
 			"Title": "Count Nice Pairs in an Array",
 			"TitleSlug": "count-nice-pairs-in-an-array",
-			"PassRate": "41%",
+			"PassRate": "42%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -22729,7 +22729,7 @@
 			"ID": 2064,
 			"Title": "Minimized Maximum of Products Distributed to Any Store",
 			"TitleSlug": "minimized-maximum-of-products-distributed-to-any-store",
-			"PassRate": "49%",
+			"PassRate": "50%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -22894,7 +22894,7 @@
 			"ID": 2079,
 			"Title": "Watering Plants",
 			"TitleSlug": "watering-plants",
-			"PassRate": "80%",
+			"PassRate": "79%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24027,7 +24027,7 @@
 			"ID": 2182,
 			"Title": "Construct String With Repeat Limit",
 			"TitleSlug": "construct-string-with-repeat-limit",
-			"PassRate": "51%",
+			"PassRate": "52%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24841,9 +24841,9 @@
 			"ID": 2256,
 			"Title": "Minimum Average Difference",
 			"TitleSlug": "minimum-average-difference",
-			"PassRate": "35%",
+			"PassRate": "42%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24995,7 +24995,7 @@
 			"ID": 2270,
 			"Title": "Number of Ways to Split Array",
 			"TitleSlug": "number-of-ways-to-split-array",
-			"PassRate": "44%",
+			"PassRate": "45%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26612,7 +26612,7 @@
 			"ID": 2417,
 			"Title": "Closest Fair Integer",
 			"TitleSlug": "closest-fair-integer",
-			"PassRate": "45%",
+			"PassRate": "44%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -27085,7 +27085,7 @@
 			"ID": 2460,
 			"Title": "Apply Operations to an Array",
 			"TitleSlug": "apply-operations-to-an-array",
-			"PassRate": "66%",
+			"PassRate": "67%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27349,7 +27349,7 @@
 			"ID": 2484,
 			"Title": "Count Palindromic Subsequences",
 			"TitleSlug": "count-palindromic-subsequences",
-			"PassRate": "28%",
+			"PassRate": "29%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27410,6 +27410,50 @@
 			"IsPaid": true,
 			"IsFavor": false,
 			"IsNew": true
+		},
+		{
+			"ID": 2490,
+			"Title": "Circular Sentence",
+			"TitleSlug": "circular-sentence",
+			"PassRate": "62%",
+			"Difficulty": "Easy",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2491,
+			"Title": "Divide Players Into Teams of Equal Skill",
+			"TitleSlug": "divide-players-into-teams-of-equal-skill",
+			"PassRate": "57%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2492,
+			"Title": "Minimum Score of a Path Between Two Cities",
+			"TitleSlug": "minimum-score-of-a-path-between-two-cities",
+			"PassRate": "41%",
+			"Difficulty": "Medium",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
+		},
+		{
+			"ID": 2493,
+			"Title": "Divide Nodes Into the Maximum Number of Groups",
+			"TitleSlug": "divide-nodes-into-the-maximum-number-of-groups",
+			"PassRate": "29%",
+			"Difficulty": "Hard",
+			"IsAccepted": false,
+			"IsPaid": false,
+			"IsFavor": false,
+			"IsNew": false
 		}
 	]
 }

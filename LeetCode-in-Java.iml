@@ -336,6 +336,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1704.determine-if-string-halves-are-alike" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1657.determine-if-two-strings-are-close" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/Queue2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2256.minimum-average-difference" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
