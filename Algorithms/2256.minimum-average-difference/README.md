@@ -121,4 +121,4 @@ class Solution {
 Complexity Analysis:
 
 - Time Complexity: $O(n)$. $n$ is the length of `nums` array.
-- Space Complexity: $O(1)$$O(n)$. We only used some integer variables. The space complexity is constant.
+- Space Complexity: $O(1)$. We only used some integer variables. The space complexity is constant.
