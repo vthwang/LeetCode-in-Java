@@ -8,14 +8,20 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class MiddleOfTheLinkedList {
+class MiddleOfTheLinkedList2 {
     public ListNode middleNode(ListNode head) {
-        ListNode[] a = new ListNode[100];
         int cnt = 0;
-        while (head != null) {
-            a[cnt++] = head;
-            head = head.next;
+        ListNode curr = head;
+        while (curr != null) {
+            cnt++;
+            curr = curr.next;
         }
-        return a[cnt / 2];
+        int i = 0;
+        curr = head;
+        while (i < cnt / 2) {
+            i++;
+            curr = curr.next;
+        }
+        return curr;
     }
 }

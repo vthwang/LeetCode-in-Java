@@ -25,6 +25,77 @@ Explanation: Since the list has two middle nodes with values 3 and 4, we return 
 ```
 
 ## Solutions
-1. [LinkedList](./MiddleOfTheLinkedList.java)
-    - Runtime: faster than 100%.
-    - Memory usage: less than 55.81%.
+### [Array](./MiddleOfTheLinkedList.java)
+
+Idea: Save the head into array one by one, then return the middle ListNode.
+
+```java
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        ListNode[] a = new ListNode[100];
+        int cnt = 0;
+        while (head != null) {
+            a[cnt++] = head;
+            head = head.next;
+        }
+        return a[cnt / 2];
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of the LinkedList.
+- Space Complexity: $O(n)$.
+
+### [Single Pointer](./MiddleOfTheLinkedList2.java)
+
+Idea: we can iterate loop twice and get the middle point. In the second iteration, return the expected LinkedList.
+
+```java
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        int cnt = 0;
+        ListNode curr = head;
+        while (curr != null) {
+            cnt++;
+            curr = curr.next;
+        }
+        int i = 0;
+        curr = head;
+        while (i < cnt / 2) {
+            i++;
+            curr = curr.next;
+        }
+        return curr;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of the LinkedList.
+- Space Complexity: $O(1)$.
+
+### [Two Pointers](./MiddleOfTheLinkedList3.java)
+
+Idea: Use two pointers, `slow` and `fast`. `slow` takes one step at a time and `fast` takes two steps at a time. When `fast` is in the end, `slow` must be in the middle.
+
+```java
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of the LinkedList.
+- Space Complexity: $O(1)$.
