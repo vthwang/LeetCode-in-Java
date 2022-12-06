@@ -27,6 +27,29 @@ Output: [2,3,6,7,1,5,4]
 ```
 
 ## Solutions
-1. [Brute force](./SplitLinkedListInParts.java)
-    - Runtime: faster than 25.61%.
-    - Memory usage: less than 48.49%.
+### [LinkedList](./OddEvenLinkedList.java)
+
+Idea: If the linkedList is empty, return empty directly. Create two pointers which point to odd and even list node respectively. Eventually, connect them together and return.
+
+```java
+class Solution {
+    public ListNode oddEvenList(ListNode head) {
+        if (head == null) return null;
+        ListNode evenHead = head.next;
+        ListNode odd = head, even = evenHead;
+        while (even != null && even.next != null) {
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
+        }
+        odd.next = evenHead;
+        return head;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of LinkedList.
+- Space Complexity: $O(1)$. We only maintain constant pointers.
