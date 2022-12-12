@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 124759,
-	"Updated": "2022-12-12T15:54:35.084164-05:00",
+	"Updated": "2022-12-12T17:28:49.771705-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 102,
@@ -27470,7 +27470,7 @@
 			"ID": 2495,
 			"Title": "Number of Subarrays Having Even Product",
 			"TitleSlug": "number-of-subarrays-having-even-product",
-			"PassRate": "70%",
+			"PassRate": "71%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
