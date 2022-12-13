@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-124,759-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-337-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-338-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 102 | 198 | 37 | 337 |
+| **Accepted** | 102 | 199 | 37 | 338 |
 | **Total** | 474 | 1008 | 444 | 1926 |
-| **Coverage** | 21.52 % | 19.64 % | 8.33 % | 17.50 % |
+| **Coverage** | 21.52 % | 19.74 % | 8.33 % | 17.55 % |
 
 ## Solutions
 
@@ -1204,7 +1204,7 @@
 |[0934](https://leetcode.com/problems/shortest-bridge/)| * Shortest Bridge|54%|Medium||
 |[0933](https://leetcode.com/problems/number-of-recent-calls/)| * Number of Recent Calls|73%|Easy||
 |[0932](https://leetcode.com/problems/beautiful-array/)| * Beautiful Array|65%|Medium||
-|[0931](https://leetcode.com/problems/minimum-falling-path-sum/)| * Minimum Falling Path Sum|68%|Medium||
+|[0931](https://leetcode.com/problems/minimum-falling-path-sum/)|[Minimum Falling Path Sum](./Algorithms/0931.minimum-falling-path-sum)|68%|Medium||
 |[0930](https://leetcode.com/problems/binary-subarrays-with-sum/)| * Binary Subarrays With Sum|51%|Medium||
 |[0929](https://leetcode.com/problems/unique-email-addresses/)| * Unique Email Addresses|67%|Easy||
 |[0928](https://leetcode.com/problems/minimize-malware-spread-ii/)| * Minimize Malware Spread II|42%|Hard||

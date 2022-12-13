@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 124759,
-	"Updated": "2022-12-12T17:28:49.771705-05:00",
+	"Updated": "2022-12-12T20:41:22.483565-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 102,
 			"Total": 474
 		},
 		"Medium": {
-			"Solved": 198,
+			"Solved": 199,
 			"Total": 1008
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 444
 		},
 		"Total": {
-			"Solved": 337,
+			"Solved": 338,
 			"Total": 1926
 		}
 	},
@@ -10268,7 +10268,7 @@
 			"TitleSlug": "minimum-falling-path-sum",
 			"PassRate": "68%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
