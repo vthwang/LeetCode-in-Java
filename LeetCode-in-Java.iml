@@ -341,6 +341,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0872.leaf-similar-trees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0931.minimum-falling-path-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1026.maximum-difference-between-node-and-ancestor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1143.longest-common-subsequence" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
