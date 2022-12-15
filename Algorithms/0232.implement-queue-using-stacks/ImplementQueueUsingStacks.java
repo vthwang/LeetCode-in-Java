@@ -1,37 +1,38 @@
 import java.util.Stack;
 
 class MyQueue {
-    private Stack<Integer> in = new Stack<>();
-    private Stack<Integer> out = new Stack<>();
+    Stack<Integer> inStack;
+    Stack<Integer> outStack;
 
     public MyQueue() {
-        
+        inStack = new Stack<>();
+        outStack = new Stack<>();
     }
     
     public void push(int x) {
-        in.push(x);
-    }
-
-    private void in2out() {
-        if (out.isEmpty()) {
-            while (!in.isEmpty()) {
-                out.push(in.pop());
-            }
-        }
+        inStack.push(x);
     }
     
     public int pop() {
         in2out();
-        return out.pop();
+        return outStack.pop();
     }
-    
+
     public int peek() {
         in2out();
-        return out.peek();
+        return outStack.peek();
     }
-    
+
     public boolean empty() {
-        return in.isEmpty() && out.isEmpty();
+        return inStack.isEmpty() && outStack.isEmpty();
+    }
+
+    private void in2out() {
+        if (outStack.isEmpty()) {
+            while (!inStack.isEmpty()) {
+                outStack.push(inStack.pop());
+            }
+        }
     }
 }
 

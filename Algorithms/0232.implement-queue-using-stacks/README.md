@@ -33,6 +33,49 @@ myQueue.empty(); // return false
 ```
 
 ## Solutions
-1. [Stack](./ImplementQueueUsingStacks.java)
-    - Runtime: faster than 54.42%.
-    - Memory usage: less than 63.39%.
+### [Two stacks](ImplementQueueUsingStacks.java)
+
+Idea: Create two stacks, one is output stack and one is input stack. When push data, put data into input stack. When pop and peek, get data into output stack. Every time, we pop or peek, we need to check the output stack is empty or not. If it’s empty, move data from the input stack.
+
+```java
+class MyQueue {
+    Stack<Integer> inStack;
+    Stack<Integer> outStack;
+
+    public MyQueue() {
+        inStack = new Stack<>();
+        outStack = new Stack<>();
+    }
+    
+    public void push(int x) {
+        inStack.push(x);
+    }
+    
+    public int pop() {
+        in2out();
+        return outStack.pop();
+    }
+
+    public int peek() {
+        in2out();
+        return outStack.peek();
+    }
+
+    public boolean empty() {
+        return inStack.isEmpty() && outStack.isEmpty();
+    }
+
+    private void in2out() {
+        if (outStack.isEmpty()) {
+            while (!inStack.isEmpty()) {
+                outStack.push(inStack.pop());
+            }
+        }
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(1)$. push and empty are $O(1)$ and pop and peek are $O(1)$ in average. For each element, it will push and pop to the stacks twice, so the average time complexity is $O(1)$.
+- Space Complexity: $O(n)$. $n$ is the size of the elements. We have $n$ elements in queue, so the space complexity is $O(n)$.
