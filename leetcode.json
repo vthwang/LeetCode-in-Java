@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 123352,
-	"Updated": "2022-12-19T13:47:29.13759-05:00",
+	"Updated": "2022-12-19T14:20:36.367458-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 102,
@@ -17977,7 +17977,7 @@
 			"ID": 1632,
 			"Title": "Rank Transform of a Matrix",
 			"TitleSlug": "rank-transform-of-a-matrix",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
