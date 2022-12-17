@@ -24,6 +24,29 @@ Output: [1,1,0]
 ```
 
 ## Solutions
-1. [Stack](./DailyTemperatures.java)
-    - Runtime: faster than 58.69%.
-    - Memory usage: less than 14.93%.
+### [Monotonic Stack](DailyTemperatures.java)
+
+Idea: We will save the temperatures into stack with descending order. (That’s the reason why it’s called monotonic stack.) Since the monotonic stack satisfies the decreasing temperature corresponding to the elements from the bottom to the top of the stack, each time an element enters the stack, all elements with lower temperatures are removed and the number of waiting days corresponding to the outgoing elements is updated, which ensures that the number of waiting days must be the minimum.
+
+```java
+class Solution {
+    public int[] dailyTemperatures(int[] temperatures) {
+        int n = temperatures.length;
+        int[] ans = new int[n];
+        Stack<Integer> stack = new Stack<>();
+        for (int i = 0; i < n; i++) {
+            while (!stack.isEmpty() && temperatures[i] > temperatures[stack.peek()]) {
+                int preIndex = stack.pop();
+                ans[preIndex] = i - preIndex;
+            }
+            stack.push(i);
+        }
+        return ans;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of temperatures.
+- Space Complexity: $O(n)$. We use stack to $n$ elements.
