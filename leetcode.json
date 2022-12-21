@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 122783,
-	"Updated": "2022-12-20T19:21:16.050104-05:00",
+	"Updated": "2022-12-20T20:06:05.977594-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 103,
 			"Total": 475
 		},
 		"Medium": {
-			"Solved": 202,
+			"Solved": 203,
 			"Total": 1009
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 446
 		},
 		"Total": {
-			"Solved": 342,
+			"Solved": 343,
 			"Total": 1930
 		}
 	},
@@ -9773,7 +9773,7 @@
 			"TitleSlug": "possible-bipartition",
 			"PassRate": "48%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
