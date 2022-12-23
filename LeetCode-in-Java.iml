@@ -346,6 +346,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1971.find-if-path-exists-in-graph" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0841.keys-and-rooms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0886.possible-bipartition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0834.sum-of-distances-in-tree" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
