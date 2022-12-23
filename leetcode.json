@@ -1,22 +1,22 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 121690,
-	"Updated": "2022-12-22T14:40:41.65845-05:00",
+	"Updated": "2022-12-22T21:47:34.9312-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 103,
 			"Total": 475
 		},
 		"Medium": {
-			"Solved": 203,
+			"Solved": 204,
 			"Total": 1009
 		},
 		"Hard": {
-			"Solved": 37,
+			"Solved": 38,
 			"Total": 446
 		},
 		"Total": {
-			"Solved": 343,
+			"Solved": 345,
 			"Total": 1930
 		}
 	},
@@ -3426,7 +3426,7 @@
 			"TitleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
 			"PassRate": "54%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -8803,7 +8803,7 @@
 			"ID": 798,
 			"Title": "Smallest Rotation with Highest Score",
 			"TitleSlug": "smallest-rotation-with-highest-score",
-			"PassRate": "50%",
+			"PassRate": "49%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -9199,9 +9199,9 @@
 			"ID": 834,
 			"Title": "Sum of Distances in Tree",
 			"TitleSlug": "sum-of-distances-in-tree",
-			"PassRate": "58%",
+			"PassRate": "59%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -10134,7 +10134,7 @@
 			"ID": 919,
 			"Title": "Complete Binary Tree Inserter",
 			"TitleSlug": "complete-binary-tree-inserter",
-			"PassRate": "65%",
+			"PassRate": "64%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25666,7 +25666,7 @@
 			"ID": 2331,
 			"Title": "Evaluate Boolean Binary Tree",
 			"TitleSlug": "evaluate-boolean-binary-tree",
-			"PassRate": "79%",
+			"PassRate": "78%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -26524,7 +26524,7 @@
 			"ID": 2409,
 			"Title": "Count Days Spent Together",
 			"TitleSlug": "count-days-spent-together",
-			"PassRate": "43%",
+			"PassRate": "42%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27635,7 +27635,7 @@
 			"ID": 2510,
 			"Title": "Check if There is a Path With Equal Number of 0's And 1's",
 			"TitleSlug": "check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
-			"PassRate": "66%",
+			"PassRate": "65%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
