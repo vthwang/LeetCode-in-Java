@@ -348,6 +348,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0886.possible-bipartition" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0834.sum-of-distances-in-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0309.best-time-to-buy-and-sell-stock-with-cooldown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0790.domino-and-tromino-tiling" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
