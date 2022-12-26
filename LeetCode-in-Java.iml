@@ -350,6 +350,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0309.best-time-to-buy-and-sell-stock-with-cooldown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0790.domino-and-tromino-tiling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2389.longest-subsequence-with-limited-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0055.jump-game" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
