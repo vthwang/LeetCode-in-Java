@@ -351,6 +351,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0790.domino-and-tromino-tiling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2389.longest-subsequence-with-limited-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0055.jump-game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2279.maximum-bags-with-full-capacity-of-rocks" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
