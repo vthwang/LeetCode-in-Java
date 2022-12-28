@@ -352,6 +352,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2389.longest-subsequence-with-limited-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0055.jump-game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2279.maximum-bags-with-full-capacity-of-rocks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1962.remove-stones-to-minimize-the-total" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

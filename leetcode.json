@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
-	"Ranking": 119081,
-	"Updated": "2022-12-27T14:53:48.486708-05:00",
+	"Ranking": 118600,
+	"Updated": "2022-12-28T14:52:52.232224-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 104,
 			"Total": 477
 		},
 		"Medium": {
-			"Solved": 207,
+			"Solved": 208,
 			"Total": 1013
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 448
 		},
 		"Total": {
-			"Solved": 349,
+			"Solved": 350,
 			"Total": 1938
 		}
 	},
@@ -8088,7 +8088,7 @@
 			"ID": 733,
 			"Title": "Flood Fill",
 			"TitleSlug": "flood-fill",
-			"PassRate": "60%",
+			"PassRate": "61%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -8902,7 +8902,7 @@
 			"ID": 807,
 			"Title": "Max Increase to Keep City Skyline",
 			"TitleSlug": "max-increase-to-keep-city-skyline",
-			"PassRate": "85%",
+			"PassRate": "86%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -21013,7 +21013,7 @@
 			"ID": 1908,
 			"Title": "Game of Nim",
 			"TitleSlug": "game-of-nim",
-			"PassRate": "56%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -21607,9 +21607,9 @@
 			"ID": 1962,
 			"Title": "Remove Stones to Minimize the Total",
 			"TitleSlug": "remove-stones-to-minimize-the-total",
-			"PassRate": "59%",
+			"PassRate": "60%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -21981,7 +21981,7 @@
 			"ID": 1996,
 			"Title": "The Number of Weak Characters in the Game",
 			"TitleSlug": "the-number-of-weak-characters-in-the-game",
-			"PassRate": "43%",
+			"PassRate": "44%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -23092,7 +23092,7 @@
 			"ID": 2097,
 			"Title": "Valid Arrangement of Pairs",
 			"TitleSlug": "valid-arrangement-of-pairs",
-			"PassRate": "41%",
+			"PassRate": "40%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -24962,7 +24962,7 @@
 			"ID": 2267,
 			"Title": " Check if There Is a Valid Parentheses String Path",
 			"TitleSlug": "check-if-there-is-a-valid-parentheses-string-path",
-			"PassRate": "38%",
+			"PassRate": "37%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25325,7 +25325,7 @@
 			"ID": 2300,
 			"Title": "Successful Pairs of Spells and Potions",
 			"TitleSlug": "successful-pairs-of-spells-and-potions",
-			"PassRate": "31%",
+			"PassRate": "32%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25798,7 +25798,7 @@
 			"ID": 2343,
 			"Title": "Query Kth Smallest Trimmed Number",
 			"TitleSlug": "query-kth-smallest-trimmed-number",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27437,7 +27437,7 @@
 			"ID": 2492,
 			"Title": "Minimum Score of a Path Between Two Cities",
 			"TitleSlug": "minimum-score-of-a-path-between-two-cities",
-			"PassRate": "46%",
+			"PassRate": "45%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27558,7 +27558,7 @@
 			"ID": 2503,
 			"Title": "Maximum Number of Points From Grid Queries",
 			"TitleSlug": "maximum-number-of-points-from-grid-queries",
-			"PassRate": "36%",
+			"PassRate": "35%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27668,7 +27668,7 @@
 			"ID": 2513,
 			"Title": "Minimize the Maximum of Two Arrays",
 			"TitleSlug": "minimize-the-maximum-of-two-arrays",
-			"PassRate": "22%",
+			"PassRate": "23%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27679,7 +27679,7 @@
 			"ID": 2514,
 			"Title": "Count Anagrams",
 			"TitleSlug": "count-anagrams",
-			"PassRate": "31%",
+			"PassRate": "32%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27723,12 +27723,23 @@
 			"ID": 2518,
 			"Title": "Number of Great Partitions",
 			"TitleSlug": "number-of-great-partitions",
-			"PassRate": "31%",
+			"PassRate": "32%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
+		},
+		{
+			"ID": 2519,
+			"Title": "Count the Number of K-Big Indices",
+			"TitleSlug": "count-the-number-of-k-big-indices",
+			"PassRate": "74%",
+			"Difficulty": "Hard",
+			"IsAccepted": false,
+			"IsPaid": true,
+			"IsFavor": false,
+			"IsNew": true
 		}
 	]
 }
