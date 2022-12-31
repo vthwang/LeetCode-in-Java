@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 117537,
-	"Updated": "2022-12-30T19:14:17.561595-05:00",
+	"Updated": "2022-12-30T20:25:10.742424-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 104,
@@ -12,11 +12,11 @@
 			"Total": 1013
 		},
 		"Hard": {
-			"Solved": 38,
+			"Solved": 39,
 			"Total": 448
 		},
 		"Total": {
-			"Solved": 351,
+			"Solved": 352,
 			"Total": 1938
 		}
 	},
@@ -773,7 +773,7 @@
 			"ID": 68,
 			"Title": "Text Justification",
 			"TitleSlug": "text-justification",
-			"PassRate": "36%",
+			"PassRate": "37%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -10807,7 +10807,7 @@
 			"TitleSlug": "unique-paths-iii",
 			"PassRate": "79%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -26821,7 +26821,7 @@
 			"ID": 2436,
 			"Title": "Minimum Split Into Subarrays With GCD Greater Than One",
 			"TitleSlug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
-			"PassRate": "76%",
+			"PassRate": "77%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -27734,7 +27734,7 @@
 			"ID": 2519,
 			"Title": "Count the Number of K-Big Indices",
 			"TitleSlug": "count-the-number-of-k-big-indices",
-			"PassRate": "74%",
+			"PassRate": "73%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
