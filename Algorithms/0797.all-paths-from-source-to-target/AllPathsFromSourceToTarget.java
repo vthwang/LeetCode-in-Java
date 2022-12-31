@@ -1,28 +1,27 @@
+import java.util.ArrayDeque;
 import java.util.ArrayList;
-import java.util.LinkedList;
+import java.util.Deque;
 import java.util.List;
-import java.util.Queue;
 
 class AllPathsFromSourceToTarget {
+    List<List<Integer>> ans = new ArrayList<>();
+    Deque<Integer> stack = new ArrayDeque<>();
+
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
-        List<List<Integer>> res = new ArrayList<>();
-        Queue<List<Integer>> q = new LinkedList<>();
-        List<Integer> currList = new ArrayList<>();
-        currList.add(0);
-        q.add(currList);
-        while (!q.isEmpty()) {
-            currList = q.poll();
-            int v = currList.get(currList.size() - 1);
-            if (v == graph.length - 1) {
-                res.add(currList);
-                continue;
-            }
-            for (int i : graph[v]) {
-                List<Integer> temp = new ArrayList<>(currList);
-                temp.add(i);
-                q.add(temp);
-            }
+        stack.offerLast(0);
+        dfs(graph, 0, graph.length - 1);
+        return ans;
+    }
+
+    private void dfs(int[][] graph, int x, int n) {
+        if (x == n) {
+            ans.add(new ArrayList<>(stack));
+            return;
         }
-        return res;
+        for (int y : graph[x]) {
+            stack.offerLast(y);
+            dfs(graph, y, n);
+            stack.pollLast();
+        }
     }
 }

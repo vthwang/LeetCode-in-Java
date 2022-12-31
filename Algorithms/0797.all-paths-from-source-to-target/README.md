@@ -24,6 +24,36 @@ Output: [[0,4],[0,3,4],[0,1,3,4],[0,1,2,3,4],[0,1,4]]
 ```
 
 ## Solutions
-1. [BFS](./AllPathsFromSourceToTarget.java)
-    - Runtime: faster than 5.28%.
-    - Memory usage: less than 70.77%.
+### [DFS](AllPathsFromSourceToTarget.java)
+
+Idea: Iterate all nodes to find all paths. When we met the final nodes, we save the path to the answer list.
+
+```java
+class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
+    Deque<Integer> stack = new ArrayDeque<>();
+
+    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
+        stack.offerLast(0);
+        dfs(graph, 0, graph.length - 1);
+        return ans;
+    }
+
+    private void dfs(int[][] graph, int x, int n) {
+        if (x == n) {
+            ans.add(new ArrayList<>(stack));
+            return;
+        }
+        for (int y : graph[x]) {
+            stack.offerLast(y);
+            dfs(graph, y, n);
+            stack.pollLast();
+        }
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n\times 2^n)$. $n$ is the number of nodes. The worst case scenario is every nodes can connect to all the larger nodes. The number of path is $O(2^n)$ and the path is $O(n)$. Thus, the total time complexity is $O(n\times 2^n)$.
+- Space Complexity: $O(n)$. The stack costs $O(n)$.
