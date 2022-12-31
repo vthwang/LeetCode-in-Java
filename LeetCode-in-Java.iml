@@ -355,6 +355,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1962.remove-stones-to-minimize-the-total" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1834.single-threaded-cpu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0980.unique-paths-iii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0290.word-pattern" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
