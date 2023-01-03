@@ -357,6 +357,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0980.unique-paths-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0290.word-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0520.detect-capital" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0944.delete-columns-to-make-sorted" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
