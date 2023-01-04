@@ -358,6 +358,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0290.word-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0520.detect-capital" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0944.delete-columns-to-make-sorted" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2244.minimum-rounds-to-complete-all-tasks" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
