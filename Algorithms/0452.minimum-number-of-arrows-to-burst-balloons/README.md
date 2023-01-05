@@ -35,6 +35,29 @@ Explanation: The balloons can be burst by 2 arrows:
 ```
 
 ## Solutions
-1. [Greedy](./MinimumNumberOfArrowsToBurstBalloons.java)
-    - Runtime: faster than 8.35%.
-    - Memory usage: less than 17.04%
+### [Sorting + Greedy](MinimumNumberOfArrowsToBurstBalloons.java)
+
+Idea: We can sort balloons based on the end position. When we shot an arrow from the end position, the next intervals don’t contain this position will be counted as another shot. (Greedy).
+
+```java
+class Solution {
+    public int findMinArrowShots(int[][] points) {
+        if (points.length == 0)
+            return 0;
+        Arrays.sort(points, Comparator.comparingInt(p -> p[1]));
+        int ans = 1, end = points[0][1];
+        for (int i = 1; i < points.length; i++) {
+            if (points[i][0] > end) {
+                ans++;
+                end = points[i][1];
+            }
+        }
+        return ans;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n\log n)$. The time complexity of sorting is $O(n\log n)$ and the iteration is $O(n)$. The total time complexity is $O(n\log n)$.
+- Space Complexity: $O(\log n)$. The space of sort stack is $O(\log n)$.
