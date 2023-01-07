@@ -360,6 +360,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0944.delete-columns-to-make-sorted" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2244.minimum-rounds-to-complete-all-tasks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1833.maximum-ice-cream-bars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0134.gas-station" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
