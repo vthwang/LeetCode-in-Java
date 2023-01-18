@@ -363,6 +363,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0134.gas-station" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2246.longest-path-with-different-adjacent-characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1061.lexicographically-smallest-equivalent-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0926.flip-string-to-monotone-increasing" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
