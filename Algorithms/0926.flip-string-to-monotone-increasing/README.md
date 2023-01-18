@@ -33,7 +33,7 @@ Explanation: We flip to get 00000000.
 ## Solutions
 ### [Dynamic Programming](FlipStringToMonotoneIncreasing.java)
 
-Idea: If the current number is 1, the previous number can be 0 and 1. However, if the current number is 0, the previous number can only be 0. Thus, when the current number is 1, we need to add 1 to dp0 because we want to flip this number to 0, and vice versa. In the last step, the minimum number of dp0 and dp1 is the least number of flip string to monotone increasing.
+Idea: If the current number is 1, the previous number can be 0 and 1. However, if the current number is 0, the previous number can only be 0. Thus, when the current number is 1, we need to add 1 to dp0 because we want to flip this number to 0, and vice versa. In the last step, the minimum number of dp0 and dp1 is the least number of flipping string to monotone increasing.
 
 ```java
 class Solution {
