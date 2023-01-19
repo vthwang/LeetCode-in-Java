@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"io/ioutil"
+	"io"
 	"log"
 	"net/http"
 	"time"
@@ -36,7 +36,7 @@ func getRaw(URL string) []byte {
 		log.Fatal("getRaw: Get Error: " + err.Error())
 	}
 
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		log.Fatal("getRaw: Read Error: " + err.Error())
 	}
@@ -57,7 +57,7 @@ func getGraphql(URL string, body map[string]string) []byte {
 		log.Fatal("❌ The HTTP request failed with error: ", err.Error())
 	}
 
-	data, _ := ioutil.ReadAll(resp.Body)
+	data, _ := io.ReadAll(resp.Body)
 
 	return data
 }
@@ -89,7 +89,7 @@ func getProblemsGraphql(p problem) (string, string) {
 		log.Fatal("❌ Get question failed. code: " + resp.Status)
 	}
 
-	respBytes, err := ioutil.ReadAll(resp.Body)
+	respBytes, err := io.ReadAll(resp.Body)
 	if err != nil {
 		log.Fatal("❌ getGraphql - Read Error: " + err.Error())
 	}

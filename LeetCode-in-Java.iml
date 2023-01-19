@@ -364,6 +364,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2246.longest-path-with-different-adjacent-characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1061.lexicographically-smallest-equivalent-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0926.flip-string-to-monotone-increasing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0974.subarray-sums-divisible-by-k" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

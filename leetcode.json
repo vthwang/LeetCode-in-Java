@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 112100,
-	"Updated": "2023-01-19T16:24:23.755101-05:00",
+	"Updated": "2023-01-19T17:14:46.856893-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 107,
 			"Total": 481
 		},
 		"Medium": {
-			"Solved": 215,
+			"Solved": 216,
 			"Total": 1023
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 451
 		},
 		"Total": {
-			"Solved": 364,
+			"Solved": 365,
 			"Total": 1955
 		}
 	},
@@ -10741,7 +10741,7 @@
 			"TitleSlug": "subarray-sums-divisible-by-k",
 			"PassRate": "54%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -27893,7 +27893,7 @@
 			"IsAccepted": false,
 			"IsPaid": true,
 			"IsFavor": false,
-			"IsNew": true
+			"IsNew": false
 		},
 		{
 			"ID": 2534,
