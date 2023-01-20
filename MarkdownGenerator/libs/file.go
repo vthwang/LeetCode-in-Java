@@ -1,7 +1,7 @@
 package libs
 
 import (
-	"io/ioutil"
+	"io"
 	"log"
 	"os"
 )
@@ -14,7 +14,7 @@ func Exist(filename string) bool {
 }
 
 func Write(path, content string) {
-	err := ioutil.WriteFile(path, []byte(content), 0755)
+	err := os.WriteFile(path, []byte(content), 0755)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -27,6 +27,6 @@ func Read(path string) []byte {
 	}
 	defer file.Close()
 
-	data, err := ioutil.ReadAll(file)
+	data, err := io.ReadAll(file)
 	return data
 }

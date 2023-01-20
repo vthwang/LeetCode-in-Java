@@ -5,7 +5,6 @@ import (
 	"errors"
 	"fmt"
 	thousands "github.com/floscodes/golang-thousands"
-	"io/ioutil"
 	"log"
 	"os"
 	"strconv"
@@ -41,7 +40,7 @@ func newLeetCode() *leetcode {
 }
 
 func readLeetCode() (*leetcode, error) {
-	data, err := ioutil.ReadFile(leetcodeJSON)
+	data, err := os.ReadFile(leetcodeJSON)
 	if err != nil {
 		return nil, errors.New("❌ Failed to read leetcode.json: " + err.Error())
 	}
@@ -63,7 +62,7 @@ func (lc *leetcode) save() {
 	if err != nil {
 		log.Fatal("❌ Failed to  make json to []bytes: ", err)
 	}
-	if err = ioutil.WriteFile(leetcodeJSON, raw, 0666); err != nil {
+	if err = os.WriteFile(leetcodeJSON, raw, 0666); err != nil {
 		log.Fatal("Failed to save marshalled LeetCode to file: ", err)
 	}
 	log.Println("Saved latest Leetcode record. ✅ ")
