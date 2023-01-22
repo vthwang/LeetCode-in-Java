@@ -366,6 +366,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0926.flip-string-to-monotone-increasing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0974.subarray-sums-divisible-by-k" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0093.restore-ip-addresses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0997.find-the-town-judge" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
