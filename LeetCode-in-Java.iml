@@ -368,6 +368,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0093.restore-ip-addresses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0997.find-the-town-judge" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0131.palindrome-partitioning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2359.find-closest-node-to-given-two-nodes" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
