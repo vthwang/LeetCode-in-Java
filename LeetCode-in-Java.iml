@@ -371,6 +371,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2359.find-closest-node-to-given-two-nodes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0787.cheapest-flights-within-k-stops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0472.concatenated-words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0352.data-stream-as-disjoint-intervals" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
