@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 107111,
-	"Updated": "2023-01-30T13:32:14.032527-05:00",
+	"Updated": "2023-01-30T14:53:13.724176-05:00",
 	"Record": {
 		"Easy": {
-			"Solved": 108,
+			"Solved": 109,
 			"Total": 484
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 455
 		},
 		"Total": {
-			"Solved": 375,
+			"Solved": 376,
 			"Total": 1967
 		}
 	},
@@ -12534,7 +12534,7 @@
 			"TitleSlug": "n-th-tribonacci-number",
 			"PassRate": "63%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -17163,7 +17163,7 @@
 			"ID": 1558,
 			"Title": "Minimum Numbers of Function Calls to Make Target Array",
 			"TitleSlug": "minimum-numbers-of-function-calls-to-make-target-array",
-			"PassRate": "64%",
+			"PassRate": "63%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -21838,7 +21838,7 @@
 			"ID": 1983,
 			"Title": "Widest Pair of Indices With Equal Range Sum",
 			"TitleSlug": "widest-pair-of-indices-with-equal-range-sum",
-			"PassRate": "54%",
+			"PassRate": "53%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -25743,7 +25743,7 @@
 			"ID": 2338,
 			"Title": "Count the Number of Ideal Arrays",
 			"TitleSlug": "count-the-number-of-ideal-arrays",
-			"PassRate": "25%",
+			"PassRate": "26%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27151,7 +27151,7 @@
 			"ID": 2466,
 			"Title": "Count Ways To Build Good Strings",
 			"TitleSlug": "count-ways-to-build-good-strings",
-			"PassRate": "41%",
+			"PassRate": "42%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
