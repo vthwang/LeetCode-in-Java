@@ -374,6 +374,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0352.data-stream-as-disjoint-intervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0460.lfu-cache" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1137.n-th-tribonacci-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1626.best-team-with-no-conflicts" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
