@@ -376,6 +376,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1137.n-th-tribonacci-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1626.best-team-with-no-conflicts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1071.greatest-common-divisor-of-strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0953.verifying-an-alien-dictionary" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
