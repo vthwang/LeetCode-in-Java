@@ -378,6 +378,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1071.greatest-common-divisor-of-strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0953.verifying-an-alien-dictionary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0006.zigzag-conversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1470.shuffle-the-array" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
