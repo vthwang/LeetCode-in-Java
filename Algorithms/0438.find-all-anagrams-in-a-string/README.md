@@ -26,6 +26,43 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 ```
 
 ## Solutions
-1. [Sliding Window](./FindAllAnagramsInAString.java)
-    - Runtime: faster than 32.61%.
-    - Memory usage: less than 36.69%.
+### [Sliding Window](FindAllAnagramsInAString.java)
+
+Idea: We use sliding window to iterate `p` size string in `s`. Then we can find the indices of anagram strings.
+
+```java
+class Solution {
+    public List<Integer> findAnagrams(String s, String p) {
+        int n = s.length(), m = p.length();
+
+        if (n < m)
+            return new ArrayList<>();
+
+        List<Integer> res = new ArrayList<>();
+        int[] sCount = new int[26];
+        int[] pCount = new int[26];
+        for (int i = 0; i < m; i++) {
+            sCount[s.charAt(i) - 'a']++;
+            pCount[p.charAt(i) - 'a']++;
+        }
+
+        if (Arrays.equals(sCount, pCount))
+            res.add(0);
+
+        for (int i = 0; i < n - m; i++) {
+            sCount[s.charAt(i) - 'a']--;
+            sCount[s.charAt(i + m) - 'a']++;
+
+            if (Arrays.equals(sCount, pCount))
+                res.add(i + 1);
+        }
+
+        return res;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n-m)$. $n$ is the length of `s` and $m$ is the length of `p`. The first loop costs $O(n)$ and the second loop costs $O(26\times(n-m))$. The total time complexity is $O(26n-25m)=O(n-m)$.
+- Space Complexity: $O(1)$. The size of `sCount` and `pCount` is 26 which is constant. Thus, the total space complexity is $O(1)$.

@@ -1,41 +1,29 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 class FindAllAnagramsInAString {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> res = new ArrayList<>();
-        if (s.length() < p.length()) return res;
+        int n = s.length(), m = p.length();
 
-        Map<Character, Integer> map = new HashMap<>();
-        for (char c : p.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+        if (n < m)
+            return new ArrayList<>();
+
+        List<Integer> res = new ArrayList<>();
+        int[] sCount = new int[26];
+        int[] pCount = new int[26];
+        for (int i = 0; i < m; i++) {
+            sCount[s.charAt(i) - 'a']++;
+            pCount[p.charAt(i) - 'a']++;
         }
 
-        int toBeMatched = map.size();
-        int start = 0, end = 0;
+        if (Arrays.equals(sCount, pCount))
+            res.add(0);
 
-        while (end < s.length()) {
-            char eChar = s.charAt(end);
-            if (map.containsKey(eChar)) {
-                int count = map.get(eChar);
-                if (count == 1) toBeMatched--;
-                map.put(eChar, count - 1);
-            }
-            end++;
+        for (int i = 0; i < n - m; i++) {
+            sCount[s.charAt(i) - 'a']--;
+            sCount[s.charAt(i + m) - 'a']++;
 
-            if (end - start > p.length()) {
-                char sChar = s.charAt(start);
-                if (map.containsKey(sChar)) {
-                    int count = map.get(sChar);
-                    if (count == 0) toBeMatched++;
-                    map.put(sChar, count + 1);
-                }
-                start++;
-            }
-
-            if (toBeMatched == 0) res.add(start);
+            if (Arrays.equals(sCount, pCount))
+                res.add(i + 1);
         }
 
         return res;
