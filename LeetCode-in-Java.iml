@@ -381,6 +381,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1470.shuffle-the-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0904.fruit-into-baskets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0045.jump-game-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2477.minimum-fuel-cost-to-report-to-the-capital" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
