@@ -384,6 +384,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2477.minimum-fuel-cost-to-report-to-the-capital" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1523.count-odd-numbers-in-an-interval-range" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0067.add-binary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0989.add-to-array-form-of-integer" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
