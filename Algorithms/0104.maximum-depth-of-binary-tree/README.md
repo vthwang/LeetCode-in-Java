@@ -21,6 +21,20 @@ Output: 2
 ```
 
 ## Solutions
-1. [Recursion](./MaximumDepthOfBinaryTree.java)
-    - Runtime: faster than 100%.
-    - Memory usage: less than 39.2%.
+### [DFS](MaximumDepthOfBinaryTree.java)
+
+Idea: Use recursion to find the maximum depth.
+
+```java
+class Solution {
+    public int maxDepth(TreeNode root) {
+        if (root == null) return 0;
+        return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the amount of the nodes.
+- Space Complexity: $O(h)$. $h$ is the height of the tree.
