@@ -28,6 +28,23 @@ Output: []
 ```
 
 ## Solutions
-1. [Recursion](./InvertBinaryTree.java)
-    - Runtime: faster than 100%.
-    - Memory usage: less than 93.7%.
+### [DFS](InvertBinaryTree.java)
+
+Idea: Using DFS to reverse the left and right nodes one by one.
+
+```java
+class Solution {
+    public TreeNode invertTree(TreeNode root) {
+        if (root == null) return null;
+        TreeNode left = root.left;
+        root.left = invertTree(root.right);
+        root.right = invertTree(left);
+        return root;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the nodes in the tree.
+- Space Complexity: $O(n)$.
