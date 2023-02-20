@@ -26,6 +26,25 @@ Output: 4
 ```
 
 ## Solutions
-1. [Binary Search](./SearchInsertPosition.java)
-    - Runtime: faster than 100%.
-    - Memory usage: less than 42.42%
+### [Binary Search](SearchInsertPosition.java)
+
+Idea: Use binary search to find the target.
+
+```java
+class Solution {
+    public int searchInsert(int[] nums, int target) {
+        int l = 0, h = nums.length;
+        while (l < h) {
+            int m = l + (h - l) / 2;
+            if (nums[m] >= target) h = m;
+            else l = m + 1;
+        }
+        return l;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(\log n)$. $n$ is the length of `nums`.
+- Space Complexity: $O(1)$.
