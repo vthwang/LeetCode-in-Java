@@ -21,6 +21,29 @@ Output: 10
 ```
 
 ## Solutions
-1. [Binary Search Algorithm](./SingleElementInASortedArray.java)
-    - Runtime: faster than 100%.
-    - Memory usage: less than 55.29%
+### [Binary Search](SingleElementInASortedArray.java)
+
+Idea: If mid value is odd and `nums[m - 1]` equals `nums[m]`, it means previous value are pairs. Also, if mid value is even and `nums[m]` equals `nums[m + 1]`, it means previous value are pairs, too. As the result, we can use binary search to find the single value without duplicate.
+
+```java
+class Solution {
+    public int singleNonDuplicate(int[] nums) {
+        int l = 0, h = nums.length - 1;
+        while (l < h) {
+            int m = l + (h - l) / 2;
+            if (m % 2 == 1)
+                m--;
+            if (nums[m] == nums[m + 1])
+                l = m + 2;
+            else
+                h = m;
+        }
+        return nums[l];
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(\log n)$.
+- Space Complexity: $O(1)$.
