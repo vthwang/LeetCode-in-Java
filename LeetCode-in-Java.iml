@@ -387,6 +387,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0989.add-to-array-form-of-integer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0783.minimum-distance-between-bst-nodes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0103.binary-tree-zigzag-level-order-traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1011.capacity-to-ship-packages-within-d-days" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
