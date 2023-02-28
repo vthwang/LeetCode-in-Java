@@ -391,6 +391,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0502.ipo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1675.minimize-deviation-in-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0427.construct-quad-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0652.find-duplicate-subtrees" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
