@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 96868,
-	"Updated": "2023-03-02T12:29:34.763393-05:00",
+	"Updated": "2023-03-02T14:33:53.953666-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 116,
 			"Total": 490
 		},
 		"Medium": {
-			"Solved": 236,
+			"Solved": 237,
 			"Total": 1041
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 460
 		},
 		"Total": {
-			"Solved": 401,
+			"Solved": 402,
 			"Total": 1991
 		}
 	},
@@ -4900,7 +4900,7 @@
 			"TitleSlug": "string-compression",
 			"PassRate": "51%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -19759,7 +19759,7 @@
 			"ID": 1794,
 			"Title": "Count Pairs of Equal Substrings With Minimum Difference",
 			"TitleSlug": "count-pairs-of-equal-substrings-with-minimum-difference",
-			"PassRate": "65%",
+			"PassRate": "64%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -22443,7 +22443,7 @@
 			"ID": 2038,
 			"Title": "Remove Colored Pieces if Both Neighbors are the Same Color",
 			"TitleSlug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -25512,7 +25512,7 @@
 			"ID": 2317,
 			"Title": "Maximum XOR After Operations ",
 			"TitleSlug": "maximum-xor-after-operations",
-			"PassRate": "78%",
+			"PassRate": "79%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

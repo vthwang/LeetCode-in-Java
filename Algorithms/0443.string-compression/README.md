@@ -34,7 +34,38 @@ Explanation: The only group is "a", which remains uncompressed since it's a sing
 ```
 Input: chars = ["a","b","b","b","b","b","b","b","b","b","b","b","b"]
 Output: Return 4, and the first 4 characters of the input array should be: ["a","b","1","2"].
-Explanation: The groups are "a" and "bbbbbbbbbbbb". This compresses to "ab12".```
+Explanation: The groups are "a" and "bbbbbbbbbbbb". This compresses to "ab12".
+```
 
 ## Solutions
+### [Two Pointers](StringCompression.java)
 
+Idea: We use two pointers to compress the chars. When we found the different letters or the char is the last char, we can compress them into numbers.
+
+```java
+class Solution {
+    public int compress(char[] chars) {
+        int n = chars.length;
+        int write = 0, left = 0;
+        for (int read = 0; read < n; read++) {
+            if (read == n - 1 || chars[read] != chars[read + 1]) {
+                chars[write++] = chars[read];
+                int cnt = read - left + 1;
+                if (cnt > 1) {
+                    String str = String.valueOf(cnt);
+                    for (int i = 0; i < str.length(); i++) {
+                        chars[write++] = str.charAt(i);
+                    }
+                }
+                left = read + 1;
+            }
+        }
+        return write;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(n)$. $n$ is the length of `chars`.
+- Space Complexity: $O(1)$.
