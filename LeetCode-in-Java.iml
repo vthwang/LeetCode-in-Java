@@ -394,6 +394,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0652.find-duplicate-subtrees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0912.sort-an-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0443.string-compression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0028.find-the-index-of-the-first-occurrence-in-a-string" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
