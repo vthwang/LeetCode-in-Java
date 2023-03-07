@@ -396,6 +396,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0443.string-compression" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0028.find-the-index-of-the-first-occurrence-in-a-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1539.kth-missing-positive-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2187.minimum-time-to-complete-trips" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
