@@ -399,6 +399,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2187.minimum-time-to-complete-trips" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0129.sum-root-to-leaf-numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0958.check-completeness-of-a-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0106.construct-binary-tree-from-inorder-and-postorder-traversal" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

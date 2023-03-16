@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 93716,
-	"Updated": "2023-03-16T16:52:19.975514-04:00",
+	"Updated": "2023-03-16T17:18:01.473132-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 118,
 			"Total": 494
 		},
 		"Medium": {
-			"Solved": 242,
+			"Solved": 243,
 			"Total": 1045
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 464
 		},
 		"Total": {
-			"Solved": 412,
+			"Solved": 413,
 			"Total": 2003
 		}
 	},
@@ -1193,7 +1193,7 @@
 			"TitleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
 			"PassRate": "59%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
