@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 93716,
-	"Updated": "2023-03-16T16:34:08.397534-04:00",
+	"Updated": "2023-03-16T16:52:19.975514-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 118,
 			"Total": 494
 		},
 		"Medium": {
-			"Solved": 241,
+			"Solved": 242,
 			"Total": 1045
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 464
 		},
 		"Total": {
-			"Solved": 411,
+			"Solved": 412,
 			"Total": 2003
 		}
 	},
@@ -10565,7 +10565,7 @@
 			"TitleSlug": "check-completeness-of-a-binary-tree",
 			"PassRate": "56%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -27987,7 +27987,7 @@
 			"ID": 2542,
 			"Title": "Maximum Subsequence Score",
 			"TitleSlug": "maximum-subsequence-score",
-			"PassRate": "37%",
+			"PassRate": "38%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
