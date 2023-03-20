@@ -401,6 +401,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0958.check-completeness-of-a-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0106.construct-binary-tree-from-inorder-and-postorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1472.design-browser-history" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0211.design-add-and-search-words-data-structure" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>

@@ -19,6 +19,38 @@ Output: false
 ```
 
 ## Solutions
-1. [Greedy](./CanPlaceFlowers.java)
-    - Runtime: faster than 36.30%.
-    - Memory usage: less than 62.42%
+### [Greedy](CanPlaceFlowers.java)
+
+Idea: We use `prev` to determine which interval can plant the flower. Once we found a plated plot, we add the amount that can be planted to `counts`.
+
+```java
+class Solution {
+    public boolean canPlaceFlowers(int[] flowerbed, int n) {
+        int count = 0, m = flowerbed.length, prev = -1;
+        for (int i = 0; i < m; i++) {
+            if (flowerbed[i] == 1) {
+                if (prev < 0) {
+                    count += i / 2;
+                } else {
+                    count += (i - prev - 2) / 2;
+                }
+                if (count >= n) {
+                    return true;
+                }
+                prev = i;
+            }
+        }
+        if (prev < 0) {
+            count += (m + 1) / 2;
+        } else {
+            count += (m - prev - 1) / 2;
+        }
+        return count >= n;
+    }
+}
+```
+
+Complexity Analysis:
+
+- Time Complexity: $O(m)$. $m$ is the length of `flowerbed`.
+- Space Complexity: $O(1)$.

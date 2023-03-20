@@ -1,17 +1,24 @@
 class CanPlaceFlowers {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
-        int len = flowerbed.length, cnt = 0;
-        for (int i = 0; i < len && cnt < n; i++) {
+        int count = 0, m = flowerbed.length, prev = -1;
+        for (int i = 0; i < m; i++) {
             if (flowerbed[i] == 1) {
-                continue;
-            }
-            int pre = i == 0 ? 0 : flowerbed[i - 1];
-            int next = i == len - 1 ? 0 : flowerbed[i + 1];
-            if (pre == 0 && next == 0) {
-                cnt++;
-                flowerbed[i] = 1;
+                if (prev < 0) {
+                    count += i / 2;
+                } else {
+                    count += (i - prev - 2) / 2;
+                }
+                if (count >= n) {
+                    return true;
+                }
+                prev = i;
             }
         }
-        return cnt >= n;
+        if (prev < 0) {
+            count += (m + 1) / 2;
+        } else {
+            count += (m - prev - 1) / 2;
+        }
+        return count >= n;
     }
 }
