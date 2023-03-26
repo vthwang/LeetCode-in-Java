@@ -405,6 +405,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2348.number-of-zero-filled-subarrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2492.minimum-score-of-a-path-between-two-cities" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1319.number-of-operations-to-make-network-connected" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1466.reorder-routes-to-make-all-paths-lead-to-the-city-zero" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
