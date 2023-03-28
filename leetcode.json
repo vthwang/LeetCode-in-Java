@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 89211,
-	"Updated": "2023-03-28T15:49:30.718739-04:00",
+	"Updated": "2023-03-28T16:46:45.227491-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 118,
 			"Total": 497
 		},
 		"Medium": {
-			"Solved": 251,
+			"Solved": 252,
 			"Total": 1053
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 465
 		},
 		"Total": {
-			"Solved": 422,
+			"Solved": 423,
 			"Total": 2015
 		}
 	},
@@ -5745,7 +5745,7 @@
 			"ID": 520,
 			"Title": "Detect Capital",
 			"TitleSlug": "detect-capital",
-			"PassRate": "57%",
+			"PassRate": "56%",
 			"Difficulty": "Easy",
 			"IsAccepted": true,
 			"IsPaid": false,
@@ -10840,7 +10840,7 @@
 			"TitleSlug": "minimum-cost-for-tickets",
 			"PassRate": "65%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
