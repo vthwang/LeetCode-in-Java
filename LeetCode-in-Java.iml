@@ -409,6 +409,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0983.minimum-cost-for-tickets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1402.reducing-dishes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0087.scramble-string" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
