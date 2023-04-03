@@ -411,6 +411,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1402.reducing-dishes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0087.scramble-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2300.successful-pairs-of-spells-and-potions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0881.boats-to-save-people" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
