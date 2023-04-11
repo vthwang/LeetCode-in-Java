@@ -414,6 +414,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0881.boats-to-save-people" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2405.optimal-partition-of-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1254.number-of-closed-islands" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0133.clone-graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1857.largest-color-value-in-a-directed-graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/2390.removing-stars-from-a-string" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
