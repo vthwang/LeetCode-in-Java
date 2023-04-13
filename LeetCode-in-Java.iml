@@ -418,6 +418,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1857.largest-color-value-in-a-directed-graph" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2390.removing-stars-from-a-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0071.simplify-path" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/0946.validate-stack-sequences" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
