@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 84063,
-	"Updated": "2023-04-17T12:55:07.660561-04:00",
+	"Updated": "2023-04-17T12:57:53.705672-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 119,
@@ -12,11 +12,11 @@
 			"Total": 1062
 		},
 		"Hard": {
-			"Solved": 57,
+			"Solved": 58,
 			"Total": 470
 		},
 		"Total": {
-			"Solved": 439,
+			"Solved": 440,
 			"Total": 2035
 		}
 	},
@@ -18056,7 +18056,7 @@
 			"TitleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
 			"PassRate": "54%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
