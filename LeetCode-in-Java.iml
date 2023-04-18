@@ -421,6 +421,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0946.validate-stack-sequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0516.longest-palindromic-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1431.kids-with-the-greatest-number-of-candies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1768.merge-strings-alternately" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
