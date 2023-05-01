@@ -425,6 +425,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1372.longest-zigzag-path-in-a-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0662.maximum-width-of-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0258.add-digits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1491.average-salary-excluding-the-minimum-and-maximum-salary" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
