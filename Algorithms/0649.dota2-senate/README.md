@@ -39,7 +39,7 @@ And in round 2, the third senator can just announce the victory since he is the 
 ## Solutions
 ### [Greedy + Queue](Dota2Senate.java)
 
-Idea: Put the vote sequence in the queue. If a senate ban other senate, we can put it back to the queue for the second round’s vote. Finally, if one the queues is empty, then we can announce the other queue is the victory party.
+Idea: Put the vote sequence in the queue. If a senate ban other senate, we can put it back to the queue for the second round’s vote. Finally, if one of the queues is empty, then we can announce the other queue is the victory party.
 
 ```java
 class Solution {
