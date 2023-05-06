@@ -1,14 +1,14 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 77970,
-	"Updated": "2023-05-06T14:53:53.253794-04:00",
+	"Updated": "2023-05-06T17:13:04.225374-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 124,
 			"Total": 507
 		},
 		"Medium": {
-			"Solved": 269,
+			"Solved": 270,
 			"Total": 1068
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 472
 		},
 		"Total": {
-			"Solved": 457,
+			"Solved": 458,
 			"Total": 2047
 		}
 	},
@@ -16107,7 +16107,7 @@
 			"ID": 1462,
 			"Title": "Course Schedule IV",
 			"TitleSlug": "course-schedule-iv",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -16505,7 +16505,7 @@
 			"TitleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
 			"PassRate": "44%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24885,7 +24885,7 @@
 			"ID": 2260,
 			"Title": "Minimum Consecutive Cards to Pick Up",
 			"TitleSlug": "minimum-consecutive-cards-to-pick-up",
-			"PassRate": "51%",
+			"PassRate": "50%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -29241,7 +29241,7 @@
 			"ID": 2656,
 			"Title": "Maximum Sum With Exactly K Elements ",
 			"TitleSlug": "maximum-sum-with-exactly-k-elements",
-			"PassRate": "83%",
+			"PassRate": "82%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

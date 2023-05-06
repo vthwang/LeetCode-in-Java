@@ -430,6 +430,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/2215.find-the-difference-of-two-arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/0649.dota2-senate" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/1456.maximum-number-of-vowels-in-a-substring-of-given-length" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/1498.number-of-subsequences-that-satisfy-the-given-sum-condition" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/leetcode" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
     </content>
