@@ -1,10 +1,10 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 52357,
-	"Updated": "2023-09-25T10:08:31.16264-04:00",
+	"Updated": "2023-09-25T10:18:54.07899-04:00",
 	"Record": {
 		"Easy": {
-			"Solved": 146,
+			"Solved": 147,
 			"Total": 541
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 497
 		},
 		"Total": {
-			"Solved": 577,
+			"Solved": 578,
 			"Total": 2171
 		}
 	},
@@ -4306,7 +4306,7 @@
 			"TitleSlug": "find-the-difference",
 			"PassRate": "60%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
@@ -24962,7 +24962,7 @@
 			"ID": 2267,
 			"Title": " Check if There Is a Valid Parentheses String Path",
 			"TitleSlug": "check-if-there-is-a-valid-parentheses-string-path",
-			"PassRate": "37%",
+			"PassRate": "38%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -31540,7 +31540,7 @@
 			"ID": 2865,
 			"Title": "Beautiful Towers I",
 			"TitleSlug": "beautiful-towers-i",
-			"PassRate": "40%",
+			"PassRate": "41%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

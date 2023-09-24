@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-52,357-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-577-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-578-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,9 +11,9 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 146 | 337 | 94 | 577 |
+| **Accepted** | 147 | 337 | 94 | 578 |
 | **Total** | 541 | 1133 | 497 | 2171 |
-| **Coverage** | 26.99 % | 29.74 % | 18.91 % | 26.58 % |
+| **Coverage** | 27.17 % | 29.74 % | 18.91 % | 26.62 % |
 
 ## Solutions
 
@@ -21,7 +21,7 @@
 |:----:|:----:|:----:|:----:|:----:|
 |[2867](https://leetcode.com/problems/count-valid-paths-in-a-tree/)| * Count Valid Paths in a Tree|29%|Hard||
 |[2866](https://leetcode.com/problems/beautiful-towers-ii/)| * Beautiful Towers II|28%|Medium||
-|[2865](https://leetcode.com/problems/beautiful-towers-i/)| * Beautiful Towers I|40%|Medium||
+|[2865](https://leetcode.com/problems/beautiful-towers-i/)| * Beautiful Towers I|41%|Medium||
 |[2864](https://leetcode.com/problems/maximum-odd-binary-number/)| * Maximum Odd Binary Number|69%|Easy||
 |[2862](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/)| * Maximum Element-Sum of a Complete Subset of Indices|41%|Hard||
 |[2861](https://leetcode.com/problems/maximum-number-of-alloys/)| * Maximum Number of Alloys|36%|Medium||
@@ -451,7 +451,7 @@
 |[2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/)| * Maximum White Tiles Covered by a Carpet|33%|Medium||
 |[2270](https://leetcode.com/problems/number-of-ways-to-split-array/)| * Number of Ways to Split Array|46%|Medium||
 |[2269](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)| * Find the K-Beauty of a Number|58%|Easy||
-|[2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)| *  Check if There Is a Valid Parentheses String Path|37%|Hard||
+|[2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)| *  Check if There Is a Valid Parentheses String Path|38%|Hard||
 |[2266](https://leetcode.com/problems/count-number-of-texts/)| * Count Number of Texts|47%|Medium||
 |[2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| * Count Nodes Equal to Average of Subtree|84%|Medium||
 |[2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)| * Largest 3-Same-Digit Number in String|59%|Easy||
@@ -1888,7 +1888,7 @@
 |[0392](https://leetcode.com/problems/is-subsequence/)|[Is Subsequence](./Algorithms/0392.is-subsequence)|48%|Easy||
 |[0391](https://leetcode.com/problems/perfect-rectangle/)| * Perfect Rectangle|33%|Hard||
 |[0390](https://leetcode.com/problems/elimination-game/)| * Elimination Game|45%|Medium||
-|[0389](https://leetcode.com/problems/find-the-difference/)| * Find the Difference|60%|Easy||
+|[0389](https://leetcode.com/problems/find-the-difference/)|[Find the Difference](./Algorithms/0389.find-the-difference)|60%|Easy||
 |[0388](https://leetcode.com/problems/longest-absolute-file-path/)| * Longest Absolute File Path|46%|Medium||
 |[0387](https://leetcode.com/problems/first-unique-character-in-a-string/)|[First Unique Character in a String](./Algorithms/0387.first-unique-character-in-a-string)|60%|Easy||
 |[0386](https://leetcode.com/problems/lexicographical-numbers/)| * Lexicographical Numbers|62%|Medium||
