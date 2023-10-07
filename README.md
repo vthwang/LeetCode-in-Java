@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com) in Java Solutions
 
 [![LeetCode Ranking](https://img.shields.io/badge/TingSyuanWang-50,727-blue.svg)](https://leetcode.com/TingSyuanWang/)
-[![Solved](https://img.shields.io/badge/Solved-588-blue.svg)](https://leetcode.com/TingSyuanWang/)
+[![Solved](https://img.shields.io/badge/Solved-589-blue.svg)](https://leetcode.com/TingSyuanWang/)
  [![Java](https://img.shields.io/badge/Java-11-green.svg)](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
 ## Clone this repository
@@ -11,29 +11,29 @@
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 151 | 343 | 94 | 588 |
+| **Accepted** | 151 | 343 | 95 | 589 |
 | **Total** | 558 | 1138 | 498 | 2194 |
-| **Coverage** | 27.06 % | 30.14 % | 18.88 % | 26.80 % |
+| **Coverage** | 27.06 % | 30.14 % | 19.08 % | 26.85 % |
 
 ## Solutions
 
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
 |[2891](https://leetcode.com/problems/method-chaining/)| * Method Chaining|74%|Easy||
-|[2890](https://leetcode.com/problems/reshape-data-melt/)| * Reshape Data: Melt|87%|Easy||
+|[2890](https://leetcode.com/problems/reshape-data-melt/)| * Reshape Data: Melt|86%|Easy||
 |[2889](https://leetcode.com/problems/reshape-data-pivot/)| * Reshape Data: Pivot|82%|Easy||
-|[2888](https://leetcode.com/problems/reshape-data-concatenate/)| * Reshape Data: Concatenate|87%|Easy||
+|[2888](https://leetcode.com/problems/reshape-data-concatenate/)| * Reshape Data: Concatenate|88%|Easy||
 |[2887](https://leetcode.com/problems/fill-missing-data/)| * Fill Missing Data|89%|Easy||
 |[2886](https://leetcode.com/problems/change-data-type/)| * Change Data Type|84%|Easy||
 |[2885](https://leetcode.com/problems/rename-columns/)| * Rename Columns|88%|Easy||
-|[2884](https://leetcode.com/problems/modify-columns/)| * Modify Columns|91%|Easy||
+|[2884](https://leetcode.com/problems/modify-columns/)| * Modify Columns|90%|Easy||
 |[2883](https://leetcode.com/problems/drop-missing-data/)| * Drop Missing Data|87%|Easy||
-|[2882](https://leetcode.com/problems/drop-duplicate-rows/)| * Drop Duplicate Rows|84%|Easy||
-|[2881](https://leetcode.com/problems/create-a-new-column/)| * Create a New Column|91%|Easy||
-|[2880](https://leetcode.com/problems/select-data/)| * Select Data|79%|Easy||
-|[2879](https://leetcode.com/problems/display-the-first-three-rows/)| * Display the First Three Rows|91%|Easy||
+|[2882](https://leetcode.com/problems/drop-duplicate-rows/)| * Drop Duplicate Rows|82%|Easy||
+|[2881](https://leetcode.com/problems/create-a-new-column/)| * Create a New Column|90%|Easy||
+|[2880](https://leetcode.com/problems/select-data/)| * Select Data|78%|Easy||
+|[2879](https://leetcode.com/problems/display-the-first-three-rows/)| * Display the First Three Rows|92%|Easy||
 |[2878](https://leetcode.com/problems/get-the-size-of-a-dataframe/)| * Get the Size of a DataFrame|82%|Easy||
-|[2877](https://leetcode.com/problems/create-a-dataframe-from-list/)| * Create a DataFrame from List|81%|Easy||
+|[2877](https://leetcode.com/problems/create-a-dataframe-from-list/)| * Create a DataFrame from List|80%|Easy||
 |[2876](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/)| * Count Visited Nodes in a Directed Graph|30%|Hard||
 |[2875](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)| * Minimum Size Subarray in Infinite Array|30%|Medium||
 |[2874](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)| * Maximum Value of an Ordered Triplet II|40%|Medium||
@@ -122,7 +122,7 @@
 |[2750](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/)|[Ways to Split Array Into Good Subarrays](./Algorithms/2750.ways-to-split-array-into-good-subarrays)|32%|Medium||
 |[2749](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/)| * Minimum Operations to Make the Integer Zero|28%|Medium||
 |[2748](https://leetcode.com/problems/number-of-beautiful-pairs/)|[Number of Beautiful Pairs](./Algorithms/2748.number-of-beautiful-pairs)|48%|Easy||
-|[2747](https://leetcode.com/problems/count-zero-request-servers/)| * Count Zero Request Servers|30%|Medium||
+|[2747](https://leetcode.com/problems/count-zero-request-servers/)| * Count Zero Request Servers|31%|Medium||
 |[2746](https://leetcode.com/problems/decremental-string-concatenation/)| * Decremental String Concatenation|24%|Medium||
 |[2745](https://leetcode.com/problems/construct-the-longest-new-string/)|[Construct the Longest New String](./Algorithms/2745.construct-the-longest-new-string)|51%|Medium||
 |[2744](https://leetcode.com/problems/find-maximum-number-of-string-pairs/)|[Find Maximum Number of String Pairs](./Algorithms/2744.find-maximum-number-of-string-pairs)|80%|Easy||
@@ -1119,7 +1119,7 @@
 |[1424](https://leetcode.com/problems/diagonal-traverse-ii/)| * Diagonal Traverse II|50%|Medium||
 |[1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Maximum Points You Can Obtain from Cards](./Algorithms/1423.maximum-points-you-can-obtain-from-cards)|52%|Medium||
 |[1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)| * Maximum Score After Splitting a String|57%|Easy||
-|[1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)| * Build Array Where You Can Find The Maximum Exactly K Comparisons|62%|Hard||
+|[1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)|[Build Array Where You Can Find The Maximum Exactly K Comparisons](./Algorithms/1420.build-array-where-you-can-find-the-maximum-exactly-k-comparisons)|64%|Hard||
 |[1419](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)| * Minimum Number of Frogs Croaking|50%|Medium||
 |[1418](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)| * Display Table of Food Orders in a Restaurant|74%|Medium||
 |[1417](https://leetcode.com/problems/reformat-the-string/)| * Reformat The String|53%|Easy||
@@ -1521,7 +1521,7 @@
 |[0885](https://leetcode.com/problems/spiral-matrix-iii/)| * Spiral Matrix III|74%|Medium||
 |[0884](https://leetcode.com/problems/uncommon-words-from-two-sentences/)| * Uncommon Words from Two Sentences|66%|Easy||
 |[0883](https://leetcode.com/problems/projection-area-of-3d-shapes/)| * Projection Area of 3D Shapes|71%|Easy||
-|[0882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)| * Reachable Nodes In Subdivided Graph|49%|Hard||
+|[0882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)| * Reachable Nodes In Subdivided Graph|50%|Hard||
 |[0881](https://leetcode.com/problems/boats-to-save-people/)|[Boats to Save People](./Algorithms/0881.boats-to-save-people)|56%|Medium||
 |[0880](https://leetcode.com/problems/decoded-string-at-index/)|[Decoded String at Index](./Algorithms/0880.decoded-string-at-index)|36%|Medium||
 |[0879](https://leetcode.com/problems/profitable-schemes/)|[Profitable Schemes](./Algorithms/0879.profitable-schemes)|48%|Hard||
