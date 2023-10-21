@@ -1,7 +1,7 @@
 {
 	"Username": "TingSyuanWang",
 	"Ranking": 48653,
-	"Updated": "2023-10-21T22:35:44.700664-04:00",
+	"Updated": "2023-10-21T22:38:51.478807-04:00",
 	"Record": {
 		"Easy": {
 			"Solved": 152,
@@ -12,11 +12,11 @@
 			"Total": 1145
 		},
 		"Hard": {
-			"Solved": 103,
+			"Solved": 104,
 			"Total": 500
 		},
 		"Total": {
-			"Solved": 601,
+			"Solved": 602,
 			"Total": 2206
 		}
 	},
@@ -19750,7 +19750,7 @@
 			"TitleSlug": "maximum-score-of-a-good-subarray",
 			"PassRate": "55%",
 			"Difficulty": "Hard",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false
