@@ -1,7 +1,7 @@
 {
 	"Username": "vthwang",
 	"Ranking": 42713,
-	"Updated": "2023-12-15T21:01:39.35015-05:00",
+	"Updated": "2023-12-15T23:37:09.891476-05:00",
 	"Record": {
 		"Easy": {
 			"Solved": 164,
@@ -17801,7 +17801,7 @@
 			"ID": 1616,
 			"Title": "Split Two Strings to Make Palindrome",
 			"TitleSlug": "split-two-strings-to-make-palindrome",
-			"PassRate": "30%",
+			"PassRate": "31%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -27327,7 +27327,7 @@
 			"ID": 2482,
 			"Title": "Difference Between Ones and Zeros in Row and Column",
 			"TitleSlug": "difference-between-ones-and-zeros-in-row-and-column",
-			"PassRate": "85%",
+			"PassRate": "84%",
 			"Difficulty": "Medium",
 			"IsAccepted": true,
 			"IsPaid": false,

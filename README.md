@@ -349,7 +349,7 @@
 |[2485](https://leetcode.com/problems/find-the-pivot-integer/)| * Find the Pivot Integer|79%|Easy||
 |[2484](https://leetcode.com/problems/count-palindromic-subsequences/)| * Count Palindromic Subsequences|36%|Hard||
 |[2483](https://leetcode.com/problems/minimum-penalty-for-a-shop/)|[Minimum Penalty for a Shop](./Algorithms/2483.minimum-penalty-for-a-shop)|67%|Medium||
-|[2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[Difference Between Ones and Zeros in Row and Column](./Algorithms/2482.difference-between-ones-and-zeros-in-row-and-column)|85%|Medium||
+|[2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[Difference Between Ones and Zeros in Row and Column](./Algorithms/2482.difference-between-ones-and-zeros-in-row-and-column)|84%|Medium||
 |[2481](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)| * Minimum Cuts to Divide a Circle|52%|Easy||
 |[2478](https://leetcode.com/problems/number-of-beautiful-partitions/)| * Number of Beautiful Partitions|30%|Hard||
 |[2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)|[Minimum Fuel Cost to Report to the Capital](./Algorithms/2477.minimum-fuel-cost-to-report-to-the-capital)|65%|Medium||
@@ -1017,7 +1017,7 @@
 |[1620](https://leetcode.com/problems/coordinate-with-maximum-network-quality/)| * Coordinate With Maximum Network Quality|37%|Medium||
 |[1619](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)| * Mean of Array After Removing Some Elements|67%|Easy||
 |[1617](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)| * Count Subtrees With Max Distance Between Cities|65%|Hard||
-|[1616](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)| * Split Two Strings to Make Palindrome|30%|Medium||
+|[1616](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)| * Split Two Strings to Make Palindrome|31%|Medium||
 |[1615](https://leetcode.com/problems/maximal-network-rank/)|[Maximal Network Rank](./Algorithms/1615.maximal-network-rank)|65%|Medium||
 |[1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| * Maximum Nesting Depth of the Parentheses|81%|Easy||
 |[1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)|[Minimum One Bit Operations to Make Integers Zero](./Algorithms/1611.minimum-one-bit-operations-to-make-integers-zero)|74%|Hard||
